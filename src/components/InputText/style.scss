@@ -1,0 +1,41 @@
+.panda-input-field {
+  margin: 5px 0;
+  width : var(--panda-input-field-width);
+  color : var(--panda-input-field-text-color);
+
+  .label {
+    font-size  : 12px;
+    display    : flex;
+    user-select: none;
+  }
+
+  .edit-field-part {
+    border       : 1px solid var(--panda-input-field-color);
+    border-radius: 5px;
+    display      : flex;
+    flex-wrap    : nowrap;
+
+    .input-field {
+      padding: 5px;
+      flex   : 1;
+
+      input {
+        border          : none;
+        width           : 100%;
+        font-size       : 14px;
+        background-color: transparent;
+        color           : var(--panda-input-field-text-color);
+
+        &:focus {
+          outline: none;
+        }
+      }
+    }
+
+    .appened {
+      padding         : 5px;
+      color           : white;
+      background-color: var(--primary-color);
+    }
+  }
+}

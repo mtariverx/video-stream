@@ -1,0 +1,82 @@
+.panda-modal {
+  top             : 0;
+  left            : 0;
+  width           : 100vw;
+  height          : 100vh;
+  background-color: rgba($color: #000000, $alpha: 0.5);
+  z-index         : 1001;
+  align-items     : center;
+  display         : flex;
+  position        : fixed;
+
+  .modal-content {
+    margin          : 0 auto;
+    width           : var(--panda-modal-width);
+    min-width       : 300px;
+    height          : auto;
+    padding         : 10px 10px 10px 10px;
+    background-color: #ffffff;
+    z-index         : 1002;
+    border-radius   : 5px;
+    text-align      : center;
+    position        : relative;
+    background-color: var(--panda-modal-background-color);
+    color           : var(--panda-modal-text-color);
+    max-height      : 80vh;
+    overflow-y      : auto;
+
+    .scroll-contain {
+      min-height: 50vh;
+      min-width : 80vw;
+    }
+
+    .subject {
+      font-size  : 1.2rem;
+      font-weight: 600;
+      user-select: none;
+    }
+
+    .actions {
+      display        : flex;
+      justify-content: flex-end;
+      align-items    : center;
+
+      .panda-button+.panda-button {
+        margin-left: 5px;
+      }
+    }
+
+    .close-action {
+      position: absolute;
+      right   : 10px;
+      cursor  : pointer;
+    }
+
+    .loading-overlay {
+      width           : 100%;
+      height          : 100%;
+      position        : absolute;
+      display         : flex;
+      justify-content : center;
+      align-items     : center;
+      background-color: rgba(255, 255, 255, 0.5);
+      top             : 0;
+      left            : 0;
+      z-index         : 1002;
+
+      &:after {
+        position         : absolute;
+        display          : flex;
+        content          : "";
+        border           : 16px solid #f3f3f3;
+        border-radius    : 50%;
+        border-top       : 16px solid #3498db;
+        width            : 120px;
+        height           : 120px;
+        -webkit-animation: spin 2s linear infinite;
+        /* Safari */
+        animation        : spin 2s linear infinite;
+      }
+    }
+  }
+}

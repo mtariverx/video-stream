@@ -1,0 +1,16 @@
+.font-component {
+  .edit-panel {
+    display: flex;
+
+    .items {
+      flex   : 1;
+      padding: 1rem;
+
+      .sub-title {
+        display    : flex;
+        font-size  : 1.2rem;
+        font-weight: 600;
+      }
+    }
+  }
+}

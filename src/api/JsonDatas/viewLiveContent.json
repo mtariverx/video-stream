@@ -1,0 +1,18 @@
+{
+  "result": true,
+  "message": "success",
+  "reply": [
+    {
+      "name": "ChannelLive1",
+      "output": false
+    },
+    {
+      "name": "ChannelLive2",
+      "output": false
+    },
+    {
+      "name": "ChannelLive3",
+      "output": false
+    }
+  ]
+}

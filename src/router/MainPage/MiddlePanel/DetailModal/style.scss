@@ -1,0 +1,25 @@
+.deetail-modal {
+  .content {
+    .list-item {
+      display        : flex;
+      justify-content: space-between;
+      margin         : 1rem 0;
+
+      .title {
+        text-transform: capitalize;
+        margin-right  : 1rem;
+        font-weight   : 800;
+      }
+    }
+
+    .max-content {
+      height    : 400px;
+      overflow-y: auto;
+      padding   : 0 0.2rem
+    }
+
+    .wrap-content {
+      // width: 200px;
+    }
+  }
+}

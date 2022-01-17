@@ -1,0 +1,77 @@
+.panda-select-component {
+  position   : relative;
+  cursor     : pointer;
+  align-items: center;
+  margin     : 5px;
+
+  &>p {
+    color : var(--panda-primary-main);
+    margin: 2px 0;
+  }
+
+  .label {
+    border       : 1px solid var(--panda-select-border-color);
+    border-radius: 5px;
+    width        : var(--panda-select-width);
+    position     : relative;
+
+    .panda-custom-select {
+      height          : calc(2rem);
+      padding         : 5px 2rem 5px 5px;
+      width           : 100%;
+      white-space     : nowrap;
+      overflow        : hidden;
+      text-overflow   : ellipsis;
+      color           : var(--panda-select-text-color);
+      background-color: transparent;
+      min-width       : 50px;
+    }
+
+    .icon {
+      width   : 1rem;
+      position: absolute;
+      right   : 5px;
+      top     : 5px;
+    }
+  }
+
+
+  .items {
+    margin-top      : 2rem;
+    border          : solid 1px #e0e0e0;
+    border-radius   : 5px;
+    box-shadow      : 0 0.46875rem 2.1875rem rgba(31, 10, 6, 0.03), 0 0.9375rem 1.40625rem rgba(31, 10, 6, 0.03), 0 0.25rem 0.53125rem rgba(31, 10, 6, 0.05), 0 0.125rem 0.1875rem rgba(31, 10, 6, 0.03);
+    background-color: white;
+    overflow-y      : auto;
+    position        : absolute;
+    width           : 100%;
+    top             : 0px;
+    left            : 0;
+    max-height      : 200px;
+    z-index         : 2;
+    display         : none;
+    font-size       : 1rem;
+
+    &.active {
+      display: block;
+    }
+
+    &.up {
+      top   : unset;
+      bottom: 2rem;
+    }
+
+    .item {
+      padding: 5px;
+      color  : var(--default-font-color);
+
+      &:hover {
+        background-color: #eee;
+      }
+
+      &.selected {
+        background-color: var(--primary-color);
+      }
+    }
+  }
+}

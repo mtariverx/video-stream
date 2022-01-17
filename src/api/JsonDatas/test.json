@@ -1,0 +1,29 @@
+{
+  "action": "addPlaylistexacttime",
+  "userid": "25",
+  "access_token": "acccffceeb24d46d142f25440c7ce70d53308862",
+  "schedulePlaylist": {
+    "items": [
+      {
+        "item": "chrome.mp4",
+        "title": "abc",
+        "startfrom": 0,
+        "duration": -1,
+        "vod": true
+      },
+      {
+        "item": "firefox.mp4",
+        "title": "xyz",
+        "startfrom": 0,
+        "duration": -1,
+        "vod": true
+      }
+    ],
+    "channel": "test",
+    "title": "test channel",
+    "startTime": "1451 592000000",
+    "stopTime": "1451595600000",
+    "shuffle": false,
+    "priority": 1
+  }
+}

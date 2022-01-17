@@ -1,0 +1,14 @@
+.edit-overlay-modal {
+  .subject {
+    display: flex;
+
+    .icon {
+      width: 25px;
+    }
+  }
+
+  .content {
+    height: calc(70vh - 3rem);
+    width : 80vw;
+  }
+}

@@ -1,0 +1,41 @@
+.panda-select {
+
+  .label {
+    font-size  : 12px;
+    display    : flex;
+    user-select: none;
+  }
+
+  .select-panel {
+    margin       : 5px 0;
+    padding      : 5px;
+    border       : 1px solid var(--panda-select-border-color);
+    border-radius: 5px;
+    width        : var(--panda-select-width);
+    position     : relative;
+
+    select {
+      appearance        : none;
+      -webkit-appearance: none;
+      -moz-appearance   : none;
+      border            : none;
+      width             : 100%;
+      color             : var(--panda-select-text-color);
+      background-color  : transparent;
+
+      option {
+        color: var(--default-font-color);
+      }
+
+      &:focus {
+        outline: none;
+      }
+    }
+
+    .select-icon {
+      position: absolute;
+      top     : 0.3rem;
+      right   : 5px;
+    }
+  }
+}

@@ -1,0 +1,5797 @@
+{
+	"result": true,
+	"message": "success",
+	"reply": {
+		"playlists": [{
+			"id": 18835,
+			"title": "Plyalist Title",
+			"items": [{
+				"id": 18836,
+				"title": "Item Title",
+				"item": "senegal2016\/Moudou_Faye__Thioukhoutane_h2oomHxrbqk.mp4",
+				"startfrom": 0,
+				"duration": 350273,
+				"fileDuration": 350273,
+				"vod": true
+			}, {
+				"id": 18837,
+				"title": "Item Title",
+				"item": "senegal2016\/Mamy_Kanoute__Yelema_xR5oEnX5Gw.mp4",
+				"startfrom": 0,
+				"duration": 306921,
+				"fileDuration": 306921,
+				"vod": true
+			}, {
+				"id": 18838,
+				"title": "Item Title",
+				"item": "senegal2016\/Sidiki_Diabate__Viens_Danser_Clip_OfficielR64ttkM5z2c.mp4",
+				"startfrom": 0,
+				"duration": 334391,
+				"fileDuration": 334391,
+				"vod": true
+			}, {
+				"id": 18839,
+				"title": "Item Title",
+				"item": "senegal2016\/Assane_Ndiaye___thiatt_hZ1Ira6v7Kc.mp4",
+				"startfrom": 0,
+				"duration": 276155,
+				"fileDuration": 276155,
+				"vod": true
+			}, {
+				"id": 38129,
+				"title": "Item Title",
+				"item": "senegal2015\/Djiby_Drame__Mama_Cherie____Comportee_HzPoeEg_Lv4.mp4",
+				"startfrom": 0,
+				"duration": 316912,
+				"fileDuration": 316912,
+				"vod": true
+			}, {
+				"id": 38130,
+				"title": "Item Title",
+				"item": "senegal2015\/Youssou_Ndour__Souvenirs__Clip_OfficielAvoGQX3gVa8.mp4",
+				"startfrom": 0,
+				"duration": 412034,
+				"fileDuration": 412034,
+				"vod": true
+			}, {
+				"id": 38131,
+				"title": "Item Title",
+				"item": "senegal2015\/Doougoufii_Ilallahfall__Real_Papis_Niang_Art_BiBsLMHJCke8Y.mp4",
+				"startfrom": 0,
+				"duration": 219516,
+				"fileDuration": 219516,
+				"vod": true
+			}, {
+				"id": 38133,
+				"title": "Item Title",
+				"item": "senegal2015\/Exclusivitee__Nouveau_clip_des_Lions__WallyTiti_et_XPress__Choeurs_des_LionsAcXHtL0NfBg.mp4",
+				"startfrom": 0,
+				"duration": 361437,
+				"fileDuration": 361437,
+				"vod": true
+			}, {
+				"id": 38134,
+				"title": "Item Title",
+				"item": "senegal2015\/Soryba__Shisha_mya_Vk_BK_KVtc8.mp4",
+				"startfrom": 0,
+				"duration": 274757,
+				"fileDuration": 274757,
+				"vod": true
+			}, {
+				"id": 38135,
+				"title": "Item Title",
+				"item": "senegal2015\/Ablaye__Mbaye__Ma_wakhko_BL2yu5kaixE.mp4",
+				"startfrom": 0,
+				"duration": 304757,
+				"fileDuration": 304757,
+				"vod": true
+			}, {
+				"id": 38136,
+				"title": "Item Title",
+				"item": "senegal2015\/Abou_Thioubalo___Cheikhou_Tall___Real_Papis_Niang_Art_BIAd7dJkJBcgI.mp4",
+				"startfrom": 0,
+				"duration": 262671,
+				"fileDuration": 262671,
+				"vod": true
+			}, {
+				"id": 38137,
+				"title": "Item Title",
+				"item": "senegal2015\/Demba_Guisse__Fiir_HARU2VyxSEw.mp4",
+				"startfrom": 0,
+				"duration": 343952,
+				"fileDuration": 343952,
+				"vod": true
+			}, {
+				"id": 38138,
+				"title": "Item Title",
+				"item": "senegal2015\/SUADUCelebrateClipfeRQdSg1rpw.mp4",
+				"startfrom": 0,
+				"duration": 265074,
+				"fileDuration": 265074,
+				"vod": true
+			}, {
+				"id": 38139,
+				"title": "Item Title",
+				"item": "senegal2015\/Viviane_Chidid__Star_zhCSDsgqkLQ.mp4",
+				"startfrom": 0,
+				"duration": 305273,
+				"fileDuration": 305273,
+				"vod": true
+			}, {
+				"id": 38140,
+				"title": "Item Title",
+				"item": "senegal2015\/Pape_Diouf___Du_Degns7gYZPbp88k.mp4",
+				"startfrom": 0,
+				"duration": 428275,
+				"fileDuration": 428275,
+				"vod": true
+			}, {
+				"id": 38141,
+				"title": "Item Title",
+				"item": "senegal2015\/Assane_Ndiaye__Mi_Amor__real_Papis_Niang_art__biHavC1Ff1Wp0.mp4",
+				"startfrom": 0,
+				"duration": 294552,
+				"fileDuration": 294552,
+				"vod": true
+			}, {
+				"id": 38142,
+				"title": "Item Title",
+				"item": "senegal2015\/Pape_Seck__Iniane_XU8nuUfqevg.mp4",
+				"startfrom": 0,
+				"duration": 284073,
+				"fileDuration": 284073,
+				"vod": true
+			}, {
+				"id": 38144,
+				"title": "Item Title",
+				"item": "senegal2015\/Sidiki_Diabatee_Fais_moi_Confiance_Clip_Officiel5KcYuqou1iQ.mp4",
+				"startfrom": 0,
+				"duration": 280353,
+				"fileDuration": 280353,
+				"vod": true
+			}, {
+				"id": 38145,
+				"title": "Item Title",
+				"item": "senegal2015\/Sidate_Bonbon_feat_Sidy_Samb____keelee_lee_V3_lwDXL2fc.mp4",
+				"startfrom": 0,
+				"duration": 306719,
+				"fileDuration": 306719,
+				"vod": true
+			}, {
+				"id": 38146,
+				"title": "Item Title",
+				"item": "senegal2015\/Ngala___senegal_YnbCGcVWd40.mp4",
+				"startfrom": 0,
+				"duration": 241000,
+				"fileDuration": 241000,
+				"vod": true
+			}, {
+				"id": 38147,
+				"title": "Item Title",
+				"item": "senegal2015\/Djene_k_Toure_feat_Waly_Seck_i_kanakenmcY4bONXw.mp4",
+				"startfrom": 0,
+				"duration": 226993,
+				"fileDuration": 226993,
+				"vod": true
+			}, {
+				"id": 38148,
+				"title": "Item Title",
+				"item": "senegal2015\/Thiat_Seck__hommage_a_Ndongo_LoidkuyauDnM.mp4",
+				"startfrom": 0,
+				"duration": 380674,
+				"fileDuration": 380674,
+				"vod": true
+			}, {
+				"id": 38149,
+				"title": "Item Title",
+				"item": "senegal2015\/Biaicha__Duble_Click_real_Papis_Niang_art_biP1mGIBXMLxI.mp4",
+				"startfrom": 0,
+				"duration": 239794,
+				"fileDuration": 239794,
+				"vod": true
+			}, {
+				"id": 38150,
+				"title": "Item Title",
+				"item": "senegal2015\/Ballago_Boyz__na_goore1PDDi3NzpZs.mp4",
+				"startfrom": 0,
+				"duration": 211436,
+				"fileDuration": 211436,
+				"vod": true
+			}, {
+				"id": 38151,
+				"title": "Item Title",
+				"item": "senegal2015\/MOMO_DIENG__Li_ngama_diaral__Video_OfficiellewTb7CaxJzKk.mp4",
+				"startfrom": 0,
+				"duration": 303793,
+				"fileDuration": 303793,
+				"vod": true
+			}, {
+				"id": 38152,
+				"title": "Item Title",
+				"item": "senegal2015\/Keba_Seck__Kouy_rer_rerbi_hgKFRR_f9YM.mp4",
+				"startfrom": 0,
+				"duration": 341711,
+				"fileDuration": 341711,
+				"vod": true
+			}, {
+				"id": 38153,
+				"title": "Item Title",
+				"item": "senegal2015\/Pape_Ndiaye_Thiou__mbeugel_mo_nexxLfTP2jGX5R0.mp4",
+				"startfrom": 0,
+				"duration": 330973,
+				"fileDuration": 330973,
+				"vod": true
+			}, {
+				"id": 38154,
+				"title": "Item Title",
+				"item": "senegal2015\/Kine_Lam__Talibe_Serigne_Saliou_F9wTKX19zc0.mp4",
+				"startfrom": 0,
+				"duration": 387397,
+				"fileDuration": 387397,
+				"vod": true
+			}, {
+				"id": 38155,
+				"title": "Item Title",
+				"item": "senegal2015\/NAFINA__Diokh_Ma_Sa_Khol_Official_Video_Clip0x1qJhN1ahU.mp4",
+				"startfrom": 0,
+				"duration": 233100,
+				"fileDuration": 233100,
+				"vod": true
+			}, {
+				"id": 44881,
+				"title": "Item Title",
+				"item": "senegal2016\/Moudou_Faye__Thioukhoutane_h2oomHxrbqk.mp4",
+				"startfrom": 0,
+				"duration": 350273,
+				"fileDuration": 350273,
+				"vod": true
+			}, {
+				"id": 44882,
+				"title": "Item Title",
+				"item": "senegal2016\/Mamy_Kanoute__Yelema_xR5oEnX5Gw.mp4",
+				"startfrom": 0,
+				"duration": 306921,
+				"fileDuration": 306921,
+				"vod": true
+			}, {
+				"id": 44883,
+				"title": "Item Title",
+				"item": "senegal2016\/Sidiki_Diabate__Viens_Danser_Clip_OfficielR64ttkM5z2c.mp4",
+				"startfrom": 0,
+				"duration": 334391,
+				"fileDuration": 334391,
+				"vod": true
+			}, {
+				"id": 44884,
+				"title": "Item Title",
+				"item": "senegal2016\/Assane_Ndiaye___thiatt_hZ1Ira6v7Kc.mp4",
+				"startfrom": 0,
+				"duration": 276155,
+				"fileDuration": 276155,
+				"vod": true
+			}, {
+				"id": 44885,
+				"title": "Item Title",
+				"item": "senegal2016\/Boy_Sidy__NopnaleumFWddnysdBw.mp4",
+				"startfrom": 0,
+				"duration": 303833,
+				"fileDuration": 303833,
+				"vod": true
+			}, {
+				"id": 44886,
+				"title": "Item Title",
+				"item": "senegal2016\/Assane_NDIAYE__Yen_idClovxeB9A.mp4",
+				"startfrom": 0,
+				"duration": 302184,
+				"fileDuration": 302184,
+				"vod": true
+			}, {
+				"id": 44887,
+				"title": "Item Title",
+				"item": "senegal2016\/Wally_B._Seck__Jiguen_Mini_filmAo08buUp6TE.mp4",
+				"startfrom": 0,
+				"duration": 285327,
+				"fileDuration": 285327,
+				"vod": true
+			}, {
+				"id": 44888,
+				"title": "Item Title",
+				"item": "senegal2016\/Dior_MBAYE__Moom_Rek_Clip_OfficielhbvX2PRZSpg.mp4",
+				"startfrom": 0,
+				"duration": 74722,
+				"fileDuration": 74722,
+				"vod": true
+			}, {
+				"id": 44889,
+				"title": "Item Title",
+				"item": "senegal2016\/Safari__Allah_Clip_OfficielACnq_zv4vps.mp4",
+				"startfrom": 0,
+				"duration": 235590,
+				"fileDuration": 235590,
+				"vod": true
+			}, {
+				"id": 44890,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid___Naxma_clip_officieljsA26g4DDaU.mp4",
+				"startfrom": 0,
+				"duration": 316674,
+				"fileDuration": 316674,
+				"vod": true
+			}, {
+				"id": 44891,
+				"title": "Item Title",
+				"item": "senegal2016\/Daara_J_Family__Xeetkc8UTVmFdWo.mp4",
+				"startfrom": 0,
+				"duration": 256720,
+				"fileDuration": 256720,
+				"vod": true
+			}, {
+				"id": 44892,
+				"title": "Item Title",
+				"item": "senegal2016\/Bideew_Bou_Bess__I_Belong_Clip_Officielhs6qelc8YtU.mp4",
+				"startfrom": 0,
+				"duration": 273670,
+				"fileDuration": 273670,
+				"vod": true
+			}, {
+				"id": 44893,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid__Wuyuma_Clip_OfficielnmJp40oR1L4.mp4",
+				"startfrom": 0,
+				"duration": 197904,
+				"fileDuration": 197904,
+				"vod": true
+			}, {
+				"id": 44894,
+				"title": "Item Title",
+				"item": "senegal2016\/Chadia__Naeu_Boolo_cjd06F6jnio.mp4",
+				"startfrom": 0,
+				"duration": 235079,
+				"fileDuration": 235079,
+				"vod": true
+			}, {
+				"id": 44895,
+				"title": "Item Title",
+				"item": "senegal2016\/Kine_Lam__linguere_sK4nkGnmmqs.mp4",
+				"startfrom": 0,
+				"duration": 355753,
+				"fileDuration": 355753,
+				"vod": true
+			}, {
+				"id": 44896,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid__Yaama_Neekh_Clip_OfficielG0MmB41nyKM.mp4",
+				"startfrom": 0,
+				"duration": 302997,
+				"fileDuration": 302997,
+				"vod": true
+			}, {
+				"id": 44897,
+				"title": "Item Title",
+				"item": "senegal2016\/BIRAHIM_feat_PPS__Love_u_for_Ever_Videeo_Officielle7eV1YHu9TI.mp4",
+				"startfrom": 0,
+				"duration": 277200,
+				"fileDuration": 277200,
+				"vod": true
+			}, {
+				"id": 44898,
+				"title": "Item Title",
+				"item": "senegal2016\/Kadia__la_tigresse__Ndeekeetee_weero22f93KZUo8.mp4",
+				"startfrom": 0,
+				"duration": 320482,
+				"fileDuration": 320482,
+				"vod": true
+			}, {
+				"id": 44899,
+				"title": "Item Title",
+				"item": "senegal2016\/Noface_Vs_Mia__Reine_Xol_Round_5u9xtIZBnnK0.mp4",
+				"startfrom": 0,
+				"duration": 205636,
+				"fileDuration": 205636,
+				"vod": true
+			}, {
+				"id": 44900,
+				"title": "Item Title",
+				"item": "senegal2016\/GO_Ndiaye__Ndeye_Teneng_ihmARKGptTo.mp4",
+				"startfrom": 0,
+				"duration": 318833,
+				"fileDuration": 318833,
+				"vod": true
+			}, {
+				"id": 44901,
+				"title": "Item Title",
+				"item": "senegal2016\/Bai_Babu_ft_Barhama___Fahass___Official_Video2F2HLsZdW_c.mp4",
+				"startfrom": 0,
+				"duration": 320505,
+				"fileDuration": 320505,
+				"vod": true
+			}, {
+				"id": 44902,
+				"title": "Item Title",
+				"item": "senegal2016\/Daara_J_Family__Senegal_Clip_OfficielJpvDC_s8aDg.mp4",
+				"startfrom": 0,
+				"duration": 252726,
+				"fileDuration": 252726,
+				"vod": true
+			}, {
+				"id": 44903,
+				"title": "Item Title",
+				"item": "senegal2016\/Wally_Seck__Donne_moi_une_chance_Clip_OfficielT0I1y1m4dNs.mp4",
+				"startfrom": 0,
+				"duration": 256789,
+				"fileDuration": 256789,
+				"vod": true
+			}, {
+				"id": 44904,
+				"title": "Item Title",
+				"item": "senegal2016\/ABIBA__DOMZEI_Clip_OfficielvWIhjV6ojqY.mp4",
+				"startfrom": 0,
+				"duration": 207958,
+				"fileDuration": 207958,
+				"vod": true
+			}, {
+				"id": 44905,
+				"title": "Item Title",
+				"item": "senegal2016\/PAPOUNETAbiba__Sidiki_OfficielCnyVaVSaTk.mp4",
+				"startfrom": 0,
+				"duration": 254793,
+				"fileDuration": 254793,
+				"vod": true
+			}, {
+				"id": 44906,
+				"title": "Item Title",
+				"item": "senegal2016\/Prestation_Ceereemonie_de__My_Feeling__BellesxuP3fNmnk.mp4",
+				"startfrom": 0,
+				"duration": 591923,
+				"fileDuration": 591923,
+				"vod": true
+			}, {
+				"id": 44907,
+				"title": "Item Title",
+				"item": "senegal2016\/GO_Ndiaye__lady_2inhB6N2SjQ.mp4",
+				"startfrom": 0,
+				"duration": 324801,
+				"fileDuration": 324801,
+				"vod": true
+			}, {
+				"id": 44908,
+				"title": "Item Title",
+				"item": "senegal2016\/Youssou_Ndour__YAAKAR__Hommage_a_Doudou_Ndiaye_Rose__Vieux_Sing_Faye__Videos_Official_HDHzsQfjnOfro.mp4",
+				"startfrom": 0,
+				"duration": 522077,
+				"fileDuration": 522077,
+				"vod": true
+			}, {
+				"id": 44909,
+				"title": "Item Title",
+				"item": "senegal2016\/Guigui__Diokhma_Sa_kholtgfYBRdJw.mp4",
+				"startfrom": 0,
+				"duration": 300397,
+				"fileDuration": 300397,
+				"vod": true
+			}, {
+				"id": 44910,
+				"title": "Item Title",
+				"item": "senegal2016\/Carlou_DyEw5_GxuRhc.mp4",
+				"startfrom": 0,
+				"duration": 194188,
+				"fileDuration": 194188,
+				"vod": true
+			}, {
+				"id": 44911,
+				"title": "Item Title",
+				"item": "senegal2016\/Wally_Seck_x_Sidiki_Diabatee__Alhamdou_lilah_Clip_Officieltk6tVDNIAGQ.mp4",
+				"startfrom": 0,
+				"duration": 295126,
+				"fileDuration": 295126,
+				"vod": true
+			}, {
+				"id": 44912,
+				"title": "Item Title",
+				"item": "senegal2016\/Youssou_Ndour_DJIGUENE_GNI__Official_Video_zZweEsGkmIo.mp4",
+				"startfrom": 0,
+				"duration": 212323,
+				"fileDuration": 212323,
+				"vod": true
+			}, {
+				"id": 44913,
+				"title": "Item Title",
+				"item": "senegal2016\/Nouveau_Clip_De_Baye_Demba_Faye_Leumbeul_Dance_HalligQ39cDet9M.mp4",
+				"startfrom": 0,
+				"duration": 369499,
+				"fileDuration": 369499,
+				"vod": true
+			}, {
+				"id": 44914,
+				"title": "Item Title",
+				"item": "senegal2016\/OMG__Chic_Choc_Chec_feat_Fata_Clip_officiel_2016AY0jvJHd0o.mp4",
+				"startfrom": 0,
+				"duration": 264684,
+				"fileDuration": 264684,
+				"vod": true
+			}, {
+				"id": 44915,
+				"title": "Item Title",
+				"item": "senegal2016\/Abiba_et_Sidiki_DiabateGabon_2017_OfficielS9NI2gltCYE.mp4",
+				"startfrom": 0,
+				"duration": 256279,
+				"fileDuration": 256279,
+				"vod": true
+			}, {
+				"id": 44916,
+				"title": "Item Title",
+				"item": "senegal2016\/NDIOLE___Cou_Cou_Snap_PgijtjqS30.mp4",
+				"startfrom": 0,
+				"duration": 290435,
+				"fileDuration": 290435,
+				"vod": true
+			}, {
+				"id": 44917,
+				"title": "Item Title",
+				"item": "senegal2016\/Armel_Gabbana_feat_Wally_Ballago_Seck__Jimmi_2.0_Clip_OfficielAmXP9EaMGOk.mp4",
+				"startfrom": 0,
+				"duration": 220543,
+				"fileDuration": 220543,
+				"vod": true
+			}, {
+				"id": 44918,
+				"title": "Item Title",
+				"item": "senegal2016\/Youssou_Ndour__Serin_Fallu_Clip_Officielop7DZ3NeQg.mp4",
+				"startfrom": 0,
+				"duration": 394228,
+				"fileDuration": 394228,
+				"vod": true
+			}, {
+				"id": 44919,
+				"title": "Item Title",
+				"item": "senegal2016\/Petit_Bara__Mbalax_Day_Wax_Clip_officielF81rD_DlAKo.mp4",
+				"startfrom": 0,
+				"duration": 307548,
+				"fileDuration": 307548,
+				"vod": true
+			}, {
+				"id": 44920,
+				"title": "Item Title",
+				"item": "senegal2016\/Koutay_Bamba_J_Fall__akk_sant_SlZ0QrGUUgQ.mp4",
+				"startfrom": 0,
+				"duration": 298469,
+				"fileDuration": 298469,
+				"vod": true
+			}, {
+				"id": 44921,
+				"title": "Item Title",
+				"item": "senegal2016\/Sidiki_Diabatee__Inianafi_Debena_Clip_OfficielDELY4vhQTj8.mp4",
+				"startfrom": 0,
+				"duration": 239816,
+				"fileDuration": 239816,
+				"vod": true
+			}, {
+				"id": 44922,
+				"title": "Item Title",
+				"item": "senegal2016\/PAPE_DIOUFMalaw_Feat_Baye_BabouVideeo_Officiellew0hns04Ns.mp4",
+				"startfrom": 0,
+				"duration": 414639,
+				"fileDuration": 414639,
+				"vod": true
+			}, {
+				"id": 44923,
+				"title": "Item Title",
+				"item": "senegal2016\/Gui_Gui__Boul_ma_di_door_YontbO6isxg.mp4",
+				"startfrom": 0,
+				"duration": 306828,
+				"fileDuration": 306828,
+				"vod": true
+			}, {
+				"id": 44924,
+				"title": "Item Title",
+				"item": "senegal2016\/ADIOUZA___DADDY_remix_Clip_OfficielMH8_Iip7y3g.mp4",
+				"startfrom": 0,
+				"duration": 219266,
+				"fileDuration": 219266,
+				"vod": true
+			}, {
+				"id": 44925,
+				"title": "Item Title",
+				"item": "senegal2016\/Abdou_Guite_SECK_Thiono_Adouna__Remix__CLIP_1ere_PartieGm9Mls9fpg.mp4",
+				"startfrom": 0,
+				"duration": 268283,
+				"fileDuration": 268283,
+				"vod": true
+			}, {
+				"id": 44926,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid__Siggil_Clip_Officiel_cmODXQa_sAs.mp4",
+				"startfrom": 0,
+				"duration": 390699,
+				"fileDuration": 390699,
+				"vod": true
+			}, {
+				"id": 44927,
+				"title": "Item Title",
+				"item": "senegal2016\/Secka__Premiere_Dame_FMoCjK2IxJg.mp4",
+				"startfrom": 0,
+				"duration": 325312,
+				"fileDuration": 325312,
+				"vod": true
+			}, {
+				"id": 44928,
+				"title": "Item Title",
+				"item": "senegal2016\/BIRAHIMSAMA_MARIAGEnouveau_ClipZCJlHcPfdBM.mp4",
+				"startfrom": 0,
+				"duration": 208956,
+				"fileDuration": 208956,
+				"vod": true
+			}, {
+				"id": 44929,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid__No_Stress_Clip_OfficielKlE8MlCWgmI.mp4",
+				"startfrom": 0,
+				"duration": 226952,
+				"fileDuration": 226952,
+				"vod": true
+			}, {
+				"id": 44930,
+				"title": "Item Title",
+				"item": "senegal2016\/PAPE_DIOUF__Total_Excellium_EksinaVideo_Officielle_NkASUp85rk.mp4",
+				"startfrom": 0,
+				"duration": 258368,
+				"fileDuration": 258368,
+				"vod": true
+			}, {
+				"id": 44931,
+				"title": "Item Title",
+				"item": "senegal2016\/Samba_Peuzzi__From_Diack_2_OfficialfavM0otiDp4.mp4",
+				"startfrom": 0,
+				"duration": 148933,
+				"fileDuration": 148933,
+				"vod": true
+			}, {
+				"id": 44932,
+				"title": "Item Title",
+				"item": "senegal2016\/Elaj_Keita__Sama_XolSlradxl3Lb8.mp4",
+				"startfrom": 0,
+				"duration": 302626,
+				"fileDuration": 302626,
+				"vod": true
+			}, {
+				"id": 44933,
+				"title": "Item Title",
+				"item": "senegal2016\/Sidiki_Diabatee__Cest_bon_Clip_Officiel_feat._Iba_One_et_NiskaC0cy1Kt5Dwc.mp4",
+				"startfrom": 0,
+				"duration": 267192,
+				"fileDuration": 267192,
+				"vod": true
+			}, {
+				"id": 44934,
+				"title": "Item Title",
+				"item": "senegal2016\/Sidate__Bon_Bon__Cafe_ToubaFQ9MNKcQ4W8.mp4",
+				"startfrom": 0,
+				"duration": 309685,
+				"fileDuration": 309685,
+				"vod": true
+			}, {
+				"id": 44935,
+				"title": "Item Title",
+				"item": "senegal2016\/Bai_Babu_Attitude_Girl_Official_Videosu1wIAr3fE0.mp4",
+				"startfrom": 0,
+				"duration": 227114,
+				"fileDuration": 227114,
+				"vod": true
+			}, {
+				"id": 44936,
+				"title": "Item Title",
+				"item": "senegal2016\/Wally_B._Seck__STAY_Clip_Officielg6QrXwGUqAM.mp4",
+				"startfrom": 0,
+				"duration": 363276,
+				"fileDuration": 363276,
+				"vod": true
+			}, {
+				"id": 44937,
+				"title": "Item Title",
+				"item": "senegal2016\/Yves_Niang_YENA_TAKHQztyrY7pOAg.mp4",
+				"startfrom": 0,
+				"duration": 306248,
+				"fileDuration": 306248,
+				"vod": true
+			}, {
+				"id": 44938,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid__Retaan_Clip_OfficielJep2P0Fuei0.mp4",
+				"startfrom": 0,
+				"duration": 259923,
+				"fileDuration": 259923,
+				"vod": true
+			}, {
+				"id": 44939,
+				"title": "Item Title",
+				"item": "senegal2016\/MOMO_DIENG_Lang_Gui_le_Clipr0WTxbFOjco.mp4",
+				"startfrom": 0,
+				"duration": 361233,
+				"fileDuration": 361233,
+				"vod": true
+			}, {
+				"id": 44940,
+				"title": "Item Title",
+				"item": "senegal2016\/NDERGeneralVideo_officielleW8VKn7Lx8ds.mp4",
+				"startfrom": 0,
+				"duration": 377882,
+				"fileDuration": 377882,
+				"vod": true
+			}, {
+				"id": 44941,
+				"title": "Item Title",
+				"item": "senegal2016\/CLIP_Abdou_Guitee_Seck_Thiono_Adouna2ieme_Partie__Remix_Clip_EfSqbx9dfSA.mp4",
+				"startfrom": 0,
+				"duration": 173407,
+				"fileDuration": 173407,
+				"vod": true
+			}, {
+				"id": 44942,
+				"title": "Item Title",
+				"item": "senegal2016\/FATOU_GUEWEL_DIOUF_MBARASSE_PLUS_2017_CLIP_OFFICIELf2BcIPZKbvQ.mp4",
+				"startfrom": 0,
+				"duration": 331720,
+				"fileDuration": 331720,
+				"vod": true
+			}, {
+				"id": 44943,
+				"title": "Item Title",
+				"item": "senegal2016\/Dior_Mbaye__Baara_Aw_Clip_Officiel3oXMOUaNd4U.mp4",
+				"startfrom": 0,
+				"duration": 252076,
+				"fileDuration": 252076,
+				"vod": true
+			}, {
+				"id": 44944,
+				"title": "Item Title",
+				"item": "senegal2016\/PAPE_DIOUF_Lamb_Ju_ReyBadadoutKPRqpq9hxFs.mp4",
+				"startfrom": 0,
+				"duration": 335157,
+				"fileDuration": 335157,
+				"vod": true
+			}, {
+				"id": 44945,
+				"title": "Item Title",
+				"item": "senegal2016\/Ndeye_Fatou_Ndiaye_Mama__Seydina_Muhamed_p86_E8yyKY4.mp4",
+				"startfrom": 0,
+				"duration": 322432,
+				"fileDuration": 322432,
+				"vod": true
+			}, {
+				"id": 44946,
+				"title": "Item Title",
+				"item": "senegal2016\/Wally_B._Seck__Si_vous_saviez_Clip_OfficielEnL78Wgu6DQ.mp4",
+				"startfrom": 0,
+				"duration": 299375,
+				"fileDuration": 299375,
+				"vod": true
+			}, {
+				"id": 44947,
+				"title": "Item Title",
+				"item": "senegal2016\/Mbathio_Ndiaye__Thiopati___real_Art__Bi_ManagemanpTZQQ08AM0U.mp4",
+				"startfrom": 0,
+				"duration": 317672,
+				"fileDuration": 317672,
+				"vod": true
+			}, {
+				"id": 44948,
+				"title": "Item Title",
+				"item": "senegal2016\/Queen_Biz__Teeree_Neelaw_Official_videeogvEW0wrnWWk.mp4",
+				"startfrom": 0,
+				"duration": 353477,
+				"fileDuration": 353477,
+				"vod": true
+			}, {
+				"id": 44949,
+				"title": "Item Title",
+				"item": "senegal2016\/Diha___Meune_na_neK_mbalax_2016x2ZgVNY46KQ.mp4",
+				"startfrom": 0,
+				"duration": 352363,
+				"fileDuration": 352363,
+				"vod": true
+			}, {
+				"id": 44950,
+				"title": "Item Title",
+				"item": "senegal2016\/Youssou_Ndour__SENEGALREKK__VIDEO_OFFICIAL4AsE3pNhJk.mp4",
+				"startfrom": 0,
+				"duration": 337990,
+				"fileDuration": 337990,
+				"vod": true
+			}, {
+				"id": 44951,
+				"title": "Item Title",
+				"item": "senegal2016\/Soleil_Levant__Bercy_Wally_gui_ni_X4_BKItKwp0.mp4",
+				"startfrom": 0,
+				"duration": 285304,
+				"fileDuration": 285304,
+				"vod": true
+			}, {
+				"id": 44952,
+				"title": "Item Title",
+				"item": "senegal2016\/nuveau_clip__Titi_Nitt_dayy_xam_boppamQFJYVWSYyW0.mp4",
+				"startfrom": 0,
+				"duration": 358563,
+				"fileDuration": 358563,
+				"vod": true
+			}, {
+				"id": 44953,
+				"title": "Item Title",
+				"item": "senegal2016\/Backa_Niang__sama_djiguene_OAtxTxDpNJw.mp4",
+				"startfrom": 0,
+				"duration": 334948,
+				"fileDuration": 334948,
+				"vod": true
+			}, {
+				"id": 44954,
+				"title": "Item Title",
+				"item": "senegal2016\/Youssou_Ndour__Be_careful_Clip_officielBGt1htuyhiU.mp4",
+				"startfrom": 0,
+				"duration": 242231,
+				"fileDuration": 242231,
+				"vod": true
+			}, {
+				"id": 44955,
+				"title": "Item Title",
+				"item": "senegal2016\/Bideew_Bou_Bess__Belle_Clip_OfficielP0O0FC5YNhc.mp4",
+				"startfrom": 0,
+				"duration": 295195,
+				"fileDuration": 295195,
+				"vod": true
+			}, {
+				"id": 44956,
+				"title": "Item Title",
+				"item": "senegal2016\/Djiby_Drame__Manssasi_Video_Officiel_Reeal__IpromaygKcVOc1k.mp4",
+				"startfrom": 0,
+				"duration": 267912,
+				"fileDuration": 267912,
+				"vod": true
+			}, {
+				"id": 44957,
+				"title": "Item Title",
+				"item": "senegal2016\/Ndeye_Mboup___Nit_Ku_Bax_yXk5Qt7qgCA.mp4",
+				"startfrom": 0,
+				"duration": 314352,
+				"fileDuration": 314352,
+				"vod": true
+			}, {
+				"id": 44958,
+				"title": "Item Title",
+				"item": "senegal2016\/Assane_Ndiaye__Ndioukeul__Real_Ppapis_Niang_Art_BicGKthvoeYfM.mp4",
+				"startfrom": 0,
+				"duration": 301558,
+				"fileDuration": 301558,
+				"vod": true
+			}, {
+				"id": 38156,
+				"title": "Item Title",
+				"item": "senegal2015\/Wally_B._Seck__STAY_Clip_Officielg6QrXwGUqAM.mp4",
+				"startfrom": 0,
+				"duration": 363271,
+				"fileDuration": 363271,
+				"vod": true
+			}, {
+				"id": 38157,
+				"title": "Item Title",
+				"item": "senegal2015\/Queen_Biz__Joxma_sama_chance__real_papis_niang_art__birMiH8cZ4sW8.mp4",
+				"startfrom": 0,
+				"duration": 291475,
+				"fileDuration": 291475,
+				"vod": true
+			}, {
+				"id": 38158,
+				"title": "Item Title",
+				"item": "senegal2015\/Adja__lima_meeti_1mU2VHk146U.mp4",
+				"startfrom": 0,
+				"duration": 201474,
+				"fileDuration": 201474,
+				"vod": true
+			}, {
+				"id": 38159,
+				"title": "Item Title",
+				"item": "senegal2015\/Soda_Bousso__jeureuf_j5JU6bEGMKk.mp4",
+				"startfrom": 0,
+				"duration": 293356,
+				"fileDuration": 293356,
+				"vod": true
+			}, {
+				"id": 38160,
+				"title": "Item Title",
+				"item": "senegal2015\/NDER__YEURMANDE__Nouvelle_videeo_en_exclusiviteeT5967NZNxc.mp4",
+				"startfrom": 0,
+				"duration": 387153,
+				"fileDuration": 387153,
+				"vod": true
+			}, {
+				"id": 38161,
+				"title": "Item Title",
+				"item": "senegal2015\/Nder_Boy__Yermandee_AL7V9bxpnx4.mp4",
+				"startfrom": 0,
+				"duration": 387153,
+				"fileDuration": 387153,
+				"vod": true
+			}, {
+				"id": 38162,
+				"title": "Item Title",
+				"item": "senegal2015\/Ousmane_Gangue__Fans_YiVideo_OfficielVpfSdX0eunc.mp4",
+				"startfrom": 0,
+				"duration": 350872,
+				"fileDuration": 350872,
+				"vod": true
+			}, {
+				"id": 38163,
+				"title": "Item Title",
+				"item": "senegal2015\/Gallas___You_yay_thiapathiouly_enFhIPYQIKM.mp4",
+				"startfrom": 0,
+				"duration": 374393,
+				"fileDuration": 374393,
+				"vod": true
+			}, {
+				"id": 38164,
+				"title": "Item Title",
+				"item": "senegal2015\/Momo_Dieng__li_ngama_diaral_mwndU4rWPyY.mp4",
+				"startfrom": 0,
+				"duration": 303793,
+				"fileDuration": 303793,
+				"vod": true
+			}, {
+				"id": 38165,
+				"title": "Item Title",
+				"item": "senegal2015\/Mapenda_Seck__Boulma_Jay__real_Papis_Niang_art_biOpwwil5QRY.mp4",
+				"startfrom": 0,
+				"duration": 341287,
+				"fileDuration": 341287,
+				"vod": true
+			}, {
+				"id": 38166,
+				"title": "Item Title",
+				"item": "senegal2015\/GO_Ndiaye__taaru_jigeen_real___Papis_Niang_artbiC_56ckeOX3g.mp4",
+				"startfrom": 0,
+				"duration": 315357,
+				"fileDuration": 315357,
+				"vod": true
+			}, {
+				"id": 38167,
+				"title": "Item Title",
+				"item": "senegal2014\/Ndeye_Ndiaye_Lamsal__kignianepWR5qKWp3Fk.mp4",
+				"startfrom": 0,
+				"duration": 307688,
+				"fileDuration": 307688,
+				"vod": true
+			}, {
+				"id": 38168,
+				"title": "Item Title",
+				"item": "senegal2014\/Coumba_Gawlo__Ft._Fatou_Kinee_Mbaye__Djessy__Clip_Officielln611RMBASs.mp4",
+				"startfrom": 0,
+				"duration": 493726,
+				"fileDuration": 493726,
+				"vod": true
+			}, {
+				"id": 38169,
+				"title": "Item Title",
+				"item": "senegal2014\/Dior__Demna_Clip_Officield8NhtPJlasQ.mp4",
+				"startfrom": 0,
+				"duration": 60994,
+				"fileDuration": 60994,
+				"vod": true
+			}, {
+				"id": 38170,
+				"title": "Item Title",
+				"item": "senegal2014\/Modou_Mbollu__gouthi_raguinnIzxPH83qG_o.mp4",
+				"startfrom": 0,
+				"duration": 309842,
+				"fileDuration": 309842,
+				"vod": true
+			}, {
+				"id": 38171,
+				"title": "Item Title",
+				"item": "senegal2014\/BIRAHIM_From_MedinaClipoGFzqdIH_NM.mp4",
+				"startfrom": 0,
+				"duration": 346127,
+				"fileDuration": 346127,
+				"vod": true
+			}, {
+				"id": 38172,
+				"title": "Item Title",
+				"item": "senegal2014\/Super_Ceedo_Ceey_BicHiILiGltXU.mp4",
+				"startfrom": 0,
+				"duration": 305724,
+				"fileDuration": 305724,
+				"vod": true
+			}, {
+				"id": 38173,
+				"title": "Item Title",
+				"item": "senegal2014\/Go_Ndiaye__fi_nu_jaar__real___Papis_niangoyfNvh4BItE.mp4",
+				"startfrom": 0,
+				"duration": 322752,
+				"fileDuration": 322752,
+				"vod": true
+			}, {
+				"id": 38174,
+				"title": "Item Title",
+				"item": "senegal2014\/Secka_feat_Baba__seydi_babacar_UvgqEHCmUo8.mp4",
+				"startfrom": 0,
+				"duration": 264714,
+				"fileDuration": 264714,
+				"vod": true
+			}, {
+				"id": 38175,
+				"title": "Item Title",
+				"item": "senegal2014\/Gelongal__Nterro_Clip_Officielxs2HwjrJSY.mp4",
+				"startfrom": 0,
+				"duration": 235840,
+				"fileDuration": 235840,
+				"vod": true
+			}, {
+				"id": 38176,
+				"title": "Item Title",
+				"item": "senegal2014\/Galass__sara_mbara_mbaye__Film__by_Art_bi_managemanL_zeJiuryvA.mp4",
+				"startfrom": 0,
+				"duration": 310960,
+				"fileDuration": 310960,
+				"vod": true
+			}, {
+				"id": 38177,
+				"title": "Item Title",
+				"item": "senegal2014\/Pape_Diagne__meissa_bigue_FQHzxa6QF4.mp4",
+				"startfrom": 0,
+				"duration": 337595,
+				"fileDuration": 337595,
+				"vod": true
+			}, {
+				"id": 38178,
+				"title": "Item Title",
+				"item": "senegal2014\/El_gueye__you_and_meRCH8N4xJVOU.mp4",
+				"startfrom": 0,
+				"duration": 306968,
+				"fileDuration": 306968,
+				"vod": true
+			}, {
+				"id": 38179,
+				"title": "Item Title",
+				"item": "senegal2014\/Zoula_kouley_danel_real_art_bi_managemanb4XVhJBfKKA.mp4",
+				"startfrom": 0,
+				"duration": 336719,
+				"fileDuration": 336719,
+				"vod": true
+			}, {
+				"id": 38180,
+				"title": "Item Title",
+				"item": "senegal2014\/WANGOClip_officiel_Sen_Ptit_Gallee_2014RKh6vMn5phs.mp4",
+				"startfrom": 0,
+				"duration": 327269,
+				"fileDuration": 327269,
+				"vod": true
+			}, {
+				"id": 38181,
+				"title": "Item Title",
+				"item": "senegal2014\/facoly__Aty_PJyo2NZx7xM.mp4",
+				"startfrom": 0,
+				"duration": 245669,
+				"fileDuration": 245669,
+				"vod": true
+			}, {
+				"id": 38182,
+				"title": "Item Title",
+				"item": "senegal2014\/AIDA_SAMB_Sunu_sangueDfRXdbEF4UI.mp4",
+				"startfrom": 0,
+				"duration": 373725,
+				"fileDuration": 373725,
+				"vod": true
+			}, {
+				"id": 38183,
+				"title": "Item Title",
+				"item": "senegal2014\/Viviane_Chidid__Retaan__Directed_by_Wantd__Prod_by_1000_meelodies85u2eqoI9K0.mp4",
+				"startfrom": 0,
+				"duration": 260040,
+				"fileDuration": 260040,
+				"vod": true
+			}, {
+				"id": 38184,
+				"title": "Item Title",
+				"item": "senegal2014\/Pape_Diouf_rakkaju_real_Papis__Niangt9c3zzB_7I.mp4",
+				"startfrom": 0,
+				"duration": 431874,
+				"fileDuration": 431874,
+				"vod": true
+			}, {
+				"id": 38185,
+				"title": "Item Title",
+				"item": "senegal2014\/BIRAHIM_Man_Fuma_JemOQtq892XlfU.mp4",
+				"startfrom": 0,
+				"duration": 309761,
+				"fileDuration": 309761,
+				"vod": true
+			}, {
+				"id": 38186,
+				"title": "Item Title",
+				"item": "senegal2014\/Groupe_Elage_Diouf_MATHIATOUnkQzQqmTd0M.mp4",
+				"startfrom": 0,
+				"duration": 320482,
+				"fileDuration": 320482,
+				"vod": true
+			}, {
+				"id": 38187,
+				"title": "Item Title",
+				"item": "senegal2014\/NDER_Maladie_dAmour_Clip_officielTxyhI0CDGI.mp4",
+				"startfrom": 0,
+				"duration": 415319,
+				"fileDuration": 415319,
+				"vod": true
+			}, {
+				"id": 38188,
+				"title": "Item Title",
+				"item": "senegal2014\/Khalifa_Mbodji__mbakh_EJI9PCIN21Y.mp4",
+				"startfrom": 0,
+				"duration": 325474,
+				"fileDuration": 325474,
+				"vod": true
+			}, {
+				"id": 38189,
+				"title": "Item Title",
+				"item": "senegal2014\/Aicha_kara__kara_fall__real_Papis_Niang_art_biKAffuVEt69c.mp4",
+				"startfrom": 0,
+				"duration": 260843,
+				"fileDuration": 260843,
+				"vod": true
+			}, {
+				"id": 38190,
+				"title": "Item Title",
+				"item": "senegal2014\/Aby_Ndour_yalla_sunu_borom_UJkL31Sjs6M.mp4",
+				"startfrom": 0,
+				"duration": 371914,
+				"fileDuration": 371914,
+				"vod": true
+			}, {
+				"id": 38191,
+				"title": "Item Title",
+				"item": "senegal2014\/Daara_J_Family__DELOUSSILzZRqAgI8G1s.mp4",
+				"startfrom": 0,
+				"duration": 236560,
+				"fileDuration": 236560,
+				"vod": true
+			}, {
+				"id": 38192,
+				"title": "Item Title",
+				"item": "senegal2014\/Abou_ak_Fafa__U_are_my_life_mzXCmPTUDZI.mp4",
+				"startfrom": 0,
+				"duration": 325493,
+				"fileDuration": 325493,
+				"vod": true
+			}, {
+				"id": 38193,
+				"title": "Item Title",
+				"item": "senegal2013\/Adiouza__Li_Ma_Doon__Clip_OfficielehAR2KRaj5Q.mp4",
+				"startfrom": 0,
+				"duration": 237240,
+				"fileDuration": 237240,
+				"vod": true
+			}, {
+				"id": 38194,
+				"title": "Item Title",
+				"item": "senegal2013\/Waflash__Nanga_Fanee__ArtBi_ManagemanmbyMZ8ZHFwE.mp4",
+				"startfrom": 0,
+				"duration": 265242,
+				"fileDuration": 265242,
+				"vod": true
+			}, {
+				"id": 38195,
+				"title": "Item Title",
+				"item": "senegal2013\/Djiby_Dramee__Domou_Sine_j_KfMDLyiDI.mp4",
+				"startfrom": 0,
+				"duration": 309197,
+				"fileDuration": 309197,
+				"vod": true
+			}, {
+				"id": 38196,
+				"title": "Item Title",
+				"item": "senegal2013\/Ngalla__BalmaTvPGGk6XvZU.mp4",
+				"startfrom": 0,
+				"duration": 257346,
+				"fileDuration": 257346,
+				"vod": true
+			}, {
+				"id": 38197,
+				"title": "Item Title",
+				"item": "senegal2013\/Coumba_Gawlo__Kouy_Feug__Clip_OfficielgF_5vKB4mSE.mp4",
+				"startfrom": 0,
+				"duration": 466880,
+				"fileDuration": 466880,
+				"vod": true
+			}, {
+				"id": 38198,
+				"title": "Item Title",
+				"item": "senegal2013\/Pape_Diouf__Diofior_n8bTbqWb31Q.mp4",
+				"startfrom": 0,
+				"duration": 469280,
+				"fileDuration": 469280,
+				"vod": true
+			}, {
+				"id": 38199,
+				"title": "Item Title",
+				"item": "senegal2013\/Gokh_Bi_System__Yaye__Clip_Officiels6mkbNnpgVw.mp4",
+				"startfrom": 0,
+				"duration": 277269,
+				"fileDuration": 277269,
+				"vod": true
+			}, {
+				"id": 38200,
+				"title": "Item Title",
+				"item": "senegal2013\/PAPE_DIOUF___SADIOAKsiwWeBiuc.mp4",
+				"startfrom": 0,
+				"duration": 377464,
+				"fileDuration": 377464,
+				"vod": true
+			}, {
+				"id": 38201,
+				"title": "Item Title",
+				"item": "senegal2013\/Bideew_Bou_Bess__Ma_Terre_Ma_Vie__Clip_OfficielX1FU_zopi9Y.mp4",
+				"startfrom": 0,
+				"duration": 283237,
+				"fileDuration": 283237,
+				"vod": true
+			}, {
+				"id": 38202,
+				"title": "Item Title",
+				"item": "senegal2013\/TITI__GUEN_GUI_DEUK__Clip_Officiel0ChaoRFyytA.mp4",
+				"startfrom": 0,
+				"duration": 339987,
+				"fileDuration": 339987,
+				"vod": true
+			}, {
+				"id": 38203,
+				"title": "Item Title",
+				"item": "senegal2013\/Assane_Mboup__Mariage_ForceeoAOypzWtG0.mp4",
+				"startfrom": 0,
+				"duration": 292362,
+				"fileDuration": 292362,
+				"vod": true
+			}, {
+				"id": 38204,
+				"title": "Item Title",
+				"item": "senegal2013\/Amy_Collee_Dieng__Naby__Clip_OfficielhHuIOp0h1LA.mp4",
+				"startfrom": 0,
+				"duration": 400312,
+				"fileDuration": 400312,
+				"vod": true
+			}, {
+				"id": 38205,
+				"title": "Item Title",
+				"item": "senegal2013\/Mbaye_Ndiaye_tilala_CIYAWLA__ArtBi_ManagemanzvqhpirUEJg.mp4",
+				"startfrom": 0,
+				"duration": 296681,
+				"fileDuration": 296681,
+				"vod": true
+			}, {
+				"id": 38206,
+				"title": "Item Title",
+				"item": "senegal2013\/Mbidou___Surrenderws0NrljarjE.mp4",
+				"startfrom": 0,
+				"duration": 321109,
+				"fileDuration": 321109,
+				"vod": true
+			}, {
+				"id": 38207,
+				"title": "Item Title",
+				"item": "senegal2013\/Laye_Kouyatee__Gorel__ArtBi_Managemanq03Q1ReApOE.mp4",
+				"startfrom": 0,
+				"duration": 780283,
+				"fileDuration": 780283,
+				"vod": true
+			}, {
+				"id": 38208,
+				"title": "Item Title",
+				"item": "senegal2013\/Viviane_Chidid__Yaakaar__Clip_OfficielDwUmmGPQ4c.mp4",
+				"startfrom": 0,
+				"duration": 258670,
+				"fileDuration": 258670,
+				"vod": true
+			}, {
+				"id": 38209,
+				"title": "Item Title",
+				"item": "senegal2013\/Jali_Madi_Kanuteh__jarabi3cbkVImfsj8.mp4",
+				"startfrom": 0,
+				"duration": 275876,
+				"fileDuration": 275876,
+				"vod": true
+			}, {
+				"id": 38210,
+				"title": "Item Title",
+				"item": "senegal2013\/Ndiole_Diamand_Noir_ft._Aida_Ndiaye_Touba__Yaye_Ak_Dome__ArtBi_Manageman7jCIrWhBTjk.mp4",
+				"startfrom": 0,
+				"duration": 280706,
+				"fileDuration": 280706,
+				"vod": true
+			}, {
+				"id": 38211,
+				"title": "Item Title",
+				"item": "senegal2013\/Coumba_gawlo__lamb_dji__Clip_Officielt4HmuG4KLi0.mp4",
+				"startfrom": 0,
+				"duration": 548200,
+				"fileDuration": 548200,
+				"vod": true
+			}, {
+				"id": 38212,
+				"title": "Item Title",
+				"item": "senegal2013\/Jali_Madi_KanutehwM2MZx0oNx4.mp4",
+				"startfrom": 0,
+				"duration": 55798,
+				"fileDuration": 55798,
+				"vod": true
+			}, {
+				"id": 38213,
+				"title": "Item Title",
+				"item": "senegal2013\/COURA_MBAYE__NIIT_iEFlLEgWdwY.mp4",
+				"startfrom": 0,
+				"duration": 364042,
+				"fileDuration": 364042,
+				"vod": true
+			}, {
+				"id": 38214,
+				"title": "Item Title",
+				"item": "senegal2013\/Mame_Goor_Diazaka__Fall_Lamp_Mo5XtGydbVw.mp4",
+				"startfrom": 0,
+				"duration": 300280,
+				"fileDuration": 300280,
+				"vod": true
+			}, {
+				"id": 38215,
+				"title": "Item Title",
+				"item": "senegal2013\/Khalifa_Gueye__Mbar_rifb9lkSAxQ.mp4",
+				"startfrom": 0,
+				"duration": 246201,
+				"fileDuration": 246201,
+				"vod": true
+			}, {
+				"id": 38216,
+				"title": "Item Title",
+				"item": "senegal2013\/Aida_samb___Gestu___ArtBi_ManagemanxEkqOkuLlkQ.mp4",
+				"startfrom": 0,
+				"duration": 389190,
+				"fileDuration": 389190,
+				"vod": true
+			}, {
+				"id": 38217,
+				"title": "Item Title",
+				"item": "senegal2013\/Sidy_Samb__Djoubo__Clip_Officiel0vnXBFjolGE.mp4",
+				"startfrom": 0,
+				"duration": 282564,
+				"fileDuration": 282564,
+				"vod": true
+			}, {
+				"id": 38218,
+				"title": "Item Title",
+				"item": "senegal2013\/Ngone_Ndiaye_Gueweul__Yay_Sai_Sai__ArtBi_Managemanhq5sdAhOgW8.mp4",
+				"startfrom": 0,
+				"duration": 266472,
+				"fileDuration": 266472,
+				"vod": true
+			}, {
+				"id": 38219,
+				"title": "Item Title",
+				"item": "senegal2013\/Abdou_Guitee_Seeck__JambJi__ArtBi_Manageman2cXkx8ShktI.mp4",
+				"startfrom": 0,
+				"duration": 297749,
+				"fileDuration": 297749,
+				"vod": true
+			}, {
+				"id": 38220,
+				"title": "Item Title",
+				"item": "senegal2013\/Safari__Inata__Clip_OfficielaklUbT3DUFU.mp4",
+				"startfrom": 0,
+				"duration": 181835,
+				"fileDuration": 181835,
+				"vod": true
+			}, {
+				"id": 38221,
+				"title": "Item Title",
+				"item": "senegal2013\/Yves_Niang_ft._Mame_Bassine_Beugue__Nalene__ArtBi_ManagemansVMmgQVrah8.mp4",
+				"startfrom": 0,
+				"duration": 332120,
+				"fileDuration": 332120,
+				"vod": true
+			}, {
+				"id": 38222,
+				"title": "Item Title",
+				"item": "senegal2013\/MOMO_ThiatZZH2aSmR940.mp4",
+				"startfrom": 0,
+				"duration": 340706,
+				"fileDuration": 340706,
+				"vod": true
+			}, {
+				"id": 38223,
+				"title": "Item Title",
+				"item": "senegal2013\/Assane_Ndiaye__Beuree__ArtBi_ManagemanR359mDcCgjY.mp4",
+				"startfrom": 0,
+				"duration": 296240,
+				"fileDuration": 296240,
+				"vod": true
+			}, {
+				"id": 38224,
+				"title": "Item Title",
+				"item": "senegal2013\/Facoly_Baby_Boy5SI3G256Xgs.mp4",
+				"startfrom": 0,
+				"duration": 229065,
+				"fileDuration": 229065,
+				"vod": true
+			}, {
+				"id": 38225,
+				"title": "Item Title",
+				"item": "senegal2013\/Demba_Guissee__Mbiffee_YtEBIEZqal4.mp4",
+				"startfrom": 0,
+				"duration": 287556,
+				"fileDuration": 287556,
+				"vod": true
+			}, {
+				"id": 38226,
+				"title": "Item Title",
+				"item": "senegal2013\/Fata_feat_Mbaye_Dieye__Waly_Seck__Nguentee____real_Papis_Niang_art_biD3SqQnq70P8.mp4",
+				"startfrom": 0,
+				"duration": 250752,
+				"fileDuration": 250752,
+				"vod": true
+			}, {
+				"id": 38227,
+				"title": "Item Title",
+				"item": "senegal2013\/Djiby_Drame__Mama_Cheerie_Son__Mbowla__ArtBi_ManagemangXai2yPHvek.mp4",
+				"startfrom": 0,
+				"duration": 332742,
+				"fileDuration": 332742,
+				"vod": true
+			}, {
+				"id": 38228,
+				"title": "Item Title",
+				"item": "senegal2013\/Pape_Ndiaye_Thiou__A.Ndouti__ArtBi_ManagemankHtycbeG5ac.mp4",
+				"startfrom": 0,
+				"duration": 281040,
+				"fileDuration": 281040,
+				"vod": true
+			}, {
+				"id": 38229,
+				"title": "Item Title",
+				"item": "senegal2013\/Titi_Jiggen_Feem__Video_Originale__Bonus__LYRICS_dans_la_descriptionObiJOtDMdUc.mp4",
+				"startfrom": 0,
+				"duration": 314305,
+				"fileDuration": 314305,
+				"vod": true
+			}, {
+				"id": 38230,
+				"title": "Item Title",
+				"item": "senegal2013\/El_Gueye__Namo_Dara__ArtBi_ManagemanYToAcDL1Nk4.mp4",
+				"startfrom": 0,
+				"duration": 332069,
+				"fileDuration": 332069,
+				"vod": true
+			}, {
+				"id": 38231,
+				"title": "Item Title",
+				"item": "senegal2013\/BIRAHIM__NABI_real___PAPIS_NIANG_art__bi__ArtBi_Manageman7B1lJVJD_JU.mp4",
+				"startfrom": 0,
+				"duration": 310683,
+				"fileDuration": 310683,
+				"vod": true
+			}, {
+				"id": 38232,
+				"title": "Item Title",
+				"item": "senegal2013\/ABY_NDOUR__DIARRA__ArtBi_Manageman8W0XLymWKL4.mp4",
+				"startfrom": 0,
+				"duration": 270466,
+				"fileDuration": 270466,
+				"vod": true
+			}, {
+				"id": 38233,
+				"title": "Item Title",
+				"item": "senegal2013\/Adiouza__Ndaanane__Clip_Officielh_qsFhyPy4Y.mp4",
+				"startfrom": 0,
+				"duration": 314680,
+				"fileDuration": 314680,
+				"vod": true
+			}, {
+				"id": 38234,
+				"title": "Item Title",
+				"item": "senegal2013\/BABA_HAMDY_feat_DABA_SEYE___JamaleeyGhlWZJs61k.mp4",
+				"startfrom": 0,
+				"duration": 249754,
+				"fileDuration": 249754,
+				"vod": true
+			}, {
+				"id": 18840,
+				"title": "Item Title",
+				"item": "senegal2016\/Boy_Sidy__NopnaleumFWddnysdBw.mp4",
+				"startfrom": 0,
+				"duration": 303833,
+				"fileDuration": 303833,
+				"vod": true
+			}, {
+				"id": 18841,
+				"title": "Item Title",
+				"item": "senegal2016\/Assane_NDIAYE__Yen_idClovxeB9A.mp4",
+				"startfrom": 0,
+				"duration": 302184,
+				"fileDuration": 302184,
+				"vod": true
+			}, {
+				"id": 18842,
+				"title": "Item Title",
+				"item": "senegal2016\/Wally_B._Seck__Jiguen_Mini_filmAo08buUp6TE.mp4",
+				"startfrom": 0,
+				"duration": 285327,
+				"fileDuration": 285327,
+				"vod": true
+			}, {
+				"id": 18843,
+				"title": "Item Title",
+				"item": "senegal2016\/Dior_MBAYE__Moom_Rek_Clip_OfficielhbvX2PRZSpg.mp4",
+				"startfrom": 0,
+				"duration": 74722,
+				"fileDuration": 74722,
+				"vod": true
+			}, {
+				"id": 18844,
+				"title": "Item Title",
+				"item": "senegal2016\/Safari__Allah_Clip_OfficielACnq_zv4vps.mp4",
+				"startfrom": 0,
+				"duration": 235590,
+				"fileDuration": 235590,
+				"vod": true
+			}, {
+				"id": 18845,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid___Naxma_clip_officieljsA26g4DDaU.mp4",
+				"startfrom": 0,
+				"duration": 316674,
+				"fileDuration": 316674,
+				"vod": true
+			}, {
+				"id": 18846,
+				"title": "Item Title",
+				"item": "senegal2016\/Daara_J_Family__Xeetkc8UTVmFdWo.mp4",
+				"startfrom": 0,
+				"duration": 256720,
+				"fileDuration": 256720,
+				"vod": true
+			}, {
+				"id": 18847,
+				"title": "Item Title",
+				"item": "senegal2016\/Bideew_Bou_Bess__I_Belong_Clip_Officielhs6qelc8YtU.mp4",
+				"startfrom": 0,
+				"duration": 273670,
+				"fileDuration": 273670,
+				"vod": true
+			}, {
+				"id": 18848,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid__Wuyuma_Clip_OfficielnmJp40oR1L4.mp4",
+				"startfrom": 0,
+				"duration": 197904,
+				"fileDuration": 197904,
+				"vod": true
+			}, {
+				"id": 18849,
+				"title": "Item Title",
+				"item": "senegal2016\/Chadia__Naeu_Boolo_cjd06F6jnio.mp4",
+				"startfrom": 0,
+				"duration": 235079,
+				"fileDuration": 235079,
+				"vod": true
+			}, {
+				"id": 18850,
+				"title": "Item Title",
+				"item": "senegal2016\/Kine_Lam__linguere_sK4nkGnmmqs.mp4",
+				"startfrom": 0,
+				"duration": 355753,
+				"fileDuration": 355753,
+				"vod": true
+			}, {
+				"id": 18851,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid__Yaama_Neekh_Clip_OfficielG0MmB41nyKM.mp4",
+				"startfrom": 0,
+				"duration": 302997,
+				"fileDuration": 302997,
+				"vod": true
+			}, {
+				"id": 18852,
+				"title": "Item Title",
+				"item": "senegal2016\/BIRAHIM_feat_PPS__Love_u_for_Ever_Videeo_Officielle7eV1YHu9TI.mp4",
+				"startfrom": 0,
+				"duration": 277200,
+				"fileDuration": 277200,
+				"vod": true
+			}, {
+				"id": 18853,
+				"title": "Item Title",
+				"item": "senegal2016\/Kadia__la_tigresse__Ndeekeetee_weero22f93KZUo8.mp4",
+				"startfrom": 0,
+				"duration": 320482,
+				"fileDuration": 320482,
+				"vod": true
+			}, {
+				"id": 18854,
+				"title": "Item Title",
+				"item": "senegal2016\/Noface_Vs_Mia__Reine_Xol_Round_5u9xtIZBnnK0.mp4",
+				"startfrom": 0,
+				"duration": 205636,
+				"fileDuration": 205636,
+				"vod": true
+			}, {
+				"id": 18855,
+				"title": "Item Title",
+				"item": "senegal2016\/GO_Ndiaye__Ndeye_Teneng_ihmARKGptTo.mp4",
+				"startfrom": 0,
+				"duration": 318833,
+				"fileDuration": 318833,
+				"vod": true
+			}, {
+				"id": 18856,
+				"title": "Item Title",
+				"item": "senegal2016\/Bai_Babu_ft_Barhama___Fahass___Official_Video2F2HLsZdW_c.mp4",
+				"startfrom": 0,
+				"duration": 320505,
+				"fileDuration": 320505,
+				"vod": true
+			}, {
+				"id": 18857,
+				"title": "Item Title",
+				"item": "senegal2016\/Daara_J_Family__Senegal_Clip_OfficielJpvDC_s8aDg.mp4",
+				"startfrom": 0,
+				"duration": 252726,
+				"fileDuration": 252726,
+				"vod": true
+			}, {
+				"id": 18858,
+				"title": "Item Title",
+				"item": "senegal2016\/Wally_Seck__Donne_moi_une_chance_Clip_OfficielT0I1y1m4dNs.mp4",
+				"startfrom": 0,
+				"duration": 256789,
+				"fileDuration": 256789,
+				"vod": true
+			}, {
+				"id": 18859,
+				"title": "Item Title",
+				"item": "senegal2016\/ABIBA__DOMZEI_Clip_OfficielvWIhjV6ojqY.mp4",
+				"startfrom": 0,
+				"duration": 207958,
+				"fileDuration": 207958,
+				"vod": true
+			}, {
+				"id": 18860,
+				"title": "Item Title",
+				"item": "senegal2016\/PAPOUNETAbiba__Sidiki_OfficielCnyVaVSaTk.mp4",
+				"startfrom": 0,
+				"duration": 254793,
+				"fileDuration": 254793,
+				"vod": true
+			}, {
+				"id": 18861,
+				"title": "Item Title",
+				"item": "senegal2016\/Prestation_Ceereemonie_de__My_Feeling__BellesxuP3fNmnk.mp4",
+				"startfrom": 0,
+				"duration": 591923,
+				"fileDuration": 591923,
+				"vod": true
+			}, {
+				"id": 18862,
+				"title": "Item Title",
+				"item": "senegal2016\/GO_Ndiaye__lady_2inhB6N2SjQ.mp4",
+				"startfrom": 0,
+				"duration": 324801,
+				"fileDuration": 324801,
+				"vod": true
+			}, {
+				"id": 18863,
+				"title": "Item Title",
+				"item": "senegal2016\/Youssou_Ndour__YAAKAR__Hommage_a_Doudou_Ndiaye_Rose__Vieux_Sing_Faye__Videos_Official_HDHzsQfjnOfro.mp4",
+				"startfrom": 0,
+				"duration": 522077,
+				"fileDuration": 522077,
+				"vod": true
+			}, {
+				"id": 18864,
+				"title": "Item Title",
+				"item": "senegal2016\/Guigui__Diokhma_Sa_kholtgfYBRdJw.mp4",
+				"startfrom": 0,
+				"duration": 300397,
+				"fileDuration": 300397,
+				"vod": true
+			}, {
+				"id": 18865,
+				"title": "Item Title",
+				"item": "senegal2016\/Carlou_DyEw5_GxuRhc.mp4",
+				"startfrom": 0,
+				"duration": 194188,
+				"fileDuration": 194188,
+				"vod": true
+			}, {
+				"id": 18866,
+				"title": "Item Title",
+				"item": "senegal2016\/Wally_Seck_x_Sidiki_Diabatee__Alhamdou_lilah_Clip_Officieltk6tVDNIAGQ.mp4",
+				"startfrom": 0,
+				"duration": 295126,
+				"fileDuration": 295126,
+				"vod": true
+			}, {
+				"id": 18867,
+				"title": "Item Title",
+				"item": "senegal2016\/Youssou_Ndour_DJIGUENE_GNI__Official_Video_zZweEsGkmIo.mp4",
+				"startfrom": 0,
+				"duration": 212323,
+				"fileDuration": 212323,
+				"vod": true
+			}, {
+				"id": 18868,
+				"title": "Item Title",
+				"item": "senegal2016\/Nouveau_Clip_De_Baye_Demba_Faye_Leumbeul_Dance_HalligQ39cDet9M.mp4",
+				"startfrom": 0,
+				"duration": 369499,
+				"fileDuration": 369499,
+				"vod": true
+			}, {
+				"id": 18869,
+				"title": "Item Title",
+				"item": "senegal2016\/OMG__Chic_Choc_Chec_feat_Fata_Clip_officiel_2016AY0jvJHd0o.mp4",
+				"startfrom": 0,
+				"duration": 264684,
+				"fileDuration": 264684,
+				"vod": true
+			}, {
+				"id": 18870,
+				"title": "Item Title",
+				"item": "senegal2016\/Abiba_et_Sidiki_DiabateGabon_2017_OfficielS9NI2gltCYE.mp4",
+				"startfrom": 0,
+				"duration": 256279,
+				"fileDuration": 256279,
+				"vod": true
+			}, {
+				"id": 18871,
+				"title": "Item Title",
+				"item": "senegal2016\/NDIOLE___Cou_Cou_Snap_PgijtjqS30.mp4",
+				"startfrom": 0,
+				"duration": 290435,
+				"fileDuration": 290435,
+				"vod": true
+			}, {
+				"id": 18872,
+				"title": "Item Title",
+				"item": "senegal2016\/Armel_Gabbana_feat_Wally_Ballago_Seck__Jimmi_2.0_Clip_OfficielAmXP9EaMGOk.mp4",
+				"startfrom": 0,
+				"duration": 220543,
+				"fileDuration": 220543,
+				"vod": true
+			}, {
+				"id": 18873,
+				"title": "Item Title",
+				"item": "senegal2016\/Youssou_Ndour__Serin_Fallu_Clip_Officielop7DZ3NeQg.mp4",
+				"startfrom": 0,
+				"duration": 394228,
+				"fileDuration": 394228,
+				"vod": true
+			}, {
+				"id": 18874,
+				"title": "Item Title",
+				"item": "senegal2016\/Petit_Bara__Mbalax_Day_Wax_Clip_officielF81rD_DlAKo.mp4",
+				"startfrom": 0,
+				"duration": 307548,
+				"fileDuration": 307548,
+				"vod": true
+			}, {
+				"id": 18875,
+				"title": "Item Title",
+				"item": "senegal2016\/Koutay_Bamba_J_Fall__akk_sant_SlZ0QrGUUgQ.mp4",
+				"startfrom": 0,
+				"duration": 298469,
+				"fileDuration": 298469,
+				"vod": true
+			}, {
+				"id": 18876,
+				"title": "Item Title",
+				"item": "senegal2016\/Sidiki_Diabatee__Inianafi_Debena_Clip_OfficielDELY4vhQTj8.mp4",
+				"startfrom": 0,
+				"duration": 239816,
+				"fileDuration": 239816,
+				"vod": true
+			}, {
+				"id": 18877,
+				"title": "Item Title",
+				"item": "senegal2016\/PAPE_DIOUFMalaw_Feat_Baye_BabouVideeo_Officiellew0hns04Ns.mp4",
+				"startfrom": 0,
+				"duration": 414639,
+				"fileDuration": 414639,
+				"vod": true
+			}, {
+				"id": 18878,
+				"title": "Item Title",
+				"item": "senegal2016\/Gui_Gui__Boul_ma_di_door_YontbO6isxg.mp4",
+				"startfrom": 0,
+				"duration": 306828,
+				"fileDuration": 306828,
+				"vod": true
+			}, {
+				"id": 18879,
+				"title": "Item Title",
+				"item": "senegal2016\/ADIOUZA___DADDY_remix_Clip_OfficielMH8_Iip7y3g.mp4",
+				"startfrom": 0,
+				"duration": 219266,
+				"fileDuration": 219266,
+				"vod": true
+			}, {
+				"id": 18880,
+				"title": "Item Title",
+				"item": "senegal2016\/Abdou_Guite_SECK_Thiono_Adouna__Remix__CLIP_1ere_PartieGm9Mls9fpg.mp4",
+				"startfrom": 0,
+				"duration": 268283,
+				"fileDuration": 268283,
+				"vod": true
+			}, {
+				"id": 18881,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid__Siggil_Clip_Officiel_cmODXQa_sAs.mp4",
+				"startfrom": 0,
+				"duration": 390699,
+				"fileDuration": 390699,
+				"vod": true
+			}, {
+				"id": 18882,
+				"title": "Item Title",
+				"item": "senegal2016\/Secka__Premiere_Dame_FMoCjK2IxJg.mp4",
+				"startfrom": 0,
+				"duration": 325312,
+				"fileDuration": 325312,
+				"vod": true
+			}, {
+				"id": 18883,
+				"title": "Item Title",
+				"item": "senegal2016\/BIRAHIMSAMA_MARIAGEnouveau_ClipZCJlHcPfdBM.mp4",
+				"startfrom": 0,
+				"duration": 208956,
+				"fileDuration": 208956,
+				"vod": true
+			}, {
+				"id": 18884,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid__No_Stress_Clip_OfficielKlE8MlCWgmI.mp4",
+				"startfrom": 0,
+				"duration": 226952,
+				"fileDuration": 226952,
+				"vod": true
+			}, {
+				"id": 18885,
+				"title": "Item Title",
+				"item": "senegal2016\/PAPE_DIOUF__Total_Excellium_EksinaVideo_Officielle_NkASUp85rk.mp4",
+				"startfrom": 0,
+				"duration": 258368,
+				"fileDuration": 258368,
+				"vod": true
+			}, {
+				"id": 18886,
+				"title": "Item Title",
+				"item": "senegal2016\/Samba_Peuzzi__From_Diack_2_OfficialfavM0otiDp4.mp4",
+				"startfrom": 0,
+				"duration": 148933,
+				"fileDuration": 148933,
+				"vod": true
+			}, {
+				"id": 18887,
+				"title": "Item Title",
+				"item": "senegal2016\/Elaj_Keita__Sama_XolSlradxl3Lb8.mp4",
+				"startfrom": 0,
+				"duration": 302626,
+				"fileDuration": 302626,
+				"vod": true
+			}, {
+				"id": 18888,
+				"title": "Item Title",
+				"item": "senegal2016\/Sidiki_Diabatee__Cest_bon_Clip_Officiel_feat._Iba_One_et_NiskaC0cy1Kt5Dwc.mp4",
+				"startfrom": 0,
+				"duration": 267192,
+				"fileDuration": 267192,
+				"vod": true
+			}, {
+				"id": 18889,
+				"title": "Item Title",
+				"item": "senegal2016\/Sidate__Bon_Bon__Cafe_ToubaFQ9MNKcQ4W8.mp4",
+				"startfrom": 0,
+				"duration": 309685,
+				"fileDuration": 309685,
+				"vod": true
+			}, {
+				"id": 18890,
+				"title": "Item Title",
+				"item": "senegal2016\/Bai_Babu_Attitude_Girl_Official_Videosu1wIAr3fE0.mp4",
+				"startfrom": 0,
+				"duration": 227114,
+				"fileDuration": 227114,
+				"vod": true
+			}, {
+				"id": 18891,
+				"title": "Item Title",
+				"item": "senegal2016\/Wally_B._Seck__STAY_Clip_Officielg6QrXwGUqAM.mp4",
+				"startfrom": 0,
+				"duration": 363276,
+				"fileDuration": 363276,
+				"vod": true
+			}, {
+				"id": 18892,
+				"title": "Item Title",
+				"item": "senegal2016\/Yves_Niang_YENA_TAKHQztyrY7pOAg.mp4",
+				"startfrom": 0,
+				"duration": 306248,
+				"fileDuration": 306248,
+				"vod": true
+			}, {
+				"id": 18893,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid__Retaan_Clip_OfficielJep2P0Fuei0.mp4",
+				"startfrom": 0,
+				"duration": 259923,
+				"fileDuration": 259923,
+				"vod": true
+			}, {
+				"id": 18894,
+				"title": "Item Title",
+				"item": "senegal2016\/MOMO_DIENG_Lang_Gui_le_Clipr0WTxbFOjco.mp4",
+				"startfrom": 0,
+				"duration": 361233,
+				"fileDuration": 361233,
+				"vod": true
+			}, {
+				"id": 18895,
+				"title": "Item Title",
+				"item": "senegal2016\/NDERGeneralVideo_officielleW8VKn7Lx8ds.mp4",
+				"startfrom": 0,
+				"duration": 377882,
+				"fileDuration": 377882,
+				"vod": true
+			}, {
+				"id": 18896,
+				"title": "Item Title",
+				"item": "senegal2016\/CLIP_Abdou_Guitee_Seck_Thiono_Adouna2ieme_Partie__Remix_Clip_EfSqbx9dfSA.mp4",
+				"startfrom": 0,
+				"duration": 173407,
+				"fileDuration": 173407,
+				"vod": true
+			}, {
+				"id": 18897,
+				"title": "Item Title",
+				"item": "senegal2016\/FATOU_GUEWEL_DIOUF_MBARASSE_PLUS_2017_CLIP_OFFICIELf2BcIPZKbvQ.mp4",
+				"startfrom": 0,
+				"duration": 331720,
+				"fileDuration": 331720,
+				"vod": true
+			}, {
+				"id": 18898,
+				"title": "Item Title",
+				"item": "senegal2016\/Dior_Mbaye__Baara_Aw_Clip_Officiel3oXMOUaNd4U.mp4",
+				"startfrom": 0,
+				"duration": 252076,
+				"fileDuration": 252076,
+				"vod": true
+			}, {
+				"id": 18899,
+				"title": "Item Title",
+				"item": "senegal2016\/PAPE_DIOUF_Lamb_Ju_ReyBadadoutKPRqpq9hxFs.mp4",
+				"startfrom": 0,
+				"duration": 335157,
+				"fileDuration": 335157,
+				"vod": true
+			}, {
+				"id": 18900,
+				"title": "Item Title",
+				"item": "senegal2016\/Ndeye_Fatou_Ndiaye_Mama__Seydina_Muhamed_p86_E8yyKY4.mp4",
+				"startfrom": 0,
+				"duration": 322432,
+				"fileDuration": 322432,
+				"vod": true
+			}, {
+				"id": 18901,
+				"title": "Item Title",
+				"item": "senegal2016\/Wally_B._Seck__Si_vous_saviez_Clip_OfficielEnL78Wgu6DQ.mp4",
+				"startfrom": 0,
+				"duration": 299375,
+				"fileDuration": 299375,
+				"vod": true
+			}, {
+				"id": 18902,
+				"title": "Item Title",
+				"item": "senegal2016\/Mbathio_Ndiaye__Thiopati___real_Art__Bi_ManagemanpTZQQ08AM0U.mp4",
+				"startfrom": 0,
+				"duration": 317672,
+				"fileDuration": 317672,
+				"vod": true
+			}, {
+				"id": 18903,
+				"title": "Item Title",
+				"item": "senegal2016\/Queen_Biz__Teeree_Neelaw_Official_videeogvEW0wrnWWk.mp4",
+				"startfrom": 0,
+				"duration": 353477,
+				"fileDuration": 353477,
+				"vod": true
+			}, {
+				"id": 18904,
+				"title": "Item Title",
+				"item": "senegal2016\/Diha___Meune_na_neK_mbalax_2016x2ZgVNY46KQ.mp4",
+				"startfrom": 0,
+				"duration": 352363,
+				"fileDuration": 352363,
+				"vod": true
+			}, {
+				"id": 18905,
+				"title": "Item Title",
+				"item": "senegal2016\/Youssou_Ndour__SENEGALREKK__VIDEO_OFFICIAL4AsE3pNhJk.mp4",
+				"startfrom": 0,
+				"duration": 337990,
+				"fileDuration": 337990,
+				"vod": true
+			}, {
+				"id": 18906,
+				"title": "Item Title",
+				"item": "senegal2016\/Soleil_Levant__Bercy_Wally_gui_ni_X4_BKItKwp0.mp4",
+				"startfrom": 0,
+				"duration": 285304,
+				"fileDuration": 285304,
+				"vod": true
+			}, {
+				"id": 18907,
+				"title": "Item Title",
+				"item": "senegal2016\/nuveau_clip__Titi_Nitt_dayy_xam_boppamQFJYVWSYyW0.mp4",
+				"startfrom": 0,
+				"duration": 358563,
+				"fileDuration": 358563,
+				"vod": true
+			}, {
+				"id": 18908,
+				"title": "Item Title",
+				"item": "senegal2016\/Backa_Niang__sama_djiguene_OAtxTxDpNJw.mp4",
+				"startfrom": 0,
+				"duration": 334948,
+				"fileDuration": 334948,
+				"vod": true
+			}, {
+				"id": 18909,
+				"title": "Item Title",
+				"item": "senegal2016\/Youssou_Ndour__Be_careful_Clip_officielBGt1htuyhiU.mp4",
+				"startfrom": 0,
+				"duration": 242231,
+				"fileDuration": 242231,
+				"vod": true
+			}, {
+				"id": 18910,
+				"title": "Item Title",
+				"item": "senegal2016\/Bideew_Bou_Bess__Belle_Clip_OfficielP0O0FC5YNhc.mp4",
+				"startfrom": 0,
+				"duration": 295195,
+				"fileDuration": 295195,
+				"vod": true
+			}, {
+				"id": 18911,
+				"title": "Item Title",
+				"item": "senegal2016\/Djiby_Drame__Manssasi_Video_Officiel_Reeal__IpromaygKcVOc1k.mp4",
+				"startfrom": 0,
+				"duration": 267912,
+				"fileDuration": 267912,
+				"vod": true
+			}, {
+				"id": 18912,
+				"title": "Item Title",
+				"item": "senegal2016\/Ndeye_Mboup___Nit_Ku_Bax_yXk5Qt7qgCA.mp4",
+				"startfrom": 0,
+				"duration": 314352,
+				"fileDuration": 314352,
+				"vod": true
+			}, {
+				"id": 18913,
+				"title": "Item Title",
+				"item": "senegal2016\/Assane_Ndiaye__Ndioukeul__Real_Ppapis_Niang_Art_BicGKthvoeYfM.mp4",
+				"startfrom": 0,
+				"duration": 301558,
+				"fileDuration": 301558,
+				"vod": true
+			}, {
+				"id": 18914,
+				"title": "Item Title",
+				"item": "senegal2017\/Fatou_Guewel_DIOUF_MBEUGEL_SaintVallentin_2017qUTAkApJ5FU.mp4",
+				"startfrom": 0,
+				"duration": 402054,
+				"fileDuration": 402054,
+				"vod": true
+			}, {
+				"id": 18915,
+				"title": "Item Title",
+				"item": "senegal2017\/Samba_Peuzzi___KEULEUM_Official_VideoEDRs5euhCvo.mp4",
+				"startfrom": 0,
+				"duration": 190357,
+				"fileDuration": 190357,
+				"vod": true
+			}, {
+				"id": 18916,
+				"title": "Item Title",
+				"item": "senegal2017\/Viviane_Chidid_Mariage_Forceee_Nouveautee_20172bARQhl7P4Q.mp4",
+				"startfrom": 0,
+				"duration": 225257,
+				"fileDuration": 225257,
+				"vod": true
+			}, {
+				"id": 18917,
+				"title": "Item Title",
+				"item": "senegal2017\/Wally_Seck__Donne_moi_une_chance_Clip_OfficielT0I1y1m4dNs.mp4",
+				"startfrom": 0,
+				"duration": 256789,
+				"fileDuration": 256789,
+				"vod": true
+			}, {
+				"id": 18918,
+				"title": "Item Title",
+				"item": "senegal2017\/SIDIKI_DIABATE_feat_HAMED_DIABATE_HAIDARA_clip_officiel3qfX_or81Zs.mp4",
+				"startfrom": 0,
+				"duration": 271464,
+				"fileDuration": 271464,
+				"vod": true
+			}, {
+				"id": 18919,
+				"title": "Item Title",
+				"item": "senegal2017\/AbibaGeum_Sa_Bopp_clip_officielTRsvWcpkutg.mp4",
+				"startfrom": 0,
+				"duration": 196766,
+				"fileDuration": 196766,
+				"vod": true
+			}, {
+				"id": 18920,
+				"title": "Item Title",
+				"item": "senegal2017\/DIP__DAMAKO_KHAR_cover__BAYE_MASS_17ANS_TDYF4_hkzo.mp4",
+				"startfrom": 0,
+				"duration": 334135,
+				"fileDuration": 334135,
+				"vod": true
+			}, {
+				"id": 18921,
+				"title": "Item Title",
+				"item": "senegal2017\/Leycha__Lees_Waxul_Cover_Youssou_Ndour_X_Yande_Codou_Sene9vZNRS4TEEk.mp4",
+				"startfrom": 0,
+				"duration": 240080,
+				"fileDuration": 240080,
+				"vod": true
+			}, {
+				"id": 18923,
+				"title": "Item Title",
+				"item": "senegal2017\/Samba_Peuzzi___Boy_Ghetto_Official_Directed_by_Ben_B68vB8YJZssY.mp4",
+				"startfrom": 0,
+				"duration": 265358,
+				"fileDuration": 265358,
+				"vod": true
+			}, {
+				"id": 18924,
+				"title": "Item Title",
+				"item": "senegal2017\/Sidiki_Diabatee__Je_suis_deesolee_Clip_OfficielP0eZEhiJoRg.mp4",
+				"startfrom": 0,
+				"duration": 309104,
+				"fileDuration": 309104,
+				"vod": true
+			}, {
+				"id": 18925,
+				"title": "Item Title",
+				"item": "senegal2017\/FATOU_GUEWEL_DIOUF_MBARASSE_PLUS_2017_CLIP_OFFICIELf2BcIPZKbvQ.mp4",
+				"startfrom": 0,
+				"duration": 331720,
+				"fileDuration": 331720,
+				"vod": true
+			}, {
+				"id": 18926,
+				"title": "Item Title",
+				"item": "senegal2017\/Dip_Doundou_guissDamako_kharheA1mPxysHs.mp4",
+				"startfrom": 0,
+				"duration": 263407,
+				"fileDuration": 263407,
+				"vod": true
+			}, {
+				"id": 18927,
+				"title": "Item Title",
+				"item": "senegal2017\/Maabo__Yako_Waral_Round_6bPhr6CfVNU.mp4",
+				"startfrom": 0,
+				"duration": 198716,
+				"fileDuration": 198716,
+				"vod": true
+			}, {
+				"id": 18928,
+				"title": "Item Title",
+				"item": "senegal2017\/VIVIANE_CHIDID_Feat_BANLIEUZART__LON_KELENnpxqlMoZ6Dw.mp4",
+				"startfrom": 0,
+				"duration": 225791,
+				"fileDuration": 225791,
+				"vod": true
+			}, {
+				"id": 18929,
+				"title": "Item Title",
+				"item": "senegal2017\/Viviane_Chidid_Lii_Dafa_Niaw2017IkEvHap5y_E.mp4",
+				"startfrom": 0,
+				"duration": 203082,
+				"fileDuration": 203082,
+				"vod": true
+			}, {
+				"id": 40777,
+				"title": "Item Title",
+				"item": "senegal2017\/Viviane_Chidid_Seeneegal_Ben_BopNouveautee_2017ZgGpJLEBuY.mp4",
+				"startfrom": 0,
+				"duration": 232000,
+				"fileDuration": 232246,
+				"vod": true
+			}],
+			"channel": "musictv",
+			"startTime": "1587686400000",
+			"stopTime": 1587687013000,
+			"priority": 0,
+			"shuffle": false
+		}, {
+			"id": 48183,
+			"title": "Plyalist Title",
+			"items": [{
+				"id": 47834,
+				"title": "Item Title",
+				"item": "senegal2014\/Ndeye_Ndiaye_Lamsal__kignianepWR5qKWp3Fk.mp4",
+				"startfrom": 0,
+				"duration": 307688,
+				"fileDuration": 307688,
+				"vod": true
+			}, {
+				"id": 47835,
+				"title": "Item Title",
+				"item": "senegal2014\/Coumba_Gawlo__Ft._Fatou_Kinee_Mbaye__Djessy__Clip_Officielln611RMBASs.mp4",
+				"startfrom": 0,
+				"duration": 493726,
+				"fileDuration": 493726,
+				"vod": true
+			}, {
+				"id": 47836,
+				"title": "Item Title",
+				"item": "senegal2014\/Dior__Demna_Clip_Officield8NhtPJlasQ.mp4",
+				"startfrom": 0,
+				"duration": 60994,
+				"fileDuration": 60994,
+				"vod": true
+			}, {
+				"id": 47837,
+				"title": "Item Title",
+				"item": "senegal2014\/Modou_Mbollu__gouthi_raguinnIzxPH83qG_o.mp4",
+				"startfrom": 0,
+				"duration": 309842,
+				"fileDuration": 309842,
+				"vod": true
+			}, {
+				"id": 47838,
+				"title": "Item Title",
+				"item": "senegal2014\/BIRAHIM_From_MedinaClipoGFzqdIH_NM.mp4",
+				"startfrom": 0,
+				"duration": 346127,
+				"fileDuration": 346127,
+				"vod": true
+			}, {
+				"id": 47839,
+				"title": "Item Title",
+				"item": "senegal2014\/Super_Ceedo_Ceey_BicHiILiGltXU.mp4",
+				"startfrom": 0,
+				"duration": 305724,
+				"fileDuration": 305724,
+				"vod": true
+			}, {
+				"id": 47840,
+				"title": "Item Title",
+				"item": "senegal2014\/Go_Ndiaye__fi_nu_jaar__real___Papis_niangoyfNvh4BItE.mp4",
+				"startfrom": 0,
+				"duration": 322752,
+				"fileDuration": 322752,
+				"vod": true
+			}, {
+				"id": 47841,
+				"title": "Item Title",
+				"item": "senegal2014\/Secka_feat_Baba__seydi_babacar_UvgqEHCmUo8.mp4",
+				"startfrom": 0,
+				"duration": 264714,
+				"fileDuration": 264714,
+				"vod": true
+			}, {
+				"id": 47842,
+				"title": "Item Title",
+				"item": "senegal2014\/Gelongal__Nterro_Clip_Officielxs2HwjrJSY.mp4",
+				"startfrom": 0,
+				"duration": 235840,
+				"fileDuration": 235840,
+				"vod": true
+			}, {
+				"id": 47843,
+				"title": "Item Title",
+				"item": "senegal2014\/Galass__sara_mbara_mbaye__Film__by_Art_bi_managemanL_zeJiuryvA.mp4",
+				"startfrom": 0,
+				"duration": 310960,
+				"fileDuration": 310960,
+				"vod": true
+			}, {
+				"id": 47844,
+				"title": "Item Title",
+				"item": "senegal2014\/Pape_Diagne__meissa_bigue_FQHzxa6QF4.mp4",
+				"startfrom": 0,
+				"duration": 337595,
+				"fileDuration": 337595,
+				"vod": true
+			}, {
+				"id": 47845,
+				"title": "Item Title",
+				"item": "senegal2014\/El_gueye__you_and_meRCH8N4xJVOU.mp4",
+				"startfrom": 0,
+				"duration": 306968,
+				"fileDuration": 306968,
+				"vod": true
+			}, {
+				"id": 47846,
+				"title": "Item Title",
+				"item": "senegal2014\/Zoula_kouley_danel_real_art_bi_managemanb4XVhJBfKKA.mp4",
+				"startfrom": 0,
+				"duration": 336719,
+				"fileDuration": 336719,
+				"vod": true
+			}, {
+				"id": 47847,
+				"title": "Item Title",
+				"item": "senegal2014\/WANGOClip_officiel_Sen_Ptit_Gallee_2014RKh6vMn5phs.mp4",
+				"startfrom": 0,
+				"duration": 327269,
+				"fileDuration": 327269,
+				"vod": true
+			}, {
+				"id": 47848,
+				"title": "Item Title",
+				"item": "senegal2014\/facoly__Aty_PJyo2NZx7xM.mp4",
+				"startfrom": 0,
+				"duration": 245669,
+				"fileDuration": 245669,
+				"vod": true
+			}, {
+				"id": 47849,
+				"title": "Item Title",
+				"item": "senegal2014\/AIDA_SAMB_Sunu_sangueDfRXdbEF4UI.mp4",
+				"startfrom": 0,
+				"duration": 373725,
+				"fileDuration": 373725,
+				"vod": true
+			}, {
+				"id": 47850,
+				"title": "Item Title",
+				"item": "senegal2014\/Viviane_Chidid__Retaan__Directed_by_Wantd__Prod_by_1000_meelodies85u2eqoI9K0.mp4",
+				"startfrom": 0,
+				"duration": 260040,
+				"fileDuration": 260040,
+				"vod": true
+			}, {
+				"id": 47851,
+				"title": "Item Title",
+				"item": "senegal2014\/Pape_Diouf_rakkaju_real_Papis__Niangt9c3zzB_7I.mp4",
+				"startfrom": 0,
+				"duration": 431874,
+				"fileDuration": 431874,
+				"vod": true
+			}, {
+				"id": 47853,
+				"title": "Item Title",
+				"item": "senegal2014\/BIRAHIM_Man_Fuma_JemOQtq892XlfU.mp4",
+				"startfrom": 0,
+				"duration": 309761,
+				"fileDuration": 309761,
+				"vod": true
+			}, {
+				"id": 47856,
+				"title": "Item Title",
+				"item": "senegal2014\/Groupe_Elage_Diouf_MATHIATOUnkQzQqmTd0M.mp4",
+				"startfrom": 0,
+				"duration": 320482,
+				"fileDuration": 320482,
+				"vod": true
+			}, {
+				"id": 47860,
+				"title": "Item Title",
+				"item": "senegal2014\/NDER_Maladie_dAmour_Clip_officielTxyhI0CDGI.mp4",
+				"startfrom": 0,
+				"duration": 415319,
+				"fileDuration": 415319,
+				"vod": true
+			}, {
+				"id": 47867,
+				"title": "Item Title",
+				"item": "senegal2014\/Khalifa_Mbodji__mbakh_EJI9PCIN21Y.mp4",
+				"startfrom": 0,
+				"duration": 325474,
+				"fileDuration": 325474,
+				"vod": true
+			}, {
+				"id": 47873,
+				"title": "Item Title",
+				"item": "senegal2014\/Aicha_kara__kara_fall__real_Papis_Niang_art_biKAffuVEt69c.mp4",
+				"startfrom": 0,
+				"duration": 260843,
+				"fileDuration": 260843,
+				"vod": true
+			}, {
+				"id": 47903,
+				"title": "Item Title",
+				"item": "senegal2014\/Aby_Ndour_yalla_sunu_borom_UJkL31Sjs6M.mp4",
+				"startfrom": 0,
+				"duration": 371914,
+				"fileDuration": 371914,
+				"vod": true
+			}, {
+				"id": 47904,
+				"title": "Item Title",
+				"item": "senegal2014\/Daara_J_Family__DELOUSSILzZRqAgI8G1s.mp4",
+				"startfrom": 0,
+				"duration": 236560,
+				"fileDuration": 236560,
+				"vod": true
+			}, {
+				"id": 47907,
+				"title": "Item Title",
+				"item": "senegal2014\/Abou_ak_Fafa__U_are_my_life_mzXCmPTUDZI.mp4",
+				"startfrom": 0,
+				"duration": 325493,
+				"fileDuration": 325493,
+				"vod": true
+			}, {
+				"id": 47950,
+				"title": "Item Title",
+				"item": "senegal2013\/Adiouza__Li_Ma_Doon__Clip_OfficielehAR2KRaj5Q.mp4",
+				"startfrom": 0,
+				"duration": 237240,
+				"fileDuration": 237240,
+				"vod": true
+			}, {
+				"id": 47952,
+				"title": "Item Title",
+				"item": "senegal2013\/Waflash__Nanga_Fanee__ArtBi_ManagemanmbyMZ8ZHFwE.mp4",
+				"startfrom": 0,
+				"duration": 265242,
+				"fileDuration": 265242,
+				"vod": true
+			}, {
+				"id": 47965,
+				"title": "Item Title",
+				"item": "senegal2013\/Djiby_Dramee__Domou_Sine_j_KfMDLyiDI.mp4",
+				"startfrom": 0,
+				"duration": 309197,
+				"fileDuration": 309197,
+				"vod": true
+			}, {
+				"id": 47969,
+				"title": "Item Title",
+				"item": "senegal2013\/Ngalla__BalmaTvPGGk6XvZU.mp4",
+				"startfrom": 0,
+				"duration": 257346,
+				"fileDuration": 257346,
+				"vod": true
+			}, {
+				"id": 47974,
+				"title": "Item Title",
+				"item": "senegal2013\/Coumba_Gawlo__Kouy_Feug__Clip_OfficielgF_5vKB4mSE.mp4",
+				"startfrom": 0,
+				"duration": 466880,
+				"fileDuration": 466880,
+				"vod": true
+			}, {
+				"id": 47978,
+				"title": "Item Title",
+				"item": "senegal2013\/Pape_Diouf__Diofior_n8bTbqWb31Q.mp4",
+				"startfrom": 0,
+				"duration": 469280,
+				"fileDuration": 469280,
+				"vod": true
+			}, {
+				"id": 47983,
+				"title": "Item Title",
+				"item": "senegal2013\/Gokh_Bi_System__Yaye__Clip_Officiels6mkbNnpgVw.mp4",
+				"startfrom": 0,
+				"duration": 277269,
+				"fileDuration": 277269,
+				"vod": true
+			}, {
+				"id": 47987,
+				"title": "Item Title",
+				"item": "senegal2013\/PAPE_DIOUF___SADIOAKsiwWeBiuc.mp4",
+				"startfrom": 0,
+				"duration": 377464,
+				"fileDuration": 377464,
+				"vod": true
+			}, {
+				"id": 47997,
+				"title": "Item Title",
+				"item": "senegal2013\/Bideew_Bou_Bess__Ma_Terre_Ma_Vie__Clip_OfficielX1FU_zopi9Y.mp4",
+				"startfrom": 0,
+				"duration": 283237,
+				"fileDuration": 283237,
+				"vod": true
+			}, {
+				"id": 48004,
+				"title": "Item Title",
+				"item": "senegal2013\/TITI__GUEN_GUI_DEUK__Clip_Officiel0ChaoRFyytA.mp4",
+				"startfrom": 0,
+				"duration": 339987,
+				"fileDuration": 339987,
+				"vod": true
+			}, {
+				"id": 48008,
+				"title": "Item Title",
+				"item": "senegal2013\/Assane_Mboup__Mariage_ForceeoAOypzWtG0.mp4",
+				"startfrom": 0,
+				"duration": 292362,
+				"fileDuration": 292362,
+				"vod": true
+			}, {
+				"id": 48010,
+				"title": "Item Title",
+				"item": "senegal2013\/Amy_Collee_Dieng__Naby__Clip_OfficielhHuIOp0h1LA.mp4",
+				"startfrom": 0,
+				"duration": 400312,
+				"fileDuration": 400312,
+				"vod": true
+			}, {
+				"id": 48018,
+				"title": "Item Title",
+				"item": "senegal2013\/Mbaye_Ndiaye_tilala_CIYAWLA__ArtBi_ManagemanzvqhpirUEJg.mp4",
+				"startfrom": 0,
+				"duration": 296681,
+				"fileDuration": 296681,
+				"vod": true
+			}, {
+				"id": 48026,
+				"title": "Item Title",
+				"item": "senegal2013\/Mbidou___Surrenderws0NrljarjE.mp4",
+				"startfrom": 0,
+				"duration": 321109,
+				"fileDuration": 321109,
+				"vod": true
+			}, {
+				"id": 48027,
+				"title": "Item Title",
+				"item": "senegal2013\/Laye_Kouyatee__Gorel__ArtBi_Managemanq03Q1ReApOE.mp4",
+				"startfrom": 0,
+				"duration": 780283,
+				"fileDuration": 780283,
+				"vod": true
+			}, {
+				"id": 48033,
+				"title": "Item Title",
+				"item": "senegal2013\/Viviane_Chidid__Yaakaar__Clip_OfficielDwUmmGPQ4c.mp4",
+				"startfrom": 0,
+				"duration": 258670,
+				"fileDuration": 258670,
+				"vod": true
+			}, {
+				"id": 48041,
+				"title": "Item Title",
+				"item": "senegal2013\/Jali_Madi_Kanuteh__jarabi3cbkVImfsj8.mp4",
+				"startfrom": 0,
+				"duration": 275876,
+				"fileDuration": 275876,
+				"vod": true
+			}, {
+				"id": 48043,
+				"title": "Item Title",
+				"item": "senegal2013\/Ndiole_Diamand_Noir_ft._Aida_Ndiaye_Touba__Yaye_Ak_Dome__ArtBi_Manageman7jCIrWhBTjk.mp4",
+				"startfrom": 0,
+				"duration": 280706,
+				"fileDuration": 280706,
+				"vod": true
+			}, {
+				"id": 48048,
+				"title": "Item Title",
+				"item": "senegal2013\/Coumba_gawlo__lamb_dji__Clip_Officielt4HmuG4KLi0.mp4",
+				"startfrom": 0,
+				"duration": 548200,
+				"fileDuration": 548200,
+				"vod": true
+			}, {
+				"id": 48050,
+				"title": "Item Title",
+				"item": "senegal2013\/Jali_Madi_KanutehwM2MZx0oNx4.mp4",
+				"startfrom": 0,
+				"duration": 55798,
+				"fileDuration": 55798,
+				"vod": true
+			}, {
+				"id": 48053,
+				"title": "Item Title",
+				"item": "senegal2013\/COURA_MBAYE__NIIT_iEFlLEgWdwY.mp4",
+				"startfrom": 0,
+				"duration": 364042,
+				"fileDuration": 364042,
+				"vod": true
+			}, {
+				"id": 48056,
+				"title": "Item Title",
+				"item": "senegal2013\/Mame_Goor_Diazaka__Fall_Lamp_Mo5XtGydbVw.mp4",
+				"startfrom": 0,
+				"duration": 300280,
+				"fileDuration": 300280,
+				"vod": true
+			}, {
+				"id": 48059,
+				"title": "Item Title",
+				"item": "senegal2013\/Khalifa_Gueye__Mbar_rifb9lkSAxQ.mp4",
+				"startfrom": 0,
+				"duration": 246201,
+				"fileDuration": 246201,
+				"vod": true
+			}, {
+				"id": 48061,
+				"title": "Item Title",
+				"item": "senegal2013\/Aida_samb___Gestu___ArtBi_ManagemanxEkqOkuLlkQ.mp4",
+				"startfrom": 0,
+				"duration": 389190,
+				"fileDuration": 389190,
+				"vod": true
+			}, {
+				"id": 48064,
+				"title": "Item Title",
+				"item": "senegal2013\/Sidy_Samb__Djoubo__Clip_Officiel0vnXBFjolGE.mp4",
+				"startfrom": 0,
+				"duration": 282564,
+				"fileDuration": 282564,
+				"vod": true
+			}, {
+				"id": 48103,
+				"title": "Item Title",
+				"item": "senegal2013\/Ngone_Ndiaye_Gueweul__Yay_Sai_Sai__ArtBi_Managemanhq5sdAhOgW8.mp4",
+				"startfrom": 0,
+				"duration": 266472,
+				"fileDuration": 266472,
+				"vod": true
+			}, {
+				"id": 48139,
+				"title": "Item Title",
+				"item": "senegal2013\/Abdou_Guitee_Seeck__JambJi__ArtBi_Manageman2cXkx8ShktI.mp4",
+				"startfrom": 0,
+				"duration": 297749,
+				"fileDuration": 297749,
+				"vod": true
+			}, {
+				"id": 48140,
+				"title": "Item Title",
+				"item": "senegal2013\/Safari__Inata__Clip_OfficielaklUbT3DUFU.mp4",
+				"startfrom": 0,
+				"duration": 181835,
+				"fileDuration": 181835,
+				"vod": true
+			}, {
+				"id": 48141,
+				"title": "Item Title",
+				"item": "senegal2013\/Yves_Niang_ft._Mame_Bassine_Beugue__Nalene__ArtBi_ManagemansVMmgQVrah8.mp4",
+				"startfrom": 0,
+				"duration": 332120,
+				"fileDuration": 332120,
+				"vod": true
+			}, {
+				"id": 48142,
+				"title": "Item Title",
+				"item": "senegal2013\/MOMO_ThiatZZH2aSmR940.mp4",
+				"startfrom": 0,
+				"duration": 340706,
+				"fileDuration": 340706,
+				"vod": true
+			}, {
+				"id": 48154,
+				"title": "Item Title",
+				"item": "senegal2013\/Assane_Ndiaye__Beuree__ArtBi_ManagemanR359mDcCgjY.mp4",
+				"startfrom": 0,
+				"duration": 296240,
+				"fileDuration": 296240,
+				"vod": true
+			}, {
+				"id": 48155,
+				"title": "Item Title",
+				"item": "senegal2013\/Facoly_Baby_Boy5SI3G256Xgs.mp4",
+				"startfrom": 0,
+				"duration": 229065,
+				"fileDuration": 229065,
+				"vod": true
+			}, {
+				"id": 48158,
+				"title": "Item Title",
+				"item": "senegal2013\/Demba_Guissee__Mbiffee_YtEBIEZqal4.mp4",
+				"startfrom": 0,
+				"duration": 287556,
+				"fileDuration": 287556,
+				"vod": true
+			}, {
+				"id": 48162,
+				"title": "Item Title",
+				"item": "senegal2013\/Fata_feat_Mbaye_Dieye__Waly_Seck__Nguentee____real_Papis_Niang_art_biD3SqQnq70P8.mp4",
+				"startfrom": 0,
+				"duration": 250752,
+				"fileDuration": 250752,
+				"vod": true
+			}, {
+				"id": 48163,
+				"title": "Item Title",
+				"item": "senegal2013\/Djiby_Drame__Mama_Cheerie_Son__Mbowla__ArtBi_ManagemangXai2yPHvek.mp4",
+				"startfrom": 0,
+				"duration": 332742,
+				"fileDuration": 332742,
+				"vod": true
+			}, {
+				"id": 48167,
+				"title": "Item Title",
+				"item": "senegal2013\/Pape_Ndiaye_Thiou__A.Ndouti__ArtBi_ManagemankHtycbeG5ac.mp4",
+				"startfrom": 0,
+				"duration": 281040,
+				"fileDuration": 281040,
+				"vod": true
+			}, {
+				"id": 48170,
+				"title": "Item Title",
+				"item": "senegal2013\/Titi_Jiggen_Feem__Video_Originale__Bonus__LYRICS_dans_la_descriptionObiJOtDMdUc.mp4",
+				"startfrom": 0,
+				"duration": 314305,
+				"fileDuration": 314305,
+				"vod": true
+			}, {
+				"id": 48171,
+				"title": "Item Title",
+				"item": "senegal2013\/El_Gueye__Namo_Dara__ArtBi_ManagemanYToAcDL1Nk4.mp4",
+				"startfrom": 0,
+				"duration": 332069,
+				"fileDuration": 332069,
+				"vod": true
+			}, {
+				"id": 48174,
+				"title": "Item Title",
+				"item": "senegal2013\/BIRAHIM__NABI_real___PAPIS_NIANG_art__bi__ArtBi_Manageman7B1lJVJD_JU.mp4",
+				"startfrom": 0,
+				"duration": 310683,
+				"fileDuration": 310683,
+				"vod": true
+			}, {
+				"id": 48176,
+				"title": "Item Title",
+				"item": "senegal2013\/ABY_NDOUR__DIARRA__ArtBi_Manageman8W0XLymWKL4.mp4",
+				"startfrom": 0,
+				"duration": 270466,
+				"fileDuration": 270466,
+				"vod": true
+			}, {
+				"id": 48178,
+				"title": "Item Title",
+				"item": "senegal2013\/Adiouza__Ndaanane__Clip_Officielh_qsFhyPy4Y.mp4",
+				"startfrom": 0,
+				"duration": 314680,
+				"fileDuration": 314680,
+				"vod": true
+			}, {
+				"id": 48179,
+				"title": "Item Title",
+				"item": "senegal2013\/BABA_HAMDY_feat_DABA_SEYE___JamaleeyGhlWZJs61k.mp4",
+				"startfrom": 0,
+				"duration": 249754,
+				"fileDuration": 249754,
+				"vod": true
+			}],
+			"channel": "musictv",
+			"startTime": 1587687014000,
+			"stopTime": 1587708421722,
+			"priority": 1,
+			"shuffle": false
+		}, {
+			"id": 27399,
+			"title": "Plyalist Title",
+			"items": [{
+				"id": 27315,
+				"title": "Item Title",
+				"item": "fridaymusic\/Doudou_kende__au_Grand_Theatre_de_Dakar_1ere_partieBvnt5HjDUE.mp4",
+				"startfrom": 0,
+				"duration": 979046,
+				"fileDuration": 979046,
+				"vod": true
+			}, {
+				"id": 27316,
+				"title": "Item Title",
+				"item": "fridaymusic\/Harris_J__My_Hero___Official_Music_Video_TZLQJe9pFM.mp4",
+				"startfrom": 0,
+				"duration": 278449,
+				"fileDuration": 278449,
+				"vod": true
+			}, {
+				"id": 27317,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__Ramadan_English___Official_Music_Video3Gt72JjRf0.mp4",
+				"startfrom": 0,
+				"duration": 307508,
+				"fileDuration": 307508,
+				"vod": true
+			}, {
+				"id": 27318,
+				"title": "Item Title",
+				"item": "fridaymusic\/Moustapha_Mbaye_Sope_NabicDaeHSM4DLo.mp4",
+				"startfrom": 0,
+				"duration": 368524,
+				"fileDuration": 368524,
+				"vod": true
+			}, {
+				"id": 27319,
+				"title": "Item Title",
+				"item": "fridaymusic\/Zakira__YallahFw3dpdVj1s.mp4",
+				"startfrom": 0,
+				"duration": 370804,
+				"fileDuration": 370804,
+				"vod": true
+			}, {
+				"id": 27320,
+				"title": "Item Title",
+				"item": "fridaymusic\/FREESTYLE__MIDADI__Clip_Officiel9DAAKp5NsRY.mp4",
+				"startfrom": 0,
+				"duration": 227003,
+				"fileDuration": 227003,
+				"vod": true
+			}, {
+				"id": 27321,
+				"title": "Item Title",
+				"item": "fridaymusic\/doudou_kene_mbaye__ala_nabiF7GroCXKL0.mp4",
+				"startfrom": 0,
+				"duration": 1204042,
+				"fileDuration": 1204042,
+				"vod": true
+			}, {
+				"id": 27322,
+				"title": "Item Title",
+				"item": "fridaymusic\/EXCLUSIVITE_Mouhamed_NIANG__SANTAL_SANTAL_Temps_fort_Goudik_Serigne_Saliou__Grand_TheeetrekoANpww5D_I.mp4",
+				"startfrom": 0,
+				"duration": 382182,
+				"fileDuration": 382182,
+				"vod": true
+			}, {
+				"id": 27323,
+				"title": "Item Title",
+				"item": "fridaymusic\/Sami_Yusuf__Come_See___Ben_Yererem_Yane_Yane4ronY7Z9uE.mp4",
+				"startfrom": 0,
+				"duration": 201997,
+				"fileDuration": 201997,
+				"vod": true
+			}, {
+				"id": 27324,
+				"title": "Item Title",
+				"item": "fridaymusic\/Safari__Allah_Clip_OfficielACnq_zv4vps.mp4",
+				"startfrom": 0,
+				"duration": 235596,
+				"fileDuration": 235596,
+				"vod": true
+			}, {
+				"id": 27325,
+				"title": "Item Title",
+				"item": "fridaymusic\/Sami_Yusuf__HamziyyalYXljY8WK9M.mp4",
+				"startfrom": 0,
+				"duration": 141915,
+				"fileDuration": 141915,
+				"vod": true
+			}, {
+				"id": 27326,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__Neredesin_TurkishTerkee___Official_Music_VideoXSAdgbkPxSQ.mp4",
+				"startfrom": 0,
+				"duration": 345833,
+				"fileDuration": 345833,
+				"vod": true
+			}, {
+				"id": 27327,
+				"title": "Item Title",
+				"item": "fridaymusic\/Alioune_Badara_NDIAYE_ZikroulahhsM3y4nvJjE.mp4",
+				"startfrom": 0,
+				"duration": 395722,
+				"fileDuration": 395722,
+				"vod": true
+			}, {
+				"id": 27328,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__Samih____________Official_Music_VideoC_xWWQd2zbY.mp4",
+				"startfrom": 0,
+				"duration": 242678,
+				"fileDuration": 242678,
+				"vod": true
+			}, {
+				"id": 27329,
+				"title": "Item Title",
+				"item": "fridaymusic\/Doudou_kende_mbaye_Gamou_tivaouane_2011JlX5g6cWa0.mp4",
+				"startfrom": 0,
+				"duration": 416078,
+				"fileDuration": 416078,
+				"vod": true
+			}, {
+				"id": 27330,
+				"title": "Item Title",
+				"item": "fridaymusic\/Sami_Yusuf__Ya_Rasul_Allah_Part_INipm5KVLlFU.mp4",
+				"startfrom": 0,
+				"duration": 242202,
+				"fileDuration": 242202,
+				"vod": true
+			}, {
+				"id": 27331,
+				"title": "Item Title",
+				"item": "fridaymusic\/Raef__The_Muslim_Christmas_Song_Deck_the_Halls_CoverwIbqcoBuUvI.mp4",
+				"startfrom": 0,
+				"duration": 149648,
+				"fileDuration": 149648,
+				"vod": true
+			}, {
+				"id": 27332,
+				"title": "Item Title",
+				"item": "fridaymusic\/Sami_Yusuf__FiyyashiyyaVA0j9BFr7k.mp4",
+				"startfrom": 0,
+				"duration": 214431,
+				"fileDuration": 214431,
+				"vod": true
+			}, {
+				"id": 27333,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__Love_Will_Prevail___Official_Music_VideoeoMJJCVBCgo.mp4",
+				"startfrom": 0,
+				"duration": 361239,
+				"fileDuration": 361239,
+				"vod": true
+			}, {
+				"id": 27334,
+				"title": "Item Title",
+				"item": "fridaymusic\/________0JKpBIj9TDo.mp4",
+				"startfrom": 0,
+				"duration": 489239,
+				"fileDuration": 489239,
+				"vod": true
+			}, {
+				"id": 27335,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__Ya_Nabi___Awakening_Live_At_The_London_ApolloxYlwn3xt9eQ.mp4",
+				"startfrom": 0,
+				"duration": 336882,
+				"fileDuration": 336882,
+				"vod": true
+			}, {
+				"id": 27336,
+				"title": "Item Title",
+				"item": "fridaymusic\/DABAKH_MALICKZlIlWmXMlLQ.mp4",
+				"startfrom": 0,
+				"duration": 382392,
+				"fileDuration": 382392,
+				"vod": true
+			}, {
+				"id": 27338,
+				"title": "Item Title",
+				"item": "fridaymusic\/Hal_Yadjoud_Ahi_Clip_Officiel_HD__Saida_Binta_THIAMpOY7fZa0hRQ.mp4",
+				"startfrom": 0,
+				"duration": 445127,
+				"fileDuration": 445127,
+				"vod": true
+			}, {
+				"id": 27339,
+				"title": "Item Title",
+				"item": "fridaymusic\/Sami_Yusuf__Ya_Rasul_Allah_Part_IIXcikV4gcPzo.mp4",
+				"startfrom": 0,
+				"duration": 129191,
+				"fileDuration": 129191,
+				"vod": true
+			}, {
+				"id": 27340,
+				"title": "Item Title",
+				"item": "fridaymusic\/Nouveau_CLIP_NDIOGOU_AFIA_SERIGNE_SALIOUPj1OekD8l8.mp4",
+				"startfrom": 0,
+				"duration": 211093,
+				"fileDuration": 211093,
+				"vod": true
+			}, {
+				"id": 27341,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__So_Soon___Vocals_Only__Official_Music_VideoAipW909ybGQ.mp4",
+				"startfrom": 0,
+				"duration": 395111,
+				"fileDuration": 395111,
+				"vod": true
+			}, {
+				"id": 27342,
+				"title": "Item Title",
+				"item": "fridaymusic\/Fadal_Gueeye_et_le_goupe_Sop_Nabi2bS_y1SjyPkQ.mp4",
+				"startfrom": 0,
+				"duration": 545530,
+				"fileDuration": 545530,
+				"vod": true
+			}, {
+				"id": 27343,
+				"title": "Item Title",
+				"item": "fridaymusic\/Touhfatou_version_2016_par_S._Saliou_Aissew_ZrxiITeOI.mp4",
+				"startfrom": 0,
+				"duration": 557952,
+				"fileDuration": 557952,
+				"vod": true
+			}, {
+				"id": 27344,
+				"title": "Item Title",
+				"item": "fridaymusic\/Doudou_Kende_Mbaye_NdokoleU2F_R52PZBs.mp4",
+				"startfrom": 0,
+				"duration": 606121,
+				"fileDuration": 606121,
+				"vod": true
+			}, {
+				"id": 27345,
+				"title": "Item Title",
+				"item": "fridaymusic\/CHEIKH_DIOP_MBAYE__THIANT_GUIYH4hIFlYQFQ.mp4",
+				"startfrom": 0,
+				"duration": 1393847,
+				"fileDuration": 1393847,
+				"vod": true
+			}, {
+				"id": 27346,
+				"title": "Item Title",
+				"item": "fridaymusic\/Amy_Collee_Dieng__Naby__Clip_OfficielhHuIOp0h1LA.mp4",
+				"startfrom": 0,
+				"duration": 400340,
+				"fileDuration": 400340,
+				"vod": true
+			}, {
+				"id": 27348,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__Alhubbu_Yasood__________Official_Music_VideoDFyPB6c4B9k.mp4",
+				"startfrom": 0,
+				"duration": 350117,
+				"fileDuration": 350117,
+				"vod": true
+			}, {
+				"id": 27349,
+				"title": "Item Title",
+				"item": "fridaymusic\/ZAKIRA__BAYE_NIASS__Clip_OfficielCP76WjUytlo.mp4",
+				"startfrom": 0,
+				"duration": 239028,
+				"fileDuration": 239028,
+				"vod": true
+			}, {
+				"id": 27350,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__Making_Of_Number_One_For_Me_music_videorHUPVG3QNps.mp4",
+				"startfrom": 0,
+				"duration": 792313,
+				"fileDuration": 792313,
+				"vod": true
+			}, {
+				"id": 27351,
+				"title": "Item Title",
+				"item": "fridaymusic\/Humood__Kun_Anta___________Music_VideoqKVW_wJs91Q.mp4",
+				"startfrom": 0,
+				"duration": 273990,
+				"fileDuration": 273990,
+				"vod": true
+			}, {
+				"id": 27352,
+				"title": "Item Title",
+				"item": "fridaymusic\/Kabir_SENE_Antanouroul_OuyouniPudEa8vSg2Y.mp4",
+				"startfrom": 0,
+				"duration": 1056561,
+				"fileDuration": 1056561,
+				"vod": true
+			}, {
+				"id": 27353,
+				"title": "Item Title",
+				"item": "fridaymusic\/Bouleen_Ko_Fatee_Di_Niaanal__Par_Doudou_kendee_Mbaye8_wLr1eLc1U.mp4",
+				"startfrom": 0,
+				"duration": 1179411,
+				"fileDuration": 1179411,
+				"vod": true
+			}, {
+				"id": 27354,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__The_Power_____Official_Video_2016IbJ9I_AzNZo.mp4",
+				"startfrom": 0,
+				"duration": 288120,
+				"fileDuration": 288120,
+				"vod": true
+			}, {
+				"id": 27355,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__Insha_Allah___Awakening_Live_At_The_London_ApollorgqXYZkYS5c.mp4",
+				"startfrom": 0,
+				"duration": 442672,
+				"fileDuration": 442672,
+				"vod": true
+			}, {
+				"id": 27356,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__Mawalaya___Awakening_Live_At_The_London_ApolloGuRUau5ZLlc.mp4",
+				"startfrom": 0,
+				"duration": 332272,
+				"fileDuration": 332272,
+				"vod": true
+			}, {
+				"id": 27357,
+				"title": "Item Title",
+				"item": "fridaymusic\/ALIOUNE_BADARA_NDIAYE__THIANT_GUItLfkUmxspE0.mp4",
+				"startfrom": 0,
+				"duration": 1556944,
+				"fileDuration": 1556944,
+				"vod": true
+			}, {
+				"id": 27358,
+				"title": "Item Title",
+				"item": "fridaymusic\/Dior_Ouakam___Rassoulilahi_Taague_Yonenti2kc_rBxzZDc.mp4",
+				"startfrom": 0,
+				"duration": 365199,
+				"fileDuration": 365199,
+				"vod": true
+			}, {
+				"id": 27359,
+				"title": "Item Title",
+				"item": "fridaymusic\/Raef__So_Real_feat._Maher_Zain___Official_Music_VideoQ4tpqXLr9s.mp4",
+				"startfrom": 0,
+				"duration": 299567,
+				"fileDuration": 299567,
+				"vod": true
+			}, {
+				"id": 27360,
+				"title": "Item Title",
+				"item": "fridaymusic\/Ami_Colle__RassoulXhfsc9olCMI.mp4",
+				"startfrom": 0,
+				"duration": 275830,
+				"fileDuration": 275830,
+				"vod": true
+			}, {
+				"id": 27361,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain___Peace_Be_Upon_You_________Official_Video_2016pZxFZNRHbZ4.mp4",
+				"startfrom": 0,
+				"duration": 295724,
+				"fileDuration": 295724,
+				"vod": true
+			}, {
+				"id": 27362,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__Number_One_For_Me___Awakening_Live_At_The_London_ApollosKI8NN_xErw.mp4",
+				"startfrom": 0,
+				"duration": 335228,
+				"fileDuration": 335228,
+				"vod": true
+			}, {
+				"id": 27363,
+				"title": "Item Title",
+				"item": "fridaymusic\/Mishari_Rashid_Alafasy__Video_Clip__________6XhLckQzZ8.mp4",
+				"startfrom": 0,
+				"duration": 291638,
+				"fileDuration": 291638,
+				"vod": true
+			}, {
+				"id": 27364,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__For_The_Rest_Of_My_Life___Awakening_Live_At_The_London_ApolloQnZpG__hgGI.mp4",
+				"startfrom": 0,
+				"duration": 373605,
+				"fileDuration": 373605,
+				"vod": true
+			}, {
+				"id": 27365,
+				"title": "Item Title",
+				"item": "fridaymusic\/AIDA_SAMB_Sunu_sangueDfRXdbEF4UI.mp4",
+				"startfrom": 0,
+				"duration": 373725,
+				"fileDuration": 373725,
+				"vod": true
+			}, {
+				"id": 27366,
+				"title": "Item Title",
+				"item": "fridaymusic\/Doudou_Kende___Fanadjina.S1NU6DJXmxs.mp4",
+				"startfrom": 0,
+				"duration": 527650,
+				"fileDuration": 527650,
+				"vod": true
+			}, {
+				"id": 27367,
+				"title": "Item Title",
+				"item": "fridaymusic\/aliou_afia_kazou_rajab_2015ieihFRVd4bw.mp4",
+				"startfrom": 0,
+				"duration": 368292,
+				"fileDuration": 368292,
+				"vod": true
+			}, {
+				"id": 27368,
+				"title": "Item Title",
+				"item": "fridaymusic\/Touhfatou__Daahira_Nourou_Daarayni__Nuit_des_Khassaedes__1ere_eedition__24_07_2014o_2Wqey17uM.mp4",
+				"startfrom": 0,
+				"duration": 500320,
+				"fileDuration": 500320,
+				"vod": true
+			}, {
+				"id": 27369,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__Mustafa_Ceceli__The_Way_of_Love_Official_Music_Videoe_VtPW1c1_M.mp4",
+				"startfrom": 0,
+				"duration": 277230,
+				"fileDuration": 277230,
+				"vod": true
+			}, {
+				"id": 27370,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__Atif_Aslam__Im_Alive_Official_Music_VideoR5YWh45s6I.mp4",
+				"startfrom": 0,
+				"duration": 281816,
+				"fileDuration": 281816,
+				"vod": true
+			}, {
+				"id": 27371,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__Forgive_Me___Awakening_Live_At_The_London_Apollo0Q6r5d79H8E.mp4",
+				"startfrom": 0,
+				"duration": 242161,
+				"fileDuration": 242161,
+				"vod": true
+			}, {
+				"id": 27372,
+				"title": "Item Title",
+				"item": "fridaymusic\/ALIOUNE_BADARA_NDIAYE___THIANT_DU_27JUILLET_2014mWQ9qhI5mFY.mp4",
+				"startfrom": 0,
+				"duration": 868450,
+				"fileDuration": 868450,
+				"vod": true
+			}, {
+				"id": 27373,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__Close_To_You___Official_Music_VideoUpPyph8wbk.mp4",
+				"startfrom": 0,
+				"duration": 240554,
+				"fileDuration": 240554,
+				"vod": true
+			}, {
+				"id": 27374,
+				"title": "Item Title",
+				"item": "fridaymusic\/Delou_Ci_YallaajjZTqCgUI.mp4",
+				"startfrom": 0,
+				"duration": 312030,
+				"fileDuration": 312030,
+				"vod": true
+			}, {
+				"id": 27375,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__Assalamu_Alayka___Awakening_Live_At_The_London_ApolloKYKfAq3Z7eQ.mp4",
+				"startfrom": 0,
+				"duration": 280283,
+				"fileDuration": 280283,
+				"vod": true
+			}, {
+				"id": 27376,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__Ya_Nabi_Salam_Alayka_International_Version___Vocals_Only__Official_Music_VideoD5vsICvAA8U.mp4",
+				"startfrom": 0,
+				"duration": 381406,
+				"fileDuration": 381406,
+				"vod": true
+			}, {
+				"id": 27377,
+				"title": "Item Title",
+				"item": "fridaymusic\/Humood__Lughat_AlAalam________WtE2DRRJayg.mp4",
+				"startfrom": 0,
+				"duration": 307334,
+				"fileDuration": 307334,
+				"vod": true
+			}, {
+				"id": 27378,
+				"title": "Item Title",
+				"item": "fridaymusic\/Abdoul_Aziz_MBAYE_Inal_manaylamSxyblzfbJI.mp4",
+				"startfrom": 0,
+				"duration": 1928091,
+				"fileDuration": 1928091,
+				"vod": true
+			}, {
+				"id": 27379,
+				"title": "Item Title",
+				"item": "fridaymusic\/Sami_Yusuf__Mast_QalandardZEQosTBRKc.mp4",
+				"startfrom": 0,
+				"duration": 253870,
+				"fileDuration": 253870,
+				"vod": true
+			}, {
+				"id": 27380,
+				"title": "Item Title",
+				"item": "fridaymusic\/Awa_Koundoul__Mame_Baye92ZOZidXkTU.mp4",
+				"startfrom": 0,
+				"duration": 247241,
+				"fileDuration": 247241,
+				"vod": true
+			}, {
+				"id": 27381,
+				"title": "Item Title",
+				"item": "fridaymusic\/______Mishari_Rashid_Al_Afasy__RahmanM3xjz4nxzGQ.mp4",
+				"startfrom": 0,
+				"duration": 275558,
+				"fileDuration": 275558,
+				"vod": true
+			}, {
+				"id": 27382,
+				"title": "Item Title",
+				"item": "fridaymusic\/pape_faye_SERIGNE_SALIOU_MBACKEwrgkeyCBGk.mp4",
+				"startfrom": 0,
+				"duration": 382851,
+				"fileDuration": 382851,
+				"vod": true
+			}, {
+				"id": 27383,
+				"title": "Item Title",
+				"item": "fridaymusic\/Ya_NabiyallahvNkPq7Ac3Sw.mp4",
+				"startfrom": 0,
+				"duration": 362795,
+				"fileDuration": 362795,
+				"vod": true
+			}, {
+				"id": 27384,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__Muhammad_Pbuh_Waheshna___________Official_Music_VideoBiGVVAP3KsQ.mp4",
+				"startfrom": 0,
+				"duration": 350639,
+				"fileDuration": 350639,
+				"vod": true
+			}, {
+				"id": 27385,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__Always_Be_There___Awakening_Live_At_The_London_ApolloYrDVAc3vOaQ.mp4",
+				"startfrom": 0,
+				"duration": 360241,
+				"fileDuration": 360241,
+				"vod": true
+			}, {
+				"id": 27386,
+				"title": "Item Title",
+				"item": "fridaymusic\/Harris_J__Salam_Alaikum___Official_Music_Videou_McEvEGvI.mp4",
+				"startfrom": 0,
+				"duration": 269358,
+				"fileDuration": 269358,
+				"vod": true
+			}, {
+				"id": 27387,
+				"title": "Item Title",
+				"item": "fridaymusic\/ALIOU_AFIA_TAZAWADOU_CHIKHARAhjlUoilW1I.mp4",
+				"startfrom": 0,
+				"duration": 378658,
+				"fileDuration": 378658,
+				"vod": true
+			}, {
+				"id": 27388,
+				"title": "Item Title",
+				"item": "fridaymusic\/Doudou_Kend_Mbaye___Nagne_Deem_Ziarree_Mbaye__Serigne_Babacar_Sy__AsfiyahiWEBTVkJfZMbV7IVA.mp4",
+				"startfrom": 0,
+				"duration": 1472795,
+				"fileDuration": 1472795,
+				"vod": true
+			}, {
+				"id": 27389,
+				"title": "Item Title",
+				"item": "fridaymusic\/ALIOU_AFIA___MAME_CHEIKH_IBRA_FALL3xJviOD1jzg.mp4",
+				"startfrom": 0,
+				"duration": 389399,
+				"fileDuration": 389399,
+				"vod": true
+			}, {
+				"id": 27390,
+				"title": "Item Title",
+				"item": "fridaymusic\/Sami_Yusuf__Tahap7v9FJMiNMk.mp4",
+				"startfrom": 0,
+				"duration": 182434,
+				"fileDuration": 182434,
+				"vod": true
+			}, {
+				"id": 27391,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__One_Big_Family___Awakening_Live_At_The_London_ApolloWEaevArj5Ak.mp4",
+				"startfrom": 0,
+				"duration": 289234,
+				"fileDuration": 289234,
+				"vod": true
+			}, {
+				"id": 27392,
+				"title": "Item Title",
+				"item": "fridaymusic\/Banda_Sene__Serigne_Fallou_j_FL_46lnI.mp4",
+				"startfrom": 0,
+				"duration": 284521,
+				"fileDuration": 284521,
+				"vod": true
+			}, {
+				"id": 27393,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__Insha_Allah_Arabic________Vocals_Only______Official_Music_VideoPjNlq7kkFo0.mp4",
+				"startfrom": 0,
+				"duration": 316606,
+				"fileDuration": 316606,
+				"vod": true
+			}, {
+				"id": 27394,
+				"title": "Item Title",
+				"item": "fridaymusic\/Maher_Zain__I_Love_You_So___Awakening_Live_At_The_London_ApolloPRzuQHZ7A34.mp4",
+				"startfrom": 0,
+				"duration": 309011,
+				"fileDuration": 309011,
+				"vod": true
+			}, {
+				"id": 27395,
+				"title": "Item Title",
+				"item": "fridaymusic\/Alioune_Badara_Ndiaye_Zikroulah__LAMP_FALLanVRPgXcais.mp4",
+				"startfrom": 0,
+				"duration": 397526,
+				"fileDuration": 397526,
+				"vod": true
+			}, {
+				"id": 27396,
+				"title": "Item Title",
+				"item": "fridaymusic\/Harris_J__Good_Life___Official_Music_Videof7TA3TA8HQ.mp4",
+				"startfrom": 0,
+				"duration": 340318,
+				"fileDuration": 340318,
+				"vod": true
+			}, {
+				"id": 27397,
+				"title": "Item Title",
+				"item": "fridaymusic\/Irfan_Makki__Allahu___Awakening_Live_At_The_London_ApolloeR4sFmPfY2g.mp4",
+				"startfrom": 0,
+				"duration": 280956,
+				"fileDuration": 280956,
+				"vod": true
+			}, {
+				"id": 27398,
+				"title": "Item Title",
+				"item": "fridaymusic\/Sami_Yusuf__River_of_Milk___Inna_Fil_Jannatiuh42mJ24Qw.mp4",
+				"startfrom": 0,
+				"duration": 215476,
+				"fileDuration": 215476,
+				"vod": true
+			}],
+			"channel": "musictv",
+			"startTime": 1587710739000,
+			"stopTime": 1587746693770,
+			"priority": 1,
+			"shuffle": false
+		}, {
+			"id": 45376,
+			"title": "Plyalist Title",
+			"items": [{
+				"id": 45339,
+				"title": "Item Title",
+				"item": "senegal2017\/Fatou_Guewel_DIOUF_MBEUGEL_SaintVallentin_2017qUTAkApJ5FU.mp4",
+				"startfrom": 0,
+				"duration": 402054,
+				"fileDuration": 402054,
+				"vod": true
+			}, {
+				"id": 45343,
+				"title": "Item Title",
+				"item": "senegal2017\/Samba_Peuzzi___KEULEUM_Official_VideoEDRs5euhCvo.mp4",
+				"startfrom": 0,
+				"duration": 190357,
+				"fileDuration": 190357,
+				"vod": true
+			}, {
+				"id": 45345,
+				"title": "Item Title",
+				"item": "senegal2017\/Viviane_Chidid_Mariage_Forceee_Nouveautee_20172bARQhl7P4Q.mp4",
+				"startfrom": 0,
+				"duration": 225257,
+				"fileDuration": 225257,
+				"vod": true
+			}, {
+				"id": 45347,
+				"title": "Item Title",
+				"item": "senegal2017\/Wally_Seck__Donne_moi_une_chance_Clip_OfficielT0I1y1m4dNs.mp4",
+				"startfrom": 0,
+				"duration": 256789,
+				"fileDuration": 256789,
+				"vod": true
+			}, {
+				"id": 45350,
+				"title": "Item Title",
+				"item": "senegal2017\/SIDIKI_DIABATE_feat_HAMED_DIABATE_HAIDARA_clip_officiel3qfX_or81Zs.mp4",
+				"startfrom": 0,
+				"duration": 271464,
+				"fileDuration": 271464,
+				"vod": true
+			}, {
+				"id": 45354,
+				"title": "Item Title",
+				"item": "senegal2017\/AbibaGeum_Sa_Bopp_clip_officielTRsvWcpkutg.mp4",
+				"startfrom": 0,
+				"duration": 196766,
+				"fileDuration": 196766,
+				"vod": true
+			}, {
+				"id": 45356,
+				"title": "Item Title",
+				"item": "senegal2017\/DIP__DAMAKO_KHAR_cover__BAYE_MASS_17ANS_TDYF4_hkzo.mp4",
+				"startfrom": 0,
+				"duration": 334135,
+				"fileDuration": 334135,
+				"vod": true
+			}, {
+				"id": 45359,
+				"title": "Item Title",
+				"item": "senegal2017\/Leycha__Lees_Waxul_Cover_Youssou_Ndour_X_Yande_Codou_Sene9vZNRS4TEEk.mp4",
+				"startfrom": 0,
+				"duration": 240080,
+				"fileDuration": 240080,
+				"vod": true
+			}, {
+				"id": 45361,
+				"title": "Item Title",
+				"item": "senegal2017\/Viviane_Chidid_Seeneegal_Ben_BopNouveautee_2017ZgGpJLEBuY.mp4",
+				"startfrom": 0,
+				"duration": 232246,
+				"fileDuration": 232246,
+				"vod": true
+			}, {
+				"id": 45363,
+				"title": "Item Title",
+				"item": "senegal2017\/Samba_Peuzzi___Boy_Ghetto_Official_Directed_by_Ben_B68vB8YJZssY.mp4",
+				"startfrom": 0,
+				"duration": 265358,
+				"fileDuration": 265358,
+				"vod": true
+			}, {
+				"id": 45365,
+				"title": "Item Title",
+				"item": "senegal2017\/Sidiki_Diabatee__Je_suis_deesolee_Clip_OfficielP0eZEhiJoRg.mp4",
+				"startfrom": 0,
+				"duration": 309104,
+				"fileDuration": 309104,
+				"vod": true
+			}, {
+				"id": 45367,
+				"title": "Item Title",
+				"item": "senegal2017\/FATOU_GUEWEL_DIOUF_MBARASSE_PLUS_2017_CLIP_OFFICIELf2BcIPZKbvQ.mp4",
+				"startfrom": 0,
+				"duration": 331720,
+				"fileDuration": 331720,
+				"vod": true
+			}, {
+				"id": 45368,
+				"title": "Item Title",
+				"item": "senegal2017\/Dip_Doundou_guissDamako_kharheA1mPxysHs.mp4",
+				"startfrom": 0,
+				"duration": 263407,
+				"fileDuration": 263407,
+				"vod": true
+			}, {
+				"id": 45370,
+				"title": "Item Title",
+				"item": "senegal2017\/Maabo__Yako_Waral_Round_6bPhr6CfVNU.mp4",
+				"startfrom": 0,
+				"duration": 198716,
+				"fileDuration": 198716,
+				"vod": true
+			}, {
+				"id": 45371,
+				"title": "Item Title",
+				"item": "senegal2017\/VIVIANE_CHIDID_Feat_BANLIEUZART__LON_KELENnpxqlMoZ6Dw.mp4",
+				"startfrom": 0,
+				"duration": 225791,
+				"fileDuration": 225791,
+				"vod": true
+			}, {
+				"id": 45373,
+				"title": "Item Title",
+				"item": "senegal2017\/Viviane_Chidid_Lii_Dafa_Niaw2017IkEvHap5y_E.mp4",
+				"startfrom": 0,
+				"duration": 203082,
+				"fileDuration": 203082,
+				"vod": true
+			}],
+			"channel": "musictv",
+			"startTime": 1587758905000,
+			"stopTime": 1587763051326,
+			"priority": 1,
+			"shuffle": false
+		}],
+		"allPlaylists": [{
+			"id": 18835,
+			"title": "Plyalist Title",
+			"items": [{
+				"id": 18836,
+				"title": "Item Title",
+				"item": "senegal2016\/Moudou_Faye__Thioukhoutane_h2oomHxrbqk.mp4",
+				"startfrom": 0,
+				"duration": 350273,
+				"fileDuration": 350273,
+				"vod": true
+			}, {
+				"id": 18837,
+				"title": "Item Title",
+				"item": "senegal2016\/Mamy_Kanoute__Yelema_xR5oEnX5Gw.mp4",
+				"startfrom": 0,
+				"duration": 306921,
+				"fileDuration": 306921,
+				"vod": true
+			}, {
+				"id": 18838,
+				"title": "Item Title",
+				"item": "senegal2016\/Sidiki_Diabate__Viens_Danser_Clip_OfficielR64ttkM5z2c.mp4",
+				"startfrom": 0,
+				"duration": 334391,
+				"fileDuration": 334391,
+				"vod": true
+			}, {
+				"id": 18839,
+				"title": "Item Title",
+				"item": "senegal2016\/Assane_Ndiaye___thiatt_hZ1Ira6v7Kc.mp4",
+				"startfrom": 0,
+				"duration": 276155,
+				"fileDuration": 276155,
+				"vod": true
+			}, {
+				"id": 38129,
+				"title": "Item Title",
+				"item": "senegal2015\/Djiby_Drame__Mama_Cherie____Comportee_HzPoeEg_Lv4.mp4",
+				"startfrom": 0,
+				"duration": 316912,
+				"fileDuration": 316912,
+				"vod": true
+			}, {
+				"id": 38130,
+				"title": "Item Title",
+				"item": "senegal2015\/Youssou_Ndour__Souvenirs__Clip_OfficielAvoGQX3gVa8.mp4",
+				"startfrom": 0,
+				"duration": 412034,
+				"fileDuration": 412034,
+				"vod": true
+			}, {
+				"id": 38131,
+				"title": "Item Title",
+				"item": "senegal2015\/Doougoufii_Ilallahfall__Real_Papis_Niang_Art_BiBsLMHJCke8Y.mp4",
+				"startfrom": 0,
+				"duration": 219516,
+				"fileDuration": 219516,
+				"vod": true
+			}, {
+				"id": 38133,
+				"title": "Item Title",
+				"item": "senegal2015\/Exclusivitee__Nouveau_clip_des_Lions__WallyTiti_et_XPress__Choeurs_des_LionsAcXHtL0NfBg.mp4",
+				"startfrom": 0,
+				"duration": 361437,
+				"fileDuration": 361437,
+				"vod": true
+			}, {
+				"id": 38134,
+				"title": "Item Title",
+				"item": "senegal2015\/Soryba__Shisha_mya_Vk_BK_KVtc8.mp4",
+				"startfrom": 0,
+				"duration": 274757,
+				"fileDuration": 274757,
+				"vod": true
+			}, {
+				"id": 38135,
+				"title": "Item Title",
+				"item": "senegal2015\/Ablaye__Mbaye__Ma_wakhko_BL2yu5kaixE.mp4",
+				"startfrom": 0,
+				"duration": 304757,
+				"fileDuration": 304757,
+				"vod": true
+			}, {
+				"id": 38136,
+				"title": "Item Title",
+				"item": "senegal2015\/Abou_Thioubalo___Cheikhou_Tall___Real_Papis_Niang_Art_BIAd7dJkJBcgI.mp4",
+				"startfrom": 0,
+				"duration": 262671,
+				"fileDuration": 262671,
+				"vod": true
+			}, {
+				"id": 38137,
+				"title": "Item Title",
+				"item": "senegal2015\/Demba_Guisse__Fiir_HARU2VyxSEw.mp4",
+				"startfrom": 0,
+				"duration": 343952,
+				"fileDuration": 343952,
+				"vod": true
+			}, {
+				"id": 38138,
+				"title": "Item Title",
+				"item": "senegal2015\/SUADUCelebrateClipfeRQdSg1rpw.mp4",
+				"startfrom": 0,
+				"duration": 265074,
+				"fileDuration": 265074,
+				"vod": true
+			}, {
+				"id": 38139,
+				"title": "Item Title",
+				"item": "senegal2015\/Viviane_Chidid__Star_zhCSDsgqkLQ.mp4",
+				"startfrom": 0,
+				"duration": 305273,
+				"fileDuration": 305273,
+				"vod": true
+			}, {
+				"id": 38140,
+				"title": "Item Title",
+				"item": "senegal2015\/Pape_Diouf___Du_Degns7gYZPbp88k.mp4",
+				"startfrom": 0,
+				"duration": 428275,
+				"fileDuration": 428275,
+				"vod": true
+			}, {
+				"id": 38141,
+				"title": "Item Title",
+				"item": "senegal2015\/Assane_Ndiaye__Mi_Amor__real_Papis_Niang_art__biHavC1Ff1Wp0.mp4",
+				"startfrom": 0,
+				"duration": 294552,
+				"fileDuration": 294552,
+				"vod": true
+			}, {
+				"id": 38142,
+				"title": "Item Title",
+				"item": "senegal2015\/Pape_Seck__Iniane_XU8nuUfqevg.mp4",
+				"startfrom": 0,
+				"duration": 284073,
+				"fileDuration": 284073,
+				"vod": true
+			}, {
+				"id": 38144,
+				"title": "Item Title",
+				"item": "senegal2015\/Sidiki_Diabatee_Fais_moi_Confiance_Clip_Officiel5KcYuqou1iQ.mp4",
+				"startfrom": 0,
+				"duration": 280353,
+				"fileDuration": 280353,
+				"vod": true
+			}, {
+				"id": 38145,
+				"title": "Item Title",
+				"item": "senegal2015\/Sidate_Bonbon_feat_Sidy_Samb____keelee_lee_V3_lwDXL2fc.mp4",
+				"startfrom": 0,
+				"duration": 306719,
+				"fileDuration": 306719,
+				"vod": true
+			}, {
+				"id": 38146,
+				"title": "Item Title",
+				"item": "senegal2015\/Ngala___senegal_YnbCGcVWd40.mp4",
+				"startfrom": 0,
+				"duration": 241000,
+				"fileDuration": 241000,
+				"vod": true
+			}, {
+				"id": 38147,
+				"title": "Item Title",
+				"item": "senegal2015\/Djene_k_Toure_feat_Waly_Seck_i_kanakenmcY4bONXw.mp4",
+				"startfrom": 0,
+				"duration": 226993,
+				"fileDuration": 226993,
+				"vod": true
+			}, {
+				"id": 38148,
+				"title": "Item Title",
+				"item": "senegal2015\/Thiat_Seck__hommage_a_Ndongo_LoidkuyauDnM.mp4",
+				"startfrom": 0,
+				"duration": 380674,
+				"fileDuration": 380674,
+				"vod": true
+			}, {
+				"id": 38149,
+				"title": "Item Title",
+				"item": "senegal2015\/Biaicha__Duble_Click_real_Papis_Niang_art_biP1mGIBXMLxI.mp4",
+				"startfrom": 0,
+				"duration": 239794,
+				"fileDuration": 239794,
+				"vod": true
+			}, {
+				"id": 38150,
+				"title": "Item Title",
+				"item": "senegal2015\/Ballago_Boyz__na_goore1PDDi3NzpZs.mp4",
+				"startfrom": 0,
+				"duration": 211436,
+				"fileDuration": 211436,
+				"vod": true
+			}, {
+				"id": 38151,
+				"title": "Item Title",
+				"item": "senegal2015\/MOMO_DIENG__Li_ngama_diaral__Video_OfficiellewTb7CaxJzKk.mp4",
+				"startfrom": 0,
+				"duration": 303793,
+				"fileDuration": 303793,
+				"vod": true
+			}, {
+				"id": 38152,
+				"title": "Item Title",
+				"item": "senegal2015\/Keba_Seck__Kouy_rer_rerbi_hgKFRR_f9YM.mp4",
+				"startfrom": 0,
+				"duration": 341711,
+				"fileDuration": 341711,
+				"vod": true
+			}, {
+				"id": 38153,
+				"title": "Item Title",
+				"item": "senegal2015\/Pape_Ndiaye_Thiou__mbeugel_mo_nexxLfTP2jGX5R0.mp4",
+				"startfrom": 0,
+				"duration": 330973,
+				"fileDuration": 330973,
+				"vod": true
+			}, {
+				"id": 38154,
+				"title": "Item Title",
+				"item": "senegal2015\/Kine_Lam__Talibe_Serigne_Saliou_F9wTKX19zc0.mp4",
+				"startfrom": 0,
+				"duration": 387397,
+				"fileDuration": 387397,
+				"vod": true
+			}, {
+				"id": 38155,
+				"title": "Item Title",
+				"item": "senegal2015\/NAFINA__Diokh_Ma_Sa_Khol_Official_Video_Clip0x1qJhN1ahU.mp4",
+				"startfrom": 0,
+				"duration": 233100,
+				"fileDuration": 233100,
+				"vod": true
+			}, {
+				"id": 44881,
+				"title": "Item Title",
+				"item": "senegal2016\/Moudou_Faye__Thioukhoutane_h2oomHxrbqk.mp4",
+				"startfrom": 0,
+				"duration": 350273,
+				"fileDuration": 350273,
+				"vod": true
+			}, {
+				"id": 44882,
+				"title": "Item Title",
+				"item": "senegal2016\/Mamy_Kanoute__Yelema_xR5oEnX5Gw.mp4",
+				"startfrom": 0,
+				"duration": 306921,
+				"fileDuration": 306921,
+				"vod": true
+			}, {
+				"id": 44883,
+				"title": "Item Title",
+				"item": "senegal2016\/Sidiki_Diabate__Viens_Danser_Clip_OfficielR64ttkM5z2c.mp4",
+				"startfrom": 0,
+				"duration": 334391,
+				"fileDuration": 334391,
+				"vod": true
+			}, {
+				"id": 44884,
+				"title": "Item Title",
+				"item": "senegal2016\/Assane_Ndiaye___thiatt_hZ1Ira6v7Kc.mp4",
+				"startfrom": 0,
+				"duration": 276155,
+				"fileDuration": 276155,
+				"vod": true
+			}, {
+				"id": 44885,
+				"title": "Item Title",
+				"item": "senegal2016\/Boy_Sidy__NopnaleumFWddnysdBw.mp4",
+				"startfrom": 0,
+				"duration": 303833,
+				"fileDuration": 303833,
+				"vod": true
+			}, {
+				"id": 44886,
+				"title": "Item Title",
+				"item": "senegal2016\/Assane_NDIAYE__Yen_idClovxeB9A.mp4",
+				"startfrom": 0,
+				"duration": 302184,
+				"fileDuration": 302184,
+				"vod": true
+			}, {
+				"id": 44887,
+				"title": "Item Title",
+				"item": "senegal2016\/Wally_B._Seck__Jiguen_Mini_filmAo08buUp6TE.mp4",
+				"startfrom": 0,
+				"duration": 285327,
+				"fileDuration": 285327,
+				"vod": true
+			}, {
+				"id": 44888,
+				"title": "Item Title",
+				"item": "senegal2016\/Dior_MBAYE__Moom_Rek_Clip_OfficielhbvX2PRZSpg.mp4",
+				"startfrom": 0,
+				"duration": 74722,
+				"fileDuration": 74722,
+				"vod": true
+			}, {
+				"id": 44889,
+				"title": "Item Title",
+				"item": "senegal2016\/Safari__Allah_Clip_OfficielACnq_zv4vps.mp4",
+				"startfrom": 0,
+				"duration": 235590,
+				"fileDuration": 235590,
+				"vod": true
+			}, {
+				"id": 44890,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid___Naxma_clip_officieljsA26g4DDaU.mp4",
+				"startfrom": 0,
+				"duration": 316674,
+				"fileDuration": 316674,
+				"vod": true
+			}, {
+				"id": 44891,
+				"title": "Item Title",
+				"item": "senegal2016\/Daara_J_Family__Xeetkc8UTVmFdWo.mp4",
+				"startfrom": 0,
+				"duration": 256720,
+				"fileDuration": 256720,
+				"vod": true
+			}, {
+				"id": 44892,
+				"title": "Item Title",
+				"item": "senegal2016\/Bideew_Bou_Bess__I_Belong_Clip_Officielhs6qelc8YtU.mp4",
+				"startfrom": 0,
+				"duration": 273670,
+				"fileDuration": 273670,
+				"vod": true
+			}, {
+				"id": 44893,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid__Wuyuma_Clip_OfficielnmJp40oR1L4.mp4",
+				"startfrom": 0,
+				"duration": 197904,
+				"fileDuration": 197904,
+				"vod": true
+			}, {
+				"id": 44894,
+				"title": "Item Title",
+				"item": "senegal2016\/Chadia__Naeu_Boolo_cjd06F6jnio.mp4",
+				"startfrom": 0,
+				"duration": 235079,
+				"fileDuration": 235079,
+				"vod": true
+			}, {
+				"id": 44895,
+				"title": "Item Title",
+				"item": "senegal2016\/Kine_Lam__linguere_sK4nkGnmmqs.mp4",
+				"startfrom": 0,
+				"duration": 355753,
+				"fileDuration": 355753,
+				"vod": true
+			}, {
+				"id": 44896,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid__Yaama_Neekh_Clip_OfficielG0MmB41nyKM.mp4",
+				"startfrom": 0,
+				"duration": 302997,
+				"fileDuration": 302997,
+				"vod": true
+			}, {
+				"id": 44897,
+				"title": "Item Title",
+				"item": "senegal2016\/BIRAHIM_feat_PPS__Love_u_for_Ever_Videeo_Officielle7eV1YHu9TI.mp4",
+				"startfrom": 0,
+				"duration": 277200,
+				"fileDuration": 277200,
+				"vod": true
+			}, {
+				"id": 44898,
+				"title": "Item Title",
+				"item": "senegal2016\/Kadia__la_tigresse__Ndeekeetee_weero22f93KZUo8.mp4",
+				"startfrom": 0,
+				"duration": 320482,
+				"fileDuration": 320482,
+				"vod": true
+			}, {
+				"id": 44899,
+				"title": "Item Title",
+				"item": "senegal2016\/Noface_Vs_Mia__Reine_Xol_Round_5u9xtIZBnnK0.mp4",
+				"startfrom": 0,
+				"duration": 205636,
+				"fileDuration": 205636,
+				"vod": true
+			}, {
+				"id": 44900,
+				"title": "Item Title",
+				"item": "senegal2016\/GO_Ndiaye__Ndeye_Teneng_ihmARKGptTo.mp4",
+				"startfrom": 0,
+				"duration": 318833,
+				"fileDuration": 318833,
+				"vod": true
+			}, {
+				"id": 44901,
+				"title": "Item Title",
+				"item": "senegal2016\/Bai_Babu_ft_Barhama___Fahass___Official_Video2F2HLsZdW_c.mp4",
+				"startfrom": 0,
+				"duration": 320505,
+				"fileDuration": 320505,
+				"vod": true
+			}, {
+				"id": 44902,
+				"title": "Item Title",
+				"item": "senegal2016\/Daara_J_Family__Senegal_Clip_OfficielJpvDC_s8aDg.mp4",
+				"startfrom": 0,
+				"duration": 252726,
+				"fileDuration": 252726,
+				"vod": true
+			}, {
+				"id": 44903,
+				"title": "Item Title",
+				"item": "senegal2016\/Wally_Seck__Donne_moi_une_chance_Clip_OfficielT0I1y1m4dNs.mp4",
+				"startfrom": 0,
+				"duration": 256789,
+				"fileDuration": 256789,
+				"vod": true
+			}, {
+				"id": 44904,
+				"title": "Item Title",
+				"item": "senegal2016\/ABIBA__DOMZEI_Clip_OfficielvWIhjV6ojqY.mp4",
+				"startfrom": 0,
+				"duration": 207958,
+				"fileDuration": 207958,
+				"vod": true
+			}, {
+				"id": 44905,
+				"title": "Item Title",
+				"item": "senegal2016\/PAPOUNETAbiba__Sidiki_OfficielCnyVaVSaTk.mp4",
+				"startfrom": 0,
+				"duration": 254793,
+				"fileDuration": 254793,
+				"vod": true
+			}, {
+				"id": 44906,
+				"title": "Item Title",
+				"item": "senegal2016\/Prestation_Ceereemonie_de__My_Feeling__BellesxuP3fNmnk.mp4",
+				"startfrom": 0,
+				"duration": 591923,
+				"fileDuration": 591923,
+				"vod": true
+			}, {
+				"id": 44907,
+				"title": "Item Title",
+				"item": "senegal2016\/GO_Ndiaye__lady_2inhB6N2SjQ.mp4",
+				"startfrom": 0,
+				"duration": 324801,
+				"fileDuration": 324801,
+				"vod": true
+			}, {
+				"id": 44908,
+				"title": "Item Title",
+				"item": "senegal2016\/Youssou_Ndour__YAAKAR__Hommage_a_Doudou_Ndiaye_Rose__Vieux_Sing_Faye__Videos_Official_HDHzsQfjnOfro.mp4",
+				"startfrom": 0,
+				"duration": 522077,
+				"fileDuration": 522077,
+				"vod": true
+			}, {
+				"id": 44909,
+				"title": "Item Title",
+				"item": "senegal2016\/Guigui__Diokhma_Sa_kholtgfYBRdJw.mp4",
+				"startfrom": 0,
+				"duration": 300397,
+				"fileDuration": 300397,
+				"vod": true
+			}, {
+				"id": 44910,
+				"title": "Item Title",
+				"item": "senegal2016\/Carlou_DyEw5_GxuRhc.mp4",
+				"startfrom": 0,
+				"duration": 194188,
+				"fileDuration": 194188,
+				"vod": true
+			}, {
+				"id": 44911,
+				"title": "Item Title",
+				"item": "senegal2016\/Wally_Seck_x_Sidiki_Diabatee__Alhamdou_lilah_Clip_Officieltk6tVDNIAGQ.mp4",
+				"startfrom": 0,
+				"duration": 295126,
+				"fileDuration": 295126,
+				"vod": true
+			}, {
+				"id": 44912,
+				"title": "Item Title",
+				"item": "senegal2016\/Youssou_Ndour_DJIGUENE_GNI__Official_Video_zZweEsGkmIo.mp4",
+				"startfrom": 0,
+				"duration": 212323,
+				"fileDuration": 212323,
+				"vod": true
+			}, {
+				"id": 44913,
+				"title": "Item Title",
+				"item": "senegal2016\/Nouveau_Clip_De_Baye_Demba_Faye_Leumbeul_Dance_HalligQ39cDet9M.mp4",
+				"startfrom": 0,
+				"duration": 369499,
+				"fileDuration": 369499,
+				"vod": true
+			}, {
+				"id": 44914,
+				"title": "Item Title",
+				"item": "senegal2016\/OMG__Chic_Choc_Chec_feat_Fata_Clip_officiel_2016AY0jvJHd0o.mp4",
+				"startfrom": 0,
+				"duration": 264684,
+				"fileDuration": 264684,
+				"vod": true
+			}, {
+				"id": 44915,
+				"title": "Item Title",
+				"item": "senegal2016\/Abiba_et_Sidiki_DiabateGabon_2017_OfficielS9NI2gltCYE.mp4",
+				"startfrom": 0,
+				"duration": 256279,
+				"fileDuration": 256279,
+				"vod": true
+			}, {
+				"id": 44916,
+				"title": "Item Title",
+				"item": "senegal2016\/NDIOLE___Cou_Cou_Snap_PgijtjqS30.mp4",
+				"startfrom": 0,
+				"duration": 290435,
+				"fileDuration": 290435,
+				"vod": true
+			}, {
+				"id": 44917,
+				"title": "Item Title",
+				"item": "senegal2016\/Armel_Gabbana_feat_Wally_Ballago_Seck__Jimmi_2.0_Clip_OfficielAmXP9EaMGOk.mp4",
+				"startfrom": 0,
+				"duration": 220543,
+				"fileDuration": 220543,
+				"vod": true
+			}, {
+				"id": 44918,
+				"title": "Item Title",
+				"item": "senegal2016\/Youssou_Ndour__Serin_Fallu_Clip_Officielop7DZ3NeQg.mp4",
+				"startfrom": 0,
+				"duration": 394228,
+				"fileDuration": 394228,
+				"vod": true
+			}, {
+				"id": 44919,
+				"title": "Item Title",
+				"item": "senegal2016\/Petit_Bara__Mbalax_Day_Wax_Clip_officielF81rD_DlAKo.mp4",
+				"startfrom": 0,
+				"duration": 307548,
+				"fileDuration": 307548,
+				"vod": true
+			}, {
+				"id": 44920,
+				"title": "Item Title",
+				"item": "senegal2016\/Koutay_Bamba_J_Fall__akk_sant_SlZ0QrGUUgQ.mp4",
+				"startfrom": 0,
+				"duration": 298469,
+				"fileDuration": 298469,
+				"vod": true
+			}, {
+				"id": 44921,
+				"title": "Item Title",
+				"item": "senegal2016\/Sidiki_Diabatee__Inianafi_Debena_Clip_OfficielDELY4vhQTj8.mp4",
+				"startfrom": 0,
+				"duration": 239816,
+				"fileDuration": 239816,
+				"vod": true
+			}, {
+				"id": 44922,
+				"title": "Item Title",
+				"item": "senegal2016\/PAPE_DIOUFMalaw_Feat_Baye_BabouVideeo_Officiellew0hns04Ns.mp4",
+				"startfrom": 0,
+				"duration": 414639,
+				"fileDuration": 414639,
+				"vod": true
+			}, {
+				"id": 44923,
+				"title": "Item Title",
+				"item": "senegal2016\/Gui_Gui__Boul_ma_di_door_YontbO6isxg.mp4",
+				"startfrom": 0,
+				"duration": 306828,
+				"fileDuration": 306828,
+				"vod": true
+			}, {
+				"id": 44924,
+				"title": "Item Title",
+				"item": "senegal2016\/ADIOUZA___DADDY_remix_Clip_OfficielMH8_Iip7y3g.mp4",
+				"startfrom": 0,
+				"duration": 219266,
+				"fileDuration": 219266,
+				"vod": true
+			}, {
+				"id": 44925,
+				"title": "Item Title",
+				"item": "senegal2016\/Abdou_Guite_SECK_Thiono_Adouna__Remix__CLIP_1ere_PartieGm9Mls9fpg.mp4",
+				"startfrom": 0,
+				"duration": 268283,
+				"fileDuration": 268283,
+				"vod": true
+			}, {
+				"id": 44926,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid__Siggil_Clip_Officiel_cmODXQa_sAs.mp4",
+				"startfrom": 0,
+				"duration": 390699,
+				"fileDuration": 390699,
+				"vod": true
+			}, {
+				"id": 44927,
+				"title": "Item Title",
+				"item": "senegal2016\/Secka__Premiere_Dame_FMoCjK2IxJg.mp4",
+				"startfrom": 0,
+				"duration": 325312,
+				"fileDuration": 325312,
+				"vod": true
+			}, {
+				"id": 44928,
+				"title": "Item Title",
+				"item": "senegal2016\/BIRAHIMSAMA_MARIAGEnouveau_ClipZCJlHcPfdBM.mp4",
+				"startfrom": 0,
+				"duration": 208956,
+				"fileDuration": 208956,
+				"vod": true
+			}, {
+				"id": 44929,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid__No_Stress_Clip_OfficielKlE8MlCWgmI.mp4",
+				"startfrom": 0,
+				"duration": 226952,
+				"fileDuration": 226952,
+				"vod": true
+			}, {
+				"id": 44930,
+				"title": "Item Title",
+				"item": "senegal2016\/PAPE_DIOUF__Total_Excellium_EksinaVideo_Officielle_NkASUp85rk.mp4",
+				"startfrom": 0,
+				"duration": 258368,
+				"fileDuration": 258368,
+				"vod": true
+			}, {
+				"id": 44931,
+				"title": "Item Title",
+				"item": "senegal2016\/Samba_Peuzzi__From_Diack_2_OfficialfavM0otiDp4.mp4",
+				"startfrom": 0,
+				"duration": 148933,
+				"fileDuration": 148933,
+				"vod": true
+			}, {
+				"id": 44932,
+				"title": "Item Title",
+				"item": "senegal2016\/Elaj_Keita__Sama_XolSlradxl3Lb8.mp4",
+				"startfrom": 0,
+				"duration": 302626,
+				"fileDuration": 302626,
+				"vod": true
+			}, {
+				"id": 44933,
+				"title": "Item Title",
+				"item": "senegal2016\/Sidiki_Diabatee__Cest_bon_Clip_Officiel_feat._Iba_One_et_NiskaC0cy1Kt5Dwc.mp4",
+				"startfrom": 0,
+				"duration": 267192,
+				"fileDuration": 267192,
+				"vod": true
+			}, {
+				"id": 44934,
+				"title": "Item Title",
+				"item": "senegal2016\/Sidate__Bon_Bon__Cafe_ToubaFQ9MNKcQ4W8.mp4",
+				"startfrom": 0,
+				"duration": 309685,
+				"fileDuration": 309685,
+				"vod": true
+			}, {
+				"id": 44935,
+				"title": "Item Title",
+				"item": "senegal2016\/Bai_Babu_Attitude_Girl_Official_Videosu1wIAr3fE0.mp4",
+				"startfrom": 0,
+				"duration": 227114,
+				"fileDuration": 227114,
+				"vod": true
+			}, {
+				"id": 44936,
+				"title": "Item Title",
+				"item": "senegal2016\/Wally_B._Seck__STAY_Clip_Officielg6QrXwGUqAM.mp4",
+				"startfrom": 0,
+				"duration": 363276,
+				"fileDuration": 363276,
+				"vod": true
+			}, {
+				"id": 44937,
+				"title": "Item Title",
+				"item": "senegal2016\/Yves_Niang_YENA_TAKHQztyrY7pOAg.mp4",
+				"startfrom": 0,
+				"duration": 306248,
+				"fileDuration": 306248,
+				"vod": true
+			}, {
+				"id": 44938,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid__Retaan_Clip_OfficielJep2P0Fuei0.mp4",
+				"startfrom": 0,
+				"duration": 259923,
+				"fileDuration": 259923,
+				"vod": true
+			}, {
+				"id": 44939,
+				"title": "Item Title",
+				"item": "senegal2016\/MOMO_DIENG_Lang_Gui_le_Clipr0WTxbFOjco.mp4",
+				"startfrom": 0,
+				"duration": 361233,
+				"fileDuration": 361233,
+				"vod": true
+			}, {
+				"id": 44940,
+				"title": "Item Title",
+				"item": "senegal2016\/NDERGeneralVideo_officielleW8VKn7Lx8ds.mp4",
+				"startfrom": 0,
+				"duration": 377882,
+				"fileDuration": 377882,
+				"vod": true
+			}, {
+				"id": 44941,
+				"title": "Item Title",
+				"item": "senegal2016\/CLIP_Abdou_Guitee_Seck_Thiono_Adouna2ieme_Partie__Remix_Clip_EfSqbx9dfSA.mp4",
+				"startfrom": 0,
+				"duration": 173407,
+				"fileDuration": 173407,
+				"vod": true
+			}, {
+				"id": 44942,
+				"title": "Item Title",
+				"item": "senegal2016\/FATOU_GUEWEL_DIOUF_MBARASSE_PLUS_2017_CLIP_OFFICIELf2BcIPZKbvQ.mp4",
+				"startfrom": 0,
+				"duration": 331720,
+				"fileDuration": 331720,
+				"vod": true
+			}, {
+				"id": 44943,
+				"title": "Item Title",
+				"item": "senegal2016\/Dior_Mbaye__Baara_Aw_Clip_Officiel3oXMOUaNd4U.mp4",
+				"startfrom": 0,
+				"duration": 252076,
+				"fileDuration": 252076,
+				"vod": true
+			}, {
+				"id": 44944,
+				"title": "Item Title",
+				"item": "senegal2016\/PAPE_DIOUF_Lamb_Ju_ReyBadadoutKPRqpq9hxFs.mp4",
+				"startfrom": 0,
+				"duration": 335157,
+				"fileDuration": 335157,
+				"vod": true
+			}, {
+				"id": 44945,
+				"title": "Item Title",
+				"item": "senegal2016\/Ndeye_Fatou_Ndiaye_Mama__Seydina_Muhamed_p86_E8yyKY4.mp4",
+				"startfrom": 0,
+				"duration": 322432,
+				"fileDuration": 322432,
+				"vod": true
+			}, {
+				"id": 44946,
+				"title": "Item Title",
+				"item": "senegal2016\/Wally_B._Seck__Si_vous_saviez_Clip_OfficielEnL78Wgu6DQ.mp4",
+				"startfrom": 0,
+				"duration": 299375,
+				"fileDuration": 299375,
+				"vod": true
+			}, {
+				"id": 44947,
+				"title": "Item Title",
+				"item": "senegal2016\/Mbathio_Ndiaye__Thiopati___real_Art__Bi_ManagemanpTZQQ08AM0U.mp4",
+				"startfrom": 0,
+				"duration": 317672,
+				"fileDuration": 317672,
+				"vod": true
+			}, {
+				"id": 44948,
+				"title": "Item Title",
+				"item": "senegal2016\/Queen_Biz__Teeree_Neelaw_Official_videeogvEW0wrnWWk.mp4",
+				"startfrom": 0,
+				"duration": 353477,
+				"fileDuration": 353477,
+				"vod": true
+			}, {
+				"id": 44949,
+				"title": "Item Title",
+				"item": "senegal2016\/Diha___Meune_na_neK_mbalax_2016x2ZgVNY46KQ.mp4",
+				"startfrom": 0,
+				"duration": 352363,
+				"fileDuration": 352363,
+				"vod": true
+			}, {
+				"id": 44950,
+				"title": "Item Title",
+				"item": "senegal2016\/Youssou_Ndour__SENEGALREKK__VIDEO_OFFICIAL4AsE3pNhJk.mp4",
+				"startfrom": 0,
+				"duration": 337990,
+				"fileDuration": 337990,
+				"vod": true
+			}, {
+				"id": 44951,
+				"title": "Item Title",
+				"item": "senegal2016\/Soleil_Levant__Bercy_Wally_gui_ni_X4_BKItKwp0.mp4",
+				"startfrom": 0,
+				"duration": 285304,
+				"fileDuration": 285304,
+				"vod": true
+			}, {
+				"id": 44952,
+				"title": "Item Title",
+				"item": "senegal2016\/nuveau_clip__Titi_Nitt_dayy_xam_boppamQFJYVWSYyW0.mp4",
+				"startfrom": 0,
+				"duration": 358563,
+				"fileDuration": 358563,
+				"vod": true
+			}, {
+				"id": 44953,
+				"title": "Item Title",
+				"item": "senegal2016\/Backa_Niang__sama_djiguene_OAtxTxDpNJw.mp4",
+				"startfrom": 0,
+				"duration": 334948,
+				"fileDuration": 334948,
+				"vod": true
+			}, {
+				"id": 44954,
+				"title": "Item Title",
+				"item": "senegal2016\/Youssou_Ndour__Be_careful_Clip_officielBGt1htuyhiU.mp4",
+				"startfrom": 0,
+				"duration": 242231,
+				"fileDuration": 242231,
+				"vod": true
+			}, {
+				"id": 44955,
+				"title": "Item Title",
+				"item": "senegal2016\/Bideew_Bou_Bess__Belle_Clip_OfficielP0O0FC5YNhc.mp4",
+				"startfrom": 0,
+				"duration": 295195,
+				"fileDuration": 295195,
+				"vod": true
+			}, {
+				"id": 44956,
+				"title": "Item Title",
+				"item": "senegal2016\/Djiby_Drame__Manssasi_Video_Officiel_Reeal__IpromaygKcVOc1k.mp4",
+				"startfrom": 0,
+				"duration": 267912,
+				"fileDuration": 267912,
+				"vod": true
+			}, {
+				"id": 44957,
+				"title": "Item Title",
+				"item": "senegal2016\/Ndeye_Mboup___Nit_Ku_Bax_yXk5Qt7qgCA.mp4",
+				"startfrom": 0,
+				"duration": 314352,
+				"fileDuration": 314352,
+				"vod": true
+			}, {
+				"id": 44958,
+				"title": "Item Title",
+				"item": "senegal2016\/Assane_Ndiaye__Ndioukeul__Real_Ppapis_Niang_Art_BicGKthvoeYfM.mp4",
+				"startfrom": 0,
+				"duration": 301558,
+				"fileDuration": 301558,
+				"vod": true
+			}, {
+				"id": 38156,
+				"title": "Item Title",
+				"item": "senegal2015\/Wally_B._Seck__STAY_Clip_Officielg6QrXwGUqAM.mp4",
+				"startfrom": 0,
+				"duration": 363271,
+				"fileDuration": 363271,
+				"vod": true
+			}, {
+				"id": 38157,
+				"title": "Item Title",
+				"item": "senegal2015\/Queen_Biz__Joxma_sama_chance__real_papis_niang_art__birMiH8cZ4sW8.mp4",
+				"startfrom": 0,
+				"duration": 291475,
+				"fileDuration": 291475,
+				"vod": true
+			}, {
+				"id": 38158,
+				"title": "Item Title",
+				"item": "senegal2015\/Adja__lima_meeti_1mU2VHk146U.mp4",
+				"startfrom": 0,
+				"duration": 201474,
+				"fileDuration": 201474,
+				"vod": true
+			}, {
+				"id": 38159,
+				"title": "Item Title",
+				"item": "senegal2015\/Soda_Bousso__jeureuf_j5JU6bEGMKk.mp4",
+				"startfrom": 0,
+				"duration": 293356,
+				"fileDuration": 293356,
+				"vod": true
+			}, {
+				"id": 38160,
+				"title": "Item Title",
+				"item": "senegal2015\/NDER__YEURMANDE__Nouvelle_videeo_en_exclusiviteeT5967NZNxc.mp4",
+				"startfrom": 0,
+				"duration": 387153,
+				"fileDuration": 387153,
+				"vod": true
+			}, {
+				"id": 38161,
+				"title": "Item Title",
+				"item": "senegal2015\/Nder_Boy__Yermandee_AL7V9bxpnx4.mp4",
+				"startfrom": 0,
+				"duration": 387153,
+				"fileDuration": 387153,
+				"vod": true
+			}, {
+				"id": 38162,
+				"title": "Item Title",
+				"item": "senegal2015\/Ousmane_Gangue__Fans_YiVideo_OfficielVpfSdX0eunc.mp4",
+				"startfrom": 0,
+				"duration": 350872,
+				"fileDuration": 350872,
+				"vod": true
+			}, {
+				"id": 38163,
+				"title": "Item Title",
+				"item": "senegal2015\/Gallas___You_yay_thiapathiouly_enFhIPYQIKM.mp4",
+				"startfrom": 0,
+				"duration": 374393,
+				"fileDuration": 374393,
+				"vod": true
+			}, {
+				"id": 38164,
+				"title": "Item Title",
+				"item": "senegal2015\/Momo_Dieng__li_ngama_diaral_mwndU4rWPyY.mp4",
+				"startfrom": 0,
+				"duration": 303793,
+				"fileDuration": 303793,
+				"vod": true
+			}, {
+				"id": 38165,
+				"title": "Item Title",
+				"item": "senegal2015\/Mapenda_Seck__Boulma_Jay__real_Papis_Niang_art_biOpwwil5QRY.mp4",
+				"startfrom": 0,
+				"duration": 341287,
+				"fileDuration": 341287,
+				"vod": true
+			}, {
+				"id": 38166,
+				"title": "Item Title",
+				"item": "senegal2015\/GO_Ndiaye__taaru_jigeen_real___Papis_Niang_artbiC_56ckeOX3g.mp4",
+				"startfrom": 0,
+				"duration": 315357,
+				"fileDuration": 315357,
+				"vod": true
+			}, {
+				"id": 38167,
+				"title": "Item Title",
+				"item": "senegal2014\/Ndeye_Ndiaye_Lamsal__kignianepWR5qKWp3Fk.mp4",
+				"startfrom": 0,
+				"duration": 307688,
+				"fileDuration": 307688,
+				"vod": true
+			}, {
+				"id": 38168,
+				"title": "Item Title",
+				"item": "senegal2014\/Coumba_Gawlo__Ft._Fatou_Kinee_Mbaye__Djessy__Clip_Officielln611RMBASs.mp4",
+				"startfrom": 0,
+				"duration": 493726,
+				"fileDuration": 493726,
+				"vod": true
+			}, {
+				"id": 38169,
+				"title": "Item Title",
+				"item": "senegal2014\/Dior__Demna_Clip_Officield8NhtPJlasQ.mp4",
+				"startfrom": 0,
+				"duration": 60994,
+				"fileDuration": 60994,
+				"vod": true
+			}, {
+				"id": 38170,
+				"title": "Item Title",
+				"item": "senegal2014\/Modou_Mbollu__gouthi_raguinnIzxPH83qG_o.mp4",
+				"startfrom": 0,
+				"duration": 309842,
+				"fileDuration": 309842,
+				"vod": true
+			}, {
+				"id": 38171,
+				"title": "Item Title",
+				"item": "senegal2014\/BIRAHIM_From_MedinaClipoGFzqdIH_NM.mp4",
+				"startfrom": 0,
+				"duration": 346127,
+				"fileDuration": 346127,
+				"vod": true
+			}, {
+				"id": 38172,
+				"title": "Item Title",
+				"item": "senegal2014\/Super_Ceedo_Ceey_BicHiILiGltXU.mp4",
+				"startfrom": 0,
+				"duration": 305724,
+				"fileDuration": 305724,
+				"vod": true
+			}, {
+				"id": 38173,
+				"title": "Item Title",
+				"item": "senegal2014\/Go_Ndiaye__fi_nu_jaar__real___Papis_niangoyfNvh4BItE.mp4",
+				"startfrom": 0,
+				"duration": 322752,
+				"fileDuration": 322752,
+				"vod": true
+			}, {
+				"id": 38174,
+				"title": "Item Title",
+				"item": "senegal2014\/Secka_feat_Baba__seydi_babacar_UvgqEHCmUo8.mp4",
+				"startfrom": 0,
+				"duration": 264714,
+				"fileDuration": 264714,
+				"vod": true
+			}, {
+				"id": 38175,
+				"title": "Item Title",
+				"item": "senegal2014\/Gelongal__Nterro_Clip_Officielxs2HwjrJSY.mp4",
+				"startfrom": 0,
+				"duration": 235840,
+				"fileDuration": 235840,
+				"vod": true
+			}, {
+				"id": 38176,
+				"title": "Item Title",
+				"item": "senegal2014\/Galass__sara_mbara_mbaye__Film__by_Art_bi_managemanL_zeJiuryvA.mp4",
+				"startfrom": 0,
+				"duration": 310960,
+				"fileDuration": 310960,
+				"vod": true
+			}, {
+				"id": 38177,
+				"title": "Item Title",
+				"item": "senegal2014\/Pape_Diagne__meissa_bigue_FQHzxa6QF4.mp4",
+				"startfrom": 0,
+				"duration": 337595,
+				"fileDuration": 337595,
+				"vod": true
+			}, {
+				"id": 38178,
+				"title": "Item Title",
+				"item": "senegal2014\/El_gueye__you_and_meRCH8N4xJVOU.mp4",
+				"startfrom": 0,
+				"duration": 306968,
+				"fileDuration": 306968,
+				"vod": true
+			}, {
+				"id": 38179,
+				"title": "Item Title",
+				"item": "senegal2014\/Zoula_kouley_danel_real_art_bi_managemanb4XVhJBfKKA.mp4",
+				"startfrom": 0,
+				"duration": 336719,
+				"fileDuration": 336719,
+				"vod": true
+			}, {
+				"id": 38180,
+				"title": "Item Title",
+				"item": "senegal2014\/WANGOClip_officiel_Sen_Ptit_Gallee_2014RKh6vMn5phs.mp4",
+				"startfrom": 0,
+				"duration": 327269,
+				"fileDuration": 327269,
+				"vod": true
+			}, {
+				"id": 38181,
+				"title": "Item Title",
+				"item": "senegal2014\/facoly__Aty_PJyo2NZx7xM.mp4",
+				"startfrom": 0,
+				"duration": 245669,
+				"fileDuration": 245669,
+				"vod": true
+			}, {
+				"id": 38182,
+				"title": "Item Title",
+				"item": "senegal2014\/AIDA_SAMB_Sunu_sangueDfRXdbEF4UI.mp4",
+				"startfrom": 0,
+				"duration": 373725,
+				"fileDuration": 373725,
+				"vod": true
+			}, {
+				"id": 38183,
+				"title": "Item Title",
+				"item": "senegal2014\/Viviane_Chidid__Retaan__Directed_by_Wantd__Prod_by_1000_meelodies85u2eqoI9K0.mp4",
+				"startfrom": 0,
+				"duration": 260040,
+				"fileDuration": 260040,
+				"vod": true
+			}, {
+				"id": 38184,
+				"title": "Item Title",
+				"item": "senegal2014\/Pape_Diouf_rakkaju_real_Papis__Niangt9c3zzB_7I.mp4",
+				"startfrom": 0,
+				"duration": 431874,
+				"fileDuration": 431874,
+				"vod": true
+			}, {
+				"id": 38185,
+				"title": "Item Title",
+				"item": "senegal2014\/BIRAHIM_Man_Fuma_JemOQtq892XlfU.mp4",
+				"startfrom": 0,
+				"duration": 309761,
+				"fileDuration": 309761,
+				"vod": true
+			}, {
+				"id": 38186,
+				"title": "Item Title",
+				"item": "senegal2014\/Groupe_Elage_Diouf_MATHIATOUnkQzQqmTd0M.mp4",
+				"startfrom": 0,
+				"duration": 320482,
+				"fileDuration": 320482,
+				"vod": true
+			}, {
+				"id": 38187,
+				"title": "Item Title",
+				"item": "senegal2014\/NDER_Maladie_dAmour_Clip_officielTxyhI0CDGI.mp4",
+				"startfrom": 0,
+				"duration": 415319,
+				"fileDuration": 415319,
+				"vod": true
+			}, {
+				"id": 38188,
+				"title": "Item Title",
+				"item": "senegal2014\/Khalifa_Mbodji__mbakh_EJI9PCIN21Y.mp4",
+				"startfrom": 0,
+				"duration": 325474,
+				"fileDuration": 325474,
+				"vod": true
+			}, {
+				"id": 38189,
+				"title": "Item Title",
+				"item": "senegal2014\/Aicha_kara__kara_fall__real_Papis_Niang_art_biKAffuVEt69c.mp4",
+				"startfrom": 0,
+				"duration": 260843,
+				"fileDuration": 260843,
+				"vod": true
+			}, {
+				"id": 38190,
+				"title": "Item Title",
+				"item": "senegal2014\/Aby_Ndour_yalla_sunu_borom_UJkL31Sjs6M.mp4",
+				"startfrom": 0,
+				"duration": 371914,
+				"fileDuration": 371914,
+				"vod": true
+			}, {
+				"id": 38191,
+				"title": "Item Title",
+				"item": "senegal2014\/Daara_J_Family__DELOUSSILzZRqAgI8G1s.mp4",
+				"startfrom": 0,
+				"duration": 236560,
+				"fileDuration": 236560,
+				"vod": true
+			}, {
+				"id": 38192,
+				"title": "Item Title",
+				"item": "senegal2014\/Abou_ak_Fafa__U_are_my_life_mzXCmPTUDZI.mp4",
+				"startfrom": 0,
+				"duration": 325493,
+				"fileDuration": 325493,
+				"vod": true
+			}, {
+				"id": 38193,
+				"title": "Item Title",
+				"item": "senegal2013\/Adiouza__Li_Ma_Doon__Clip_OfficielehAR2KRaj5Q.mp4",
+				"startfrom": 0,
+				"duration": 237240,
+				"fileDuration": 237240,
+				"vod": true
+			}, {
+				"id": 38194,
+				"title": "Item Title",
+				"item": "senegal2013\/Waflash__Nanga_Fanee__ArtBi_ManagemanmbyMZ8ZHFwE.mp4",
+				"startfrom": 0,
+				"duration": 265242,
+				"fileDuration": 265242,
+				"vod": true
+			}, {
+				"id": 38195,
+				"title": "Item Title",
+				"item": "senegal2013\/Djiby_Dramee__Domou_Sine_j_KfMDLyiDI.mp4",
+				"startfrom": 0,
+				"duration": 309197,
+				"fileDuration": 309197,
+				"vod": true
+			}, {
+				"id": 38196,
+				"title": "Item Title",
+				"item": "senegal2013\/Ngalla__BalmaTvPGGk6XvZU.mp4",
+				"startfrom": 0,
+				"duration": 257346,
+				"fileDuration": 257346,
+				"vod": true
+			}, {
+				"id": 38197,
+				"title": "Item Title",
+				"item": "senegal2013\/Coumba_Gawlo__Kouy_Feug__Clip_OfficielgF_5vKB4mSE.mp4",
+				"startfrom": 0,
+				"duration": 466880,
+				"fileDuration": 466880,
+				"vod": true
+			}, {
+				"id": 38198,
+				"title": "Item Title",
+				"item": "senegal2013\/Pape_Diouf__Diofior_n8bTbqWb31Q.mp4",
+				"startfrom": 0,
+				"duration": 469280,
+				"fileDuration": 469280,
+				"vod": true
+			}, {
+				"id": 38199,
+				"title": "Item Title",
+				"item": "senegal2013\/Gokh_Bi_System__Yaye__Clip_Officiels6mkbNnpgVw.mp4",
+				"startfrom": 0,
+				"duration": 277269,
+				"fileDuration": 277269,
+				"vod": true
+			}, {
+				"id": 38200,
+				"title": "Item Title",
+				"item": "senegal2013\/PAPE_DIOUF___SADIOAKsiwWeBiuc.mp4",
+				"startfrom": 0,
+				"duration": 377464,
+				"fileDuration": 377464,
+				"vod": true
+			}, {
+				"id": 38201,
+				"title": "Item Title",
+				"item": "senegal2013\/Bideew_Bou_Bess__Ma_Terre_Ma_Vie__Clip_OfficielX1FU_zopi9Y.mp4",
+				"startfrom": 0,
+				"duration": 283237,
+				"fileDuration": 283237,
+				"vod": true
+			}, {
+				"id": 38202,
+				"title": "Item Title",
+				"item": "senegal2013\/TITI__GUEN_GUI_DEUK__Clip_Officiel0ChaoRFyytA.mp4",
+				"startfrom": 0,
+				"duration": 339987,
+				"fileDuration": 339987,
+				"vod": true
+			}, {
+				"id": 38203,
+				"title": "Item Title",
+				"item": "senegal2013\/Assane_Mboup__Mariage_ForceeoAOypzWtG0.mp4",
+				"startfrom": 0,
+				"duration": 292362,
+				"fileDuration": 292362,
+				"vod": true
+			}, {
+				"id": 38204,
+				"title": "Item Title",
+				"item": "senegal2013\/Amy_Collee_Dieng__Naby__Clip_OfficielhHuIOp0h1LA.mp4",
+				"startfrom": 0,
+				"duration": 400312,
+				"fileDuration": 400312,
+				"vod": true
+			}, {
+				"id": 38205,
+				"title": "Item Title",
+				"item": "senegal2013\/Mbaye_Ndiaye_tilala_CIYAWLA__ArtBi_ManagemanzvqhpirUEJg.mp4",
+				"startfrom": 0,
+				"duration": 296681,
+				"fileDuration": 296681,
+				"vod": true
+			}, {
+				"id": 38206,
+				"title": "Item Title",
+				"item": "senegal2013\/Mbidou___Surrenderws0NrljarjE.mp4",
+				"startfrom": 0,
+				"duration": 321109,
+				"fileDuration": 321109,
+				"vod": true
+			}, {
+				"id": 38207,
+				"title": "Item Title",
+				"item": "senegal2013\/Laye_Kouyatee__Gorel__ArtBi_Managemanq03Q1ReApOE.mp4",
+				"startfrom": 0,
+				"duration": 780283,
+				"fileDuration": 780283,
+				"vod": true
+			}, {
+				"id": 38208,
+				"title": "Item Title",
+				"item": "senegal2013\/Viviane_Chidid__Yaakaar__Clip_OfficielDwUmmGPQ4c.mp4",
+				"startfrom": 0,
+				"duration": 258670,
+				"fileDuration": 258670,
+				"vod": true
+			}, {
+				"id": 38209,
+				"title": "Item Title",
+				"item": "senegal2013\/Jali_Madi_Kanuteh__jarabi3cbkVImfsj8.mp4",
+				"startfrom": 0,
+				"duration": 275876,
+				"fileDuration": 275876,
+				"vod": true
+			}, {
+				"id": 38210,
+				"title": "Item Title",
+				"item": "senegal2013\/Ndiole_Diamand_Noir_ft._Aida_Ndiaye_Touba__Yaye_Ak_Dome__ArtBi_Manageman7jCIrWhBTjk.mp4",
+				"startfrom": 0,
+				"duration": 280706,
+				"fileDuration": 280706,
+				"vod": true
+			}, {
+				"id": 38211,
+				"title": "Item Title",
+				"item": "senegal2013\/Coumba_gawlo__lamb_dji__Clip_Officielt4HmuG4KLi0.mp4",
+				"startfrom": 0,
+				"duration": 548200,
+				"fileDuration": 548200,
+				"vod": true
+			}, {
+				"id": 38212,
+				"title": "Item Title",
+				"item": "senegal2013\/Jali_Madi_KanutehwM2MZx0oNx4.mp4",
+				"startfrom": 0,
+				"duration": 55798,
+				"fileDuration": 55798,
+				"vod": true
+			}, {
+				"id": 38213,
+				"title": "Item Title",
+				"item": "senegal2013\/COURA_MBAYE__NIIT_iEFlLEgWdwY.mp4",
+				"startfrom": 0,
+				"duration": 364042,
+				"fileDuration": 364042,
+				"vod": true
+			}, {
+				"id": 38214,
+				"title": "Item Title",
+				"item": "senegal2013\/Mame_Goor_Diazaka__Fall_Lamp_Mo5XtGydbVw.mp4",
+				"startfrom": 0,
+				"duration": 300280,
+				"fileDuration": 300280,
+				"vod": true
+			}, {
+				"id": 38215,
+				"title": "Item Title",
+				"item": "senegal2013\/Khalifa_Gueye__Mbar_rifb9lkSAxQ.mp4",
+				"startfrom": 0,
+				"duration": 246201,
+				"fileDuration": 246201,
+				"vod": true
+			}, {
+				"id": 38216,
+				"title": "Item Title",
+				"item": "senegal2013\/Aida_samb___Gestu___ArtBi_ManagemanxEkqOkuLlkQ.mp4",
+				"startfrom": 0,
+				"duration": 389190,
+				"fileDuration": 389190,
+				"vod": true
+			}, {
+				"id": 38217,
+				"title": "Item Title",
+				"item": "senegal2013\/Sidy_Samb__Djoubo__Clip_Officiel0vnXBFjolGE.mp4",
+				"startfrom": 0,
+				"duration": 282564,
+				"fileDuration": 282564,
+				"vod": true
+			}, {
+				"id": 38218,
+				"title": "Item Title",
+				"item": "senegal2013\/Ngone_Ndiaye_Gueweul__Yay_Sai_Sai__ArtBi_Managemanhq5sdAhOgW8.mp4",
+				"startfrom": 0,
+				"duration": 266472,
+				"fileDuration": 266472,
+				"vod": true
+			}, {
+				"id": 38219,
+				"title": "Item Title",
+				"item": "senegal2013\/Abdou_Guitee_Seeck__JambJi__ArtBi_Manageman2cXkx8ShktI.mp4",
+				"startfrom": 0,
+				"duration": 297749,
+				"fileDuration": 297749,
+				"vod": true
+			}, {
+				"id": 38220,
+				"title": "Item Title",
+				"item": "senegal2013\/Safari__Inata__Clip_OfficielaklUbT3DUFU.mp4",
+				"startfrom": 0,
+				"duration": 181835,
+				"fileDuration": 181835,
+				"vod": true
+			}, {
+				"id": 38221,
+				"title": "Item Title",
+				"item": "senegal2013\/Yves_Niang_ft._Mame_Bassine_Beugue__Nalene__ArtBi_ManagemansVMmgQVrah8.mp4",
+				"startfrom": 0,
+				"duration": 332120,
+				"fileDuration": 332120,
+				"vod": true
+			}, {
+				"id": 38222,
+				"title": "Item Title",
+				"item": "senegal2013\/MOMO_ThiatZZH2aSmR940.mp4",
+				"startfrom": 0,
+				"duration": 340706,
+				"fileDuration": 340706,
+				"vod": true
+			}, {
+				"id": 38223,
+				"title": "Item Title",
+				"item": "senegal2013\/Assane_Ndiaye__Beuree__ArtBi_ManagemanR359mDcCgjY.mp4",
+				"startfrom": 0,
+				"duration": 296240,
+				"fileDuration": 296240,
+				"vod": true
+			}, {
+				"id": 38224,
+				"title": "Item Title",
+				"item": "senegal2013\/Facoly_Baby_Boy5SI3G256Xgs.mp4",
+				"startfrom": 0,
+				"duration": 229065,
+				"fileDuration": 229065,
+				"vod": true
+			}, {
+				"id": 38225,
+				"title": "Item Title",
+				"item": "senegal2013\/Demba_Guissee__Mbiffee_YtEBIEZqal4.mp4",
+				"startfrom": 0,
+				"duration": 287556,
+				"fileDuration": 287556,
+				"vod": true
+			}, {
+				"id": 38226,
+				"title": "Item Title",
+				"item": "senegal2013\/Fata_feat_Mbaye_Dieye__Waly_Seck__Nguentee____real_Papis_Niang_art_biD3SqQnq70P8.mp4",
+				"startfrom": 0,
+				"duration": 250752,
+				"fileDuration": 250752,
+				"vod": true
+			}, {
+				"id": 38227,
+				"title": "Item Title",
+				"item": "senegal2013\/Djiby_Drame__Mama_Cheerie_Son__Mbowla__ArtBi_ManagemangXai2yPHvek.mp4",
+				"startfrom": 0,
+				"duration": 332742,
+				"fileDuration": 332742,
+				"vod": true
+			}, {
+				"id": 38228,
+				"title": "Item Title",
+				"item": "senegal2013\/Pape_Ndiaye_Thiou__A.Ndouti__ArtBi_ManagemankHtycbeG5ac.mp4",
+				"startfrom": 0,
+				"duration": 281040,
+				"fileDuration": 281040,
+				"vod": true
+			}, {
+				"id": 38229,
+				"title": "Item Title",
+				"item": "senegal2013\/Titi_Jiggen_Feem__Video_Originale__Bonus__LYRICS_dans_la_descriptionObiJOtDMdUc.mp4",
+				"startfrom": 0,
+				"duration": 314305,
+				"fileDuration": 314305,
+				"vod": true
+			}, {
+				"id": 38230,
+				"title": "Item Title",
+				"item": "senegal2013\/El_Gueye__Namo_Dara__ArtBi_ManagemanYToAcDL1Nk4.mp4",
+				"startfrom": 0,
+				"duration": 332069,
+				"fileDuration": 332069,
+				"vod": true
+			}, {
+				"id": 38231,
+				"title": "Item Title",
+				"item": "senegal2013\/BIRAHIM__NABI_real___PAPIS_NIANG_art__bi__ArtBi_Manageman7B1lJVJD_JU.mp4",
+				"startfrom": 0,
+				"duration": 310683,
+				"fileDuration": 310683,
+				"vod": true
+			}, {
+				"id": 38232,
+				"title": "Item Title",
+				"item": "senegal2013\/ABY_NDOUR__DIARRA__ArtBi_Manageman8W0XLymWKL4.mp4",
+				"startfrom": 0,
+				"duration": 270466,
+				"fileDuration": 270466,
+				"vod": true
+			}, {
+				"id": 38233,
+				"title": "Item Title",
+				"item": "senegal2013\/Adiouza__Ndaanane__Clip_Officielh_qsFhyPy4Y.mp4",
+				"startfrom": 0,
+				"duration": 314680,
+				"fileDuration": 314680,
+				"vod": true
+			}, {
+				"id": 38234,
+				"title": "Item Title",
+				"item": "senegal2013\/BABA_HAMDY_feat_DABA_SEYE___JamaleeyGhlWZJs61k.mp4",
+				"startfrom": 0,
+				"duration": 249754,
+				"fileDuration": 249754,
+				"vod": true
+			}, {
+				"id": 18840,
+				"title": "Item Title",
+				"item": "senegal2016\/Boy_Sidy__NopnaleumFWddnysdBw.mp4",
+				"startfrom": 0,
+				"duration": 303833,
+				"fileDuration": 303833,
+				"vod": true
+			}, {
+				"id": 18841,
+				"title": "Item Title",
+				"item": "senegal2016\/Assane_NDIAYE__Yen_idClovxeB9A.mp4",
+				"startfrom": 0,
+				"duration": 302184,
+				"fileDuration": 302184,
+				"vod": true
+			}, {
+				"id": 18842,
+				"title": "Item Title",
+				"item": "senegal2016\/Wally_B._Seck__Jiguen_Mini_filmAo08buUp6TE.mp4",
+				"startfrom": 0,
+				"duration": 285327,
+				"fileDuration": 285327,
+				"vod": true
+			}, {
+				"id": 18843,
+				"title": "Item Title",
+				"item": "senegal2016\/Dior_MBAYE__Moom_Rek_Clip_OfficielhbvX2PRZSpg.mp4",
+				"startfrom": 0,
+				"duration": 74722,
+				"fileDuration": 74722,
+				"vod": true
+			}, {
+				"id": 18844,
+				"title": "Item Title",
+				"item": "senegal2016\/Safari__Allah_Clip_OfficielACnq_zv4vps.mp4",
+				"startfrom": 0,
+				"duration": 235590,
+				"fileDuration": 235590,
+				"vod": true
+			}, {
+				"id": 18845,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid___Naxma_clip_officieljsA26g4DDaU.mp4",
+				"startfrom": 0,
+				"duration": 316674,
+				"fileDuration": 316674,
+				"vod": true
+			}, {
+				"id": 18846,
+				"title": "Item Title",
+				"item": "senegal2016\/Daara_J_Family__Xeetkc8UTVmFdWo.mp4",
+				"startfrom": 0,
+				"duration": 256720,
+				"fileDuration": 256720,
+				"vod": true
+			}, {
+				"id": 18847,
+				"title": "Item Title",
+				"item": "senegal2016\/Bideew_Bou_Bess__I_Belong_Clip_Officielhs6qelc8YtU.mp4",
+				"startfrom": 0,
+				"duration": 273670,
+				"fileDuration": 273670,
+				"vod": true
+			}, {
+				"id": 18848,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid__Wuyuma_Clip_OfficielnmJp40oR1L4.mp4",
+				"startfrom": 0,
+				"duration": 197904,
+				"fileDuration": 197904,
+				"vod": true
+			}, {
+				"id": 18849,
+				"title": "Item Title",
+				"item": "senegal2016\/Chadia__Naeu_Boolo_cjd06F6jnio.mp4",
+				"startfrom": 0,
+				"duration": 235079,
+				"fileDuration": 235079,
+				"vod": true
+			}, {
+				"id": 18850,
+				"title": "Item Title",
+				"item": "senegal2016\/Kine_Lam__linguere_sK4nkGnmmqs.mp4",
+				"startfrom": 0,
+				"duration": 355753,
+				"fileDuration": 355753,
+				"vod": true
+			}, {
+				"id": 18851,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid__Yaama_Neekh_Clip_OfficielG0MmB41nyKM.mp4",
+				"startfrom": 0,
+				"duration": 302997,
+				"fileDuration": 302997,
+				"vod": true
+			}, {
+				"id": 18852,
+				"title": "Item Title",
+				"item": "senegal2016\/BIRAHIM_feat_PPS__Love_u_for_Ever_Videeo_Officielle7eV1YHu9TI.mp4",
+				"startfrom": 0,
+				"duration": 277200,
+				"fileDuration": 277200,
+				"vod": true
+			}, {
+				"id": 18853,
+				"title": "Item Title",
+				"item": "senegal2016\/Kadia__la_tigresse__Ndeekeetee_weero22f93KZUo8.mp4",
+				"startfrom": 0,
+				"duration": 320482,
+				"fileDuration": 320482,
+				"vod": true
+			}, {
+				"id": 18854,
+				"title": "Item Title",
+				"item": "senegal2016\/Noface_Vs_Mia__Reine_Xol_Round_5u9xtIZBnnK0.mp4",
+				"startfrom": 0,
+				"duration": 205636,
+				"fileDuration": 205636,
+				"vod": true
+			}, {
+				"id": 18855,
+				"title": "Item Title",
+				"item": "senegal2016\/GO_Ndiaye__Ndeye_Teneng_ihmARKGptTo.mp4",
+				"startfrom": 0,
+				"duration": 318833,
+				"fileDuration": 318833,
+				"vod": true
+			}, {
+				"id": 18856,
+				"title": "Item Title",
+				"item": "senegal2016\/Bai_Babu_ft_Barhama___Fahass___Official_Video2F2HLsZdW_c.mp4",
+				"startfrom": 0,
+				"duration": 320505,
+				"fileDuration": 320505,
+				"vod": true
+			}, {
+				"id": 18857,
+				"title": "Item Title",
+				"item": "senegal2016\/Daara_J_Family__Senegal_Clip_OfficielJpvDC_s8aDg.mp4",
+				"startfrom": 0,
+				"duration": 252726,
+				"fileDuration": 252726,
+				"vod": true
+			}, {
+				"id": 18858,
+				"title": "Item Title",
+				"item": "senegal2016\/Wally_Seck__Donne_moi_une_chance_Clip_OfficielT0I1y1m4dNs.mp4",
+				"startfrom": 0,
+				"duration": 256789,
+				"fileDuration": 256789,
+				"vod": true
+			}, {
+				"id": 18859,
+				"title": "Item Title",
+				"item": "senegal2016\/ABIBA__DOMZEI_Clip_OfficielvWIhjV6ojqY.mp4",
+				"startfrom": 0,
+				"duration": 207958,
+				"fileDuration": 207958,
+				"vod": true
+			}, {
+				"id": 18860,
+				"title": "Item Title",
+				"item": "senegal2016\/PAPOUNETAbiba__Sidiki_OfficielCnyVaVSaTk.mp4",
+				"startfrom": 0,
+				"duration": 254793,
+				"fileDuration": 254793,
+				"vod": true
+			}, {
+				"id": 18861,
+				"title": "Item Title",
+				"item": "senegal2016\/Prestation_Ceereemonie_de__My_Feeling__BellesxuP3fNmnk.mp4",
+				"startfrom": 0,
+				"duration": 591923,
+				"fileDuration": 591923,
+				"vod": true
+			}, {
+				"id": 18862,
+				"title": "Item Title",
+				"item": "senegal2016\/GO_Ndiaye__lady_2inhB6N2SjQ.mp4",
+				"startfrom": 0,
+				"duration": 324801,
+				"fileDuration": 324801,
+				"vod": true
+			}, {
+				"id": 18863,
+				"title": "Item Title",
+				"item": "senegal2016\/Youssou_Ndour__YAAKAR__Hommage_a_Doudou_Ndiaye_Rose__Vieux_Sing_Faye__Videos_Official_HDHzsQfjnOfro.mp4",
+				"startfrom": 0,
+				"duration": 522077,
+				"fileDuration": 522077,
+				"vod": true
+			}, {
+				"id": 18864,
+				"title": "Item Title",
+				"item": "senegal2016\/Guigui__Diokhma_Sa_kholtgfYBRdJw.mp4",
+				"startfrom": 0,
+				"duration": 300397,
+				"fileDuration": 300397,
+				"vod": true
+			}, {
+				"id": 18865,
+				"title": "Item Title",
+				"item": "senegal2016\/Carlou_DyEw5_GxuRhc.mp4",
+				"startfrom": 0,
+				"duration": 194188,
+				"fileDuration": 194188,
+				"vod": true
+			}, {
+				"id": 18866,
+				"title": "Item Title",
+				"item": "senegal2016\/Wally_Seck_x_Sidiki_Diabatee__Alhamdou_lilah_Clip_Officieltk6tVDNIAGQ.mp4",
+				"startfrom": 0,
+				"duration": 295126,
+				"fileDuration": 295126,
+				"vod": true
+			}, {
+				"id": 18867,
+				"title": "Item Title",
+				"item": "senegal2016\/Youssou_Ndour_DJIGUENE_GNI__Official_Video_zZweEsGkmIo.mp4",
+				"startfrom": 0,
+				"duration": 212323,
+				"fileDuration": 212323,
+				"vod": true
+			}, {
+				"id": 18868,
+				"title": "Item Title",
+				"item": "senegal2016\/Nouveau_Clip_De_Baye_Demba_Faye_Leumbeul_Dance_HalligQ39cDet9M.mp4",
+				"startfrom": 0,
+				"duration": 369499,
+				"fileDuration": 369499,
+				"vod": true
+			}, {
+				"id": 18869,
+				"title": "Item Title",
+				"item": "senegal2016\/OMG__Chic_Choc_Chec_feat_Fata_Clip_officiel_2016AY0jvJHd0o.mp4",
+				"startfrom": 0,
+				"duration": 264684,
+				"fileDuration": 264684,
+				"vod": true
+			}, {
+				"id": 18870,
+				"title": "Item Title",
+				"item": "senegal2016\/Abiba_et_Sidiki_DiabateGabon_2017_OfficielS9NI2gltCYE.mp4",
+				"startfrom": 0,
+				"duration": 256279,
+				"fileDuration": 256279,
+				"vod": true
+			}, {
+				"id": 18871,
+				"title": "Item Title",
+				"item": "senegal2016\/NDIOLE___Cou_Cou_Snap_PgijtjqS30.mp4",
+				"startfrom": 0,
+				"duration": 290435,
+				"fileDuration": 290435,
+				"vod": true
+			}, {
+				"id": 18872,
+				"title": "Item Title",
+				"item": "senegal2016\/Armel_Gabbana_feat_Wally_Ballago_Seck__Jimmi_2.0_Clip_OfficielAmXP9EaMGOk.mp4",
+				"startfrom": 0,
+				"duration": 220543,
+				"fileDuration": 220543,
+				"vod": true
+			}, {
+				"id": 18873,
+				"title": "Item Title",
+				"item": "senegal2016\/Youssou_Ndour__Serin_Fallu_Clip_Officielop7DZ3NeQg.mp4",
+				"startfrom": 0,
+				"duration": 394228,
+				"fileDuration": 394228,
+				"vod": true
+			}, {
+				"id": 18874,
+				"title": "Item Title",
+				"item": "senegal2016\/Petit_Bara__Mbalax_Day_Wax_Clip_officielF81rD_DlAKo.mp4",
+				"startfrom": 0,
+				"duration": 307548,
+				"fileDuration": 307548,
+				"vod": true
+			}, {
+				"id": 18875,
+				"title": "Item Title",
+				"item": "senegal2016\/Koutay_Bamba_J_Fall__akk_sant_SlZ0QrGUUgQ.mp4",
+				"startfrom": 0,
+				"duration": 298469,
+				"fileDuration": 298469,
+				"vod": true
+			}, {
+				"id": 18876,
+				"title": "Item Title",
+				"item": "senegal2016\/Sidiki_Diabatee__Inianafi_Debena_Clip_OfficielDELY4vhQTj8.mp4",
+				"startfrom": 0,
+				"duration": 239816,
+				"fileDuration": 239816,
+				"vod": true
+			}, {
+				"id": 18877,
+				"title": "Item Title",
+				"item": "senegal2016\/PAPE_DIOUFMalaw_Feat_Baye_BabouVideeo_Officiellew0hns04Ns.mp4",
+				"startfrom": 0,
+				"duration": 414639,
+				"fileDuration": 414639,
+				"vod": true
+			}, {
+				"id": 18878,
+				"title": "Item Title",
+				"item": "senegal2016\/Gui_Gui__Boul_ma_di_door_YontbO6isxg.mp4",
+				"startfrom": 0,
+				"duration": 306828,
+				"fileDuration": 306828,
+				"vod": true
+			}, {
+				"id": 18879,
+				"title": "Item Title",
+				"item": "senegal2016\/ADIOUZA___DADDY_remix_Clip_OfficielMH8_Iip7y3g.mp4",
+				"startfrom": 0,
+				"duration": 219266,
+				"fileDuration": 219266,
+				"vod": true
+			}, {
+				"id": 18880,
+				"title": "Item Title",
+				"item": "senegal2016\/Abdou_Guite_SECK_Thiono_Adouna__Remix__CLIP_1ere_PartieGm9Mls9fpg.mp4",
+				"startfrom": 0,
+				"duration": 268283,
+				"fileDuration": 268283,
+				"vod": true
+			}, {
+				"id": 18881,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid__Siggil_Clip_Officiel_cmODXQa_sAs.mp4",
+				"startfrom": 0,
+				"duration": 390699,
+				"fileDuration": 390699,
+				"vod": true
+			}, {
+				"id": 18882,
+				"title": "Item Title",
+				"item": "senegal2016\/Secka__Premiere_Dame_FMoCjK2IxJg.mp4",
+				"startfrom": 0,
+				"duration": 325312,
+				"fileDuration": 325312,
+				"vod": true
+			}, {
+				"id": 18883,
+				"title": "Item Title",
+				"item": "senegal2016\/BIRAHIMSAMA_MARIAGEnouveau_ClipZCJlHcPfdBM.mp4",
+				"startfrom": 0,
+				"duration": 208956,
+				"fileDuration": 208956,
+				"vod": true
+			}, {
+				"id": 18884,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid__No_Stress_Clip_OfficielKlE8MlCWgmI.mp4",
+				"startfrom": 0,
+				"duration": 226952,
+				"fileDuration": 226952,
+				"vod": true
+			}, {
+				"id": 18885,
+				"title": "Item Title",
+				"item": "senegal2016\/PAPE_DIOUF__Total_Excellium_EksinaVideo_Officielle_NkASUp85rk.mp4",
+				"startfrom": 0,
+				"duration": 258368,
+				"fileDuration": 258368,
+				"vod": true
+			}, {
+				"id": 18886,
+				"title": "Item Title",
+				"item": "senegal2016\/Samba_Peuzzi__From_Diack_2_OfficialfavM0otiDp4.mp4",
+				"startfrom": 0,
+				"duration": 148933,
+				"fileDuration": 148933,
+				"vod": true
+			}, {
+				"id": 18887,
+				"title": "Item Title",
+				"item": "senegal2016\/Elaj_Keita__Sama_XolSlradxl3Lb8.mp4",
+				"startfrom": 0,
+				"duration": 302626,
+				"fileDuration": 302626,
+				"vod": true
+			}, {
+				"id": 18888,
+				"title": "Item Title",
+				"item": "senegal2016\/Sidiki_Diabatee__Cest_bon_Clip_Officiel_feat._Iba_One_et_NiskaC0cy1Kt5Dwc.mp4",
+				"startfrom": 0,
+				"duration": 267192,
+				"fileDuration": 267192,
+				"vod": true
+			}, {
+				"id": 18889,
+				"title": "Item Title",
+				"item": "senegal2016\/Sidate__Bon_Bon__Cafe_ToubaFQ9MNKcQ4W8.mp4",
+				"startfrom": 0,
+				"duration": 309685,
+				"fileDuration": 309685,
+				"vod": true
+			}, {
+				"id": 18890,
+				"title": "Item Title",
+				"item": "senegal2016\/Bai_Babu_Attitude_Girl_Official_Videosu1wIAr3fE0.mp4",
+				"startfrom": 0,
+				"duration": 227114,
+				"fileDuration": 227114,
+				"vod": true
+			}, {
+				"id": 18891,
+				"title": "Item Title",
+				"item": "senegal2016\/Wally_B._Seck__STAY_Clip_Officielg6QrXwGUqAM.mp4",
+				"startfrom": 0,
+				"duration": 363276,
+				"fileDuration": 363276,
+				"vod": true
+			}, {
+				"id": 18892,
+				"title": "Item Title",
+				"item": "senegal2016\/Yves_Niang_YENA_TAKHQztyrY7pOAg.mp4",
+				"startfrom": 0,
+				"duration": 306248,
+				"fileDuration": 306248,
+				"vod": true
+			}, {
+				"id": 18893,
+				"title": "Item Title",
+				"item": "senegal2016\/Viviane_Chidid__Retaan_Clip_OfficielJep2P0Fuei0.mp4",
+				"startfrom": 0,
+				"duration": 259923,
+				"fileDuration": 259923,
+				"vod": true
+			}, {
+				"id": 18894,
+				"title": "Item Title",
+				"item": "senegal2016\/MOMO_DIENG_Lang_Gui_le_Clipr0WTxbFOjco.mp4",
+				"startfrom": 0,
+				"duration": 361233,
+				"fileDuration": 361233,
+				"vod": true
+			}, {
+				"id": 18895,
+				"title": "Item Title",
+				"item": "senegal2016\/NDERGeneralVideo_officielleW8VKn7Lx8ds.mp4",
+				"startfrom": 0,
+				"duration": 377882,
+				"fileDuration": 377882,
+				"vod": true
+			}, {
+				"id": 18896,
+				"title": "Item Title",
+				"item": "senegal2016\/CLIP_Abdou_Guitee_Seck_Thiono_Adouna2ieme_Partie__Remix_Clip_EfSqbx9dfSA.mp4",
+				"startfrom": 0,
+				"duration": 173407,
+				"fileDuration": 173407,
+				"vod": true
+			}, {
+				"id": 18897,
+				"title": "Item Title",
+				"item": "senegal2016\/FATOU_GUEWEL_DIOUF_MBARASSE_PLUS_2017_CLIP_OFFICIELf2BcIPZKbvQ.mp4",
+				"startfrom": 0,
+				"duration": 331720,
+				"fileDuration": 331720,
+				"vod": true
+			}, {
+				"id": 18898,
+				"title": "Item Title",
+				"item": "senegal2016\/Dior_Mbaye__Baara_Aw_Clip_Officiel3oXMOUaNd4U.mp4",
+				"startfrom": 0,
+				"duration": 252076,
+				"fileDuration": 252076,
+				"vod": true
+			}, {
+				"id": 18899,
+				"title": "Item Title",
+				"item": "senegal2016\/PAPE_DIOUF_Lamb_Ju_ReyBadadoutKPRqpq9hxFs.mp4",
+				"startfrom": 0,
+				"duration": 335157,
+				"fileDuration": 335157,
+				"vod": true
+			}, {
+				"id": 18900,
+				"title": "Item Title",
+				"item": "senegal2016\/Ndeye_Fatou_Ndiaye_Mama__Seydina_Muhamed_p86_E8yyKY4.mp4",
+				"startfrom": 0,
+				"duration": 322432,
+				"fileDuration": 322432,
+				"vod": true
+			}, {
+				"id": 18901,
+				"title": "Item Title",
+				"item": "senegal2016\/Wally_B._Seck__Si_vous_saviez_Clip_OfficielEnL78Wgu6DQ.mp4",
+				"startfrom": 0,
+				"duration": 299375,
+				"fileDuration": 299375,
+				"vod": true
+			}, {
+				"id": 18902,
+				"title": "Item Title",
+				"item": "senegal2016\/Mbathio_Ndiaye__Thiopati___real_Art__Bi_ManagemanpTZQQ08AM0U.mp4",
+				"startfrom": 0,
+				"duration": 317672,
+				"fileDuration": 317672,
+				"vod": true
+			}, {
+				"id": 18903,
+				"title": "Item Title",
+				"item": "senegal2016\/Queen_Biz__Teeree_Neelaw_Official_videeogvEW0wrnWWk.mp4",
+				"startfrom": 0,
+				"duration": 353477,
+				"fileDuration": 353477,
+				"vod": true
+			}, {
+				"id": 18904,
+				"title": "Item Title",
+				"item": "senegal2016\/Diha___Meune_na_neK_mbalax_2016x2ZgVNY46KQ.mp4",
+				"startfrom": 0,
+				"duration": 352363,
+				"fileDuration": 352363,
+				"vod": true
+			}, {
+				"id": 18905,
+				"title": "Item Title",
+				"item": "senegal2016\/Youssou_Ndour__SENEGALREKK__VIDEO_OFFICIAL4AsE3pNhJk.mp4",
+				"startfrom": 0,
+				"duration": 337990,
+				"fileDuration": 337990,
+				"vod": true
+			}, {
+				"id": 18906,
+				"title": "Item Title",
+				"item": "senegal2016\/Soleil_Levant__Bercy_Wally_gui_ni_X4_BKItKwp0.mp4",
+				"startfrom": 0,
+				"duration": 285304,
+				"fileDuration": 285304,
+				"vod": true
+			}, {
+				"id": 18907,
+				"title": "Item Title",
+				"item": "senegal2016\/nuveau_clip__Titi_Nitt_dayy_xam_boppamQFJYVWSYyW0.mp4",
+				"startfrom": 0,
+				"duration": 358563,
+				"fileDuration": 358563,
+				"vod": true
+			}, {
+				"id": 18908,
+				"title": "Item Title",
+				"item": "senegal2016\/Backa_Niang__sama_djiguene_OAtxTxDpNJw.mp4",
+				"startfrom": 0,
+				"duration": 334948,
+				"fileDuration": 334948,
+				"vod": true
+			}, {
+				"id": 18909,
+				"title": "Item Title",
+				"item": "senegal2016\/Youssou_Ndour__Be_careful_Clip_officielBGt1htuyhiU.mp4",
+				"startfrom": 0,
+				"duration": 242231,
+				"fileDuration": 242231,
+				"vod": true
+			}, {
+				"id": 18910,
+				"title": "Item Title",
+				"item": "senegal2016\/Bideew_Bou_Bess__Belle_Clip_OfficielP0O0FC5YNhc.mp4",
+				"startfrom": 0,
+				"duration": 295195,
+				"fileDuration": 295195,
+				"vod": true
+			}, {
+				"id": 18911,
+				"title": "Item Title",
+				"item": "senegal2016\/Djiby_Drame__Manssasi_Video_Officiel_Reeal__IpromaygKcVOc1k.mp4",
+				"startfrom": 0,
+				"duration": 267912,
+				"fileDuration": 267912,
+				"vod": true
+			}, {
+				"id": 18912,
+				"title": "Item Title",
+				"item": "senegal2016\/Ndeye_Mboup___Nit_Ku_Bax_yXk5Qt7qgCA.mp4",
+				"startfrom": 0,
+				"duration": 314352,
+				"fileDuration": 314352,
+				"vod": true
+			}, {
+				"id": 18913,
+				"title": "Item Title",
+				"item": "senegal2016\/Assane_Ndiaye__Ndioukeul__Real_Ppapis_Niang_Art_BicGKthvoeYfM.mp4",
+				"startfrom": 0,
+				"duration": 301558,
+				"fileDuration": 301558,
+				"vod": true
+			}, {
+				"id": 18914,
+				"title": "Item Title",
+				"item": "senegal2017\/Fatou_Guewel_DIOUF_MBEUGEL_SaintVallentin_2017qUTAkApJ5FU.mp4",
+				"startfrom": 0,
+				"duration": 402054,
+				"fileDuration": 402054,
+				"vod": true
+			}, {
+				"id": 18915,
+				"title": "Item Title",
+				"item": "senegal2017\/Samba_Peuzzi___KEULEUM_Official_VideoEDRs5euhCvo.mp4",
+				"startfrom": 0,
+				"duration": 190357,
+				"fileDuration": 190357,
+				"vod": true
+			}, {
+				"id": 18916,
+				"title": "Item Title",
+				"item": "senegal2017\/Viviane_Chidid_Mariage_Forceee_Nouveautee_20172bARQhl7P4Q.mp4",
+				"startfrom": 0,
+				"duration": 225257,
+				"fileDuration": 225257,
+				"vod": true
+			}, {
+				"id": 18917,
+				"title": "Item Title",
+				"item": "senegal2017\/Wally_Seck__Donne_moi_une_chance_Clip_OfficielT0I1y1m4dNs.mp4",
+				"startfrom": 0,
+				"duration": 256789,
+				"fileDuration": 256789,
+				"vod": true
+			}, {
+				"id": 18918,
+				"title": "Item Title",
+				"item": "senegal2017\/SIDIKI_DIABATE_feat_HAMED_DIABATE_HAIDARA_clip_officiel3qfX_or81Zs.mp4",
+				"startfrom": 0,
+				"duration": 271464,
+				"fileDuration": 271464,
+				"vod": true
+			}, {
+				"id": 18919,
+				"title": "Item Title",
+				"item": "senegal2017\/AbibaGeum_Sa_Bopp_clip_officielTRsvWcpkutg.mp4",
+				"startfrom": 0,
+				"duration": 196766,
+				"fileDuration": 196766,
+				"vod": true
+			}, {
+				"id": 18920,
+				"title": "Item Title",
+				"item": "senegal2017\/DIP__DAMAKO_KHAR_cover__BAYE_MASS_17ANS_TDYF4_hkzo.mp4",
+				"startfrom": 0,
+				"duration": 334135,
+				"fileDuration": 334135,
+				"vod": true
+			}, {
+				"id": 18921,
+				"title": "Item Title",
+				"item": "senegal2017\/Leycha__Lees_Waxul_Cover_Youssou_Ndour_X_Yande_Codou_Sene9vZNRS4TEEk.mp4",
+				"startfrom": 0,
+				"duration": 240080,
+				"fileDuration": 240080,
+				"vod": true
+			}, {
+				"id": 18923,
+				"title": "Item Title",
+				"item": "senegal2017\/Samba_Peuzzi___Boy_Ghetto_Official_Directed_by_Ben_B68vB8YJZssY.mp4",
+				"startfrom": 0,
+				"duration": 265358,
+				"fileDuration": 265358,
+				"vod": true
+			}, {
+				"id": 18924,
+				"title": "Item Title",
+				"item": "senegal2017\/Sidiki_Diabatee__Je_suis_deesolee_Clip_OfficielP0eZEhiJoRg.mp4",
+				"startfrom": 0,
+				"duration": 309104,
+				"fileDuration": 309104,
+				"vod": true
+			}, {
+				"id": 18925,
+				"title": "Item Title",
+				"item": "senegal2017\/FATOU_GUEWEL_DIOUF_MBARASSE_PLUS_2017_CLIP_OFFICIELf2BcIPZKbvQ.mp4",
+				"startfrom": 0,
+				"duration": 331720,
+				"fileDuration": 331720,
+				"vod": true
+			}, {
+				"id": 18926,
+				"title": "Item Title",
+				"item": "senegal2017\/Dip_Doundou_guissDamako_kharheA1mPxysHs.mp4",
+				"startfrom": 0,
+				"duration": 263407,
+				"fileDuration": 263407,
+				"vod": true
+			}, {
+				"id": 18927,
+				"title": "Item Title",
+				"item": "senegal2017\/Maabo__Yako_Waral_Round_6bPhr6CfVNU.mp4",
+				"startfrom": 0,
+				"duration": 198716,
+				"fileDuration": 198716,
+				"vod": true
+			}, {
+				"id": 18928,
+				"title": "Item Title",
+				"item": "senegal2017\/VIVIANE_CHIDID_Feat_BANLIEUZART__LON_KELENnpxqlMoZ6Dw.mp4",
+				"startfrom": 0,
+				"duration": 225791,
+				"fileDuration": 225791,
+				"vod": true
+			}, {
+				"id": 18929,
+				"title": "Item Title",
+				"item": "senegal2017\/Viviane_Chidid_Lii_Dafa_Niaw2017IkEvHap5y_E.mp4",
+				"startfrom": 0,
+				"duration": 203082,
+				"fileDuration": 203082,
+				"vod": true
+			}, {
+				"id": 40777,
+				"title": "Item Title",
+				"item": "senegal2017\/Viviane_Chidid_Seeneegal_Ben_BopNouveautee_2017ZgGpJLEBuY.mp4",
+				"startfrom": 0,
+				"duration": 232000,
+				"fileDuration": 232246,
+				"vod": true
+			}],
+			"channel": "musictv",
+			"startTime": 1593624042000,
+			"stopTime": 1593665993679,
+			"priority": 1,
+			"shuffle": false
+		}]
+	}
+}

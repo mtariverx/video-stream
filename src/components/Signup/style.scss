@@ -1,0 +1,9 @@
+.signup-form {
+  .label {
+    display: flex;
+
+    div:nth-of-type(2) {
+      color: brown;
+    }
+  }
+}

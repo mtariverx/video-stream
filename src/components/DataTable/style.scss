@@ -1,0 +1,47 @@
+.panda-data-table {
+  width: 100%;
+
+  table {
+    width: 100%;
+
+    thead {
+      background-color: var(--panda-data-table-header-color);
+
+      th {
+        padding    : 5px;
+        cursor     : pointer;
+        user-select: none;
+        color      : var(--panda-data-table-header-text-color);
+      }
+
+    }
+
+    tbody {
+      tr {
+        border-bottom: 1px solid var(--primary-color);
+        height       : 50px;
+        cursor       : pointer;
+
+        &.active {
+          background-color: var(--primary-color);
+        }
+      }
+
+      td {
+        padding: 5px;
+
+        &.center {
+          text-align: center;
+        }
+
+        &.left {
+          text-align: left;
+        }
+
+        &.right {
+          text-align: right;
+        }
+      }
+    }
+  }
+}

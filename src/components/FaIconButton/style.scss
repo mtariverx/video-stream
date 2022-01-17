@@ -1,0 +1,20 @@
+.panda-fa-icon-button {
+  color    : var(--panda-fa-icon-button-color);
+  font-size: var(--panda-fa-icon-button-size);
+  margin   : 5px;
+  cursor   : pointer;
+  position : relative;
+
+  .badge {
+    position       : absolute;
+    top            : -0.5rem;
+    left           : 0.6rem;
+    width          : 1.5rem;
+    height         : 1.5rem;
+    border         : 1px solid;
+    border-radius  : 50%;
+    display        : flex;
+    justify-content: center;
+    align-items    : center;
+  }
+}

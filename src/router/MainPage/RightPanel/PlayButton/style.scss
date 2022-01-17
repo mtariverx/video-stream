@@ -1,0 +1,23 @@
+.panda-play-button {
+  display         : flex;
+  justify-content : center;
+  background-color: #2EB56A;
+  font-size       : 2rem;
+  color           : white;
+  padding         : 0.5rem;
+  border-radius   : 10px;
+  min-width       : 100px;
+  cursor          : pointer;
+
+  &:hover {
+    background-color: lighten($color: #2EB56A, $amount: 5);
+  }
+
+  &.playing {
+    background-color: #D13E51;
+
+    &:hover {
+      background-color: lighten($color: #D13E51, $amount: 5);
+    }
+  }
+}

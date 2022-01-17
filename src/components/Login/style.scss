@@ -1,0 +1,75 @@
+.login-form,
+.signup-form {
+  display         : flex;
+  flex-direction  : row;
+  border-radius   : 4px;
+  position        : relative;
+  height          : 100%;
+  background-color: white;
+  box-shadow      : 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+  overflow        : hidden;
+
+  &>div {
+    flex: 1;
+  }
+
+  .close-form {
+    position: absolute;
+    right   : 0;
+  }
+
+  .header {
+    display        : flex;
+    font-size      : 2rem;
+    align-items    : flex-end;
+    justify-content: center;
+  }
+
+  .description {
+    // background-color: #CF003E;
+    background-image   : url('/assets/images/login.jpg');
+    background-size    : cover;
+    background-position: center;
+    padding            : 1rem;
+    flex               : 1;
+    display            : flex;
+    justify-content    : center;
+    align-items        : center;
+
+    pre {
+      color      : white;
+      font-size  : 2rem;
+      text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+      user-select: none;
+    }
+  }
+
+  .form-content {
+    display       : flex;
+    flex-direction: column;
+    padding       : 1rem;
+    overflow      : auto;
+    flex          : 1;
+
+    &>div {
+      flex: 1;
+    }
+
+    .remember-part {
+      display        : flex;
+      align-items    : center;
+      justify-content: space-between;
+    }
+
+    .login-button {
+      display        : flex;
+      justify-content: flex-end;
+    }
+  }
+
+  @media (max-width: 649px) {
+    .description {
+      display: none;
+    }
+  }
+}

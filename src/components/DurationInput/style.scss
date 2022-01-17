@@ -1,0 +1,22 @@
+.panda-time-input {
+  display        : flex;
+  border-bottom  : 1px solid var(--panda-time-input-color);
+  max-width      : 7rem;
+  justify-content: center;
+
+  input {
+    width           : 2rem;
+    text-align      : center;
+    border          : none;
+    border          : none;
+    color           : transparent;
+    text-shadow     : 0 0 0 var(--default-font-color);
+    text-align      : center;
+    background-color: transparent;
+
+    &:focus {
+      outline         : none;
+      background-color: var(--panda-time-input-color);
+    }
+  }
+}

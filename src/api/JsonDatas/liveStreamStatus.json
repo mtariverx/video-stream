@@ -1,0 +1,12 @@
+{
+  "id": "5ea43dac3e2c2eab47f9ed85",
+  "application": "acangolive",
+  "stream": "XAZOriN3kmRpVDweF",
+  "status": "online",
+  "protocol": "RTMP",
+  "video_codec": "avc1.64001f",
+  "audio_codec": "mp4a.40.2",
+  "bandwidth": 964000,
+  "resolution": "852x480",
+  "publish_time": 1587821985
+}

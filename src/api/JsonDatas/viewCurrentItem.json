@@ -1,0 +1,766 @@
+{
+	"result": true,
+	"message": "success",
+	"reply": {
+		"status": "success",
+		"scheduleItem": {
+			"id": 27382,
+			"title": "Item Title",
+			"item": "fridaymusic\/pape_faye_SERIGNE_SALIOU_MBACKEwrgkeyCBGk.mp4",
+			"startfrom": 0,
+			"duration": 382851,
+			"fileDuration": 382851,
+			"vod": true
+		},
+		"schedulePlaylist": {
+			"id": 27399,
+			"title": "Plyalist Title",
+			"items": [
+				{
+					"id": 27315,
+					"title": "Item Title",
+					"item": "fridaymusic\/Doudou_kende__au_Grand_Theatre_de_Dakar_1ere_partieBvnt5HjDUE.mp4",
+					"startfrom": 0,
+					"duration": 979046,
+					"fileDuration": 979046,
+					"vod": true
+				},
+				{
+					"id": 27316,
+					"title": "Item Title",
+					"item": "fridaymusic\/Harris_J__My_Hero___Official_Music_Video_TZLQJe9pFM.mp4",
+					"startfrom": 0,
+					"duration": 278449,
+					"fileDuration": 278449,
+					"vod": true
+				},
+				{
+					"id": 27317,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__Ramadan_English___Official_Music_Video3Gt72JjRf0.mp4",
+					"startfrom": 0,
+					"duration": 307508,
+					"fileDuration": 307508,
+					"vod": true
+				},
+				{
+					"id": 27318,
+					"title": "Item Title",
+					"item": "fridaymusic\/Moustapha_Mbaye_Sope_NabicDaeHSM4DLo.mp4",
+					"startfrom": 0,
+					"duration": 368524,
+					"fileDuration": 368524,
+					"vod": true
+				},
+				{
+					"id": 27319,
+					"title": "Item Title",
+					"item": "fridaymusic\/Zakira__YallahFw3dpdVj1s.mp4",
+					"startfrom": 0,
+					"duration": 370804,
+					"fileDuration": 370804,
+					"vod": true
+				},
+				{
+					"id": 27320,
+					"title": "Item Title",
+					"item": "fridaymusic\/FREESTYLE__MIDADI__Clip_Officiel9DAAKp5NsRY.mp4",
+					"startfrom": 0,
+					"duration": 227003,
+					"fileDuration": 227003,
+					"vod": true
+				},
+				{
+					"id": 27321,
+					"title": "Item Title",
+					"item": "fridaymusic\/doudou_kene_mbaye__ala_nabiF7GroCXKL0.mp4",
+					"startfrom": 0,
+					"duration": 1204042,
+					"fileDuration": 1204042,
+					"vod": true
+				},
+				{
+					"id": 27322,
+					"title": "Item Title",
+					"item": "fridaymusic\/EXCLUSIVITE_Mouhamed_NIANG__SANTAL_SANTAL_Temps_fort_Goudik_Serigne_Saliou__Grand_TheeetrekoANpww5D_I.mp4",
+					"startfrom": 0,
+					"duration": 382182,
+					"fileDuration": 382182,
+					"vod": true
+				},
+				{
+					"id": 27323,
+					"title": "Item Title",
+					"item": "fridaymusic\/Sami_Yusuf__Come_See___Ben_Yererem_Yane_Yane4ronY7Z9uE.mp4",
+					"startfrom": 0,
+					"duration": 201997,
+					"fileDuration": 201997,
+					"vod": true
+				},
+				{
+					"id": 27324,
+					"title": "Item Title",
+					"item": "fridaymusic\/Safari__Allah_Clip_OfficielACnq_zv4vps.mp4",
+					"startfrom": 0,
+					"duration": 235596,
+					"fileDuration": 235596,
+					"vod": true
+				},
+				{
+					"id": 27325,
+					"title": "Item Title",
+					"item": "fridaymusic\/Sami_Yusuf__HamziyyalYXljY8WK9M.mp4",
+					"startfrom": 0,
+					"duration": 141915,
+					"fileDuration": 141915,
+					"vod": true
+				},
+				{
+					"id": 27326,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__Neredesin_TurkishTerkee___Official_Music_VideoXSAdgbkPxSQ.mp4",
+					"startfrom": 0,
+					"duration": 345833,
+					"fileDuration": 345833,
+					"vod": true
+				},
+				{
+					"id": 27327,
+					"title": "Item Title",
+					"item": "fridaymusic\/Alioune_Badara_NDIAYE_ZikroulahhsM3y4nvJjE.mp4",
+					"startfrom": 0,
+					"duration": 395722,
+					"fileDuration": 395722,
+					"vod": true
+				},
+				{
+					"id": 27328,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__Samih____________Official_Music_VideoC_xWWQd2zbY.mp4",
+					"startfrom": 0,
+					"duration": 242678,
+					"fileDuration": 242678,
+					"vod": true
+				},
+				{
+					"id": 27329,
+					"title": "Item Title",
+					"item": "fridaymusic\/Doudou_kende_mbaye_Gamou_tivaouane_2011JlX5g6cWa0.mp4",
+					"startfrom": 0,
+					"duration": 416078,
+					"fileDuration": 416078,
+					"vod": true
+				},
+				{
+					"id": 27330,
+					"title": "Item Title",
+					"item": "fridaymusic\/Sami_Yusuf__Ya_Rasul_Allah_Part_INipm5KVLlFU.mp4",
+					"startfrom": 0,
+					"duration": 242202,
+					"fileDuration": 242202,
+					"vod": true
+				},
+				{
+					"id": 27331,
+					"title": "Item Title",
+					"item": "fridaymusic\/Raef__The_Muslim_Christmas_Song_Deck_the_Halls_CoverwIbqcoBuUvI.mp4",
+					"startfrom": 0,
+					"duration": 149648,
+					"fileDuration": 149648,
+					"vod": true
+				},
+				{
+					"id": 27332,
+					"title": "Item Title",
+					"item": "fridaymusic\/Sami_Yusuf__FiyyashiyyaVA0j9BFr7k.mp4",
+					"startfrom": 0,
+					"duration": 214431,
+					"fileDuration": 214431,
+					"vod": true
+				},
+				{
+					"id": 27333,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__Love_Will_Prevail___Official_Music_VideoeoMJJCVBCgo.mp4",
+					"startfrom": 0,
+					"duration": 361239,
+					"fileDuration": 361239,
+					"vod": true
+				},
+				{
+					"id": 27334,
+					"title": "Item Title",
+					"item": "fridaymusic\/________0JKpBIj9TDo.mp4",
+					"startfrom": 0,
+					"duration": 489239,
+					"fileDuration": 489239,
+					"vod": true
+				},
+				{
+					"id": 27335,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__Ya_Nabi___Awakening_Live_At_The_London_ApolloxYlwn3xt9eQ.mp4",
+					"startfrom": 0,
+					"duration": 336882,
+					"fileDuration": 336882,
+					"vod": true
+				},
+				{
+					"id": 27336,
+					"title": "Item Title",
+					"item": "fridaymusic\/DABAKH_MALICKZlIlWmXMlLQ.mp4",
+					"startfrom": 0,
+					"duration": 382392,
+					"fileDuration": 382392,
+					"vod": true
+				},
+				{
+					"id": 27338,
+					"title": "Item Title",
+					"item": "fridaymusic\/Hal_Yadjoud_Ahi_Clip_Officiel_HD__Saida_Binta_THIAMpOY7fZa0hRQ.mp4",
+					"startfrom": 0,
+					"duration": 445127,
+					"fileDuration": 445127,
+					"vod": true
+				},
+				{
+					"id": 27339,
+					"title": "Item Title",
+					"item": "fridaymusic\/Sami_Yusuf__Ya_Rasul_Allah_Part_IIXcikV4gcPzo.mp4",
+					"startfrom": 0,
+					"duration": 129191,
+					"fileDuration": 129191,
+					"vod": true
+				},
+				{
+					"id": 27340,
+					"title": "Item Title",
+					"item": "fridaymusic\/Nouveau_CLIP_NDIOGOU_AFIA_SERIGNE_SALIOUPj1OekD8l8.mp4",
+					"startfrom": 0,
+					"duration": 211093,
+					"fileDuration": 211093,
+					"vod": true
+				},
+				{
+					"id": 27341,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__So_Soon___Vocals_Only__Official_Music_VideoAipW909ybGQ.mp4",
+					"startfrom": 0,
+					"duration": 395111,
+					"fileDuration": 395111,
+					"vod": true
+				},
+				{
+					"id": 27342,
+					"title": "Item Title",
+					"item": "fridaymusic\/Fadal_Gueeye_et_le_goupe_Sop_Nabi2bS_y1SjyPkQ.mp4",
+					"startfrom": 0,
+					"duration": 545530,
+					"fileDuration": 545530,
+					"vod": true
+				},
+				{
+					"id": 27343,
+					"title": "Item Title",
+					"item": "fridaymusic\/Touhfatou_version_2016_par_S._Saliou_Aissew_ZrxiITeOI.mp4",
+					"startfrom": 0,
+					"duration": 557952,
+					"fileDuration": 557952,
+					"vod": true
+				},
+				{
+					"id": 27344,
+					"title": "Item Title",
+					"item": "fridaymusic\/Doudou_Kende_Mbaye_NdokoleU2F_R52PZBs.mp4",
+					"startfrom": 0,
+					"duration": 606121,
+					"fileDuration": 606121,
+					"vod": true
+				},
+				{
+					"id": 27345,
+					"title": "Item Title",
+					"item": "fridaymusic\/CHEIKH_DIOP_MBAYE__THIANT_GUIYH4hIFlYQFQ.mp4",
+					"startfrom": 0,
+					"duration": 1393847,
+					"fileDuration": 1393847,
+					"vod": true
+				},
+				{
+					"id": 27346,
+					"title": "Item Title",
+					"item": "fridaymusic\/Amy_Collee_Dieng__Naby__Clip_OfficielhHuIOp0h1LA.mp4",
+					"startfrom": 0,
+					"duration": 400340,
+					"fileDuration": 400340,
+					"vod": true
+				},
+				{
+					"id": 27348,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__Alhubbu_Yasood__________Official_Music_VideoDFyPB6c4B9k.mp4",
+					"startfrom": 0,
+					"duration": 350117,
+					"fileDuration": 350117,
+					"vod": true
+				},
+				{
+					"id": 27349,
+					"title": "Item Title",
+					"item": "fridaymusic\/ZAKIRA__BAYE_NIASS__Clip_OfficielCP76WjUytlo.mp4",
+					"startfrom": 0,
+					"duration": 239028,
+					"fileDuration": 239028,
+					"vod": true
+				},
+				{
+					"id": 27350,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__Making_Of_Number_One_For_Me_music_videorHUPVG3QNps.mp4",
+					"startfrom": 0,
+					"duration": 792313,
+					"fileDuration": 792313,
+					"vod": true
+				},
+				{
+					"id": 27351,
+					"title": "Item Title",
+					"item": "fridaymusic\/Humood__Kun_Anta___________Music_VideoqKVW_wJs91Q.mp4",
+					"startfrom": 0,
+					"duration": 273990,
+					"fileDuration": 273990,
+					"vod": true
+				},
+				{
+					"id": 27352,
+					"title": "Item Title",
+					"item": "fridaymusic\/Kabir_SENE_Antanouroul_OuyouniPudEa8vSg2Y.mp4",
+					"startfrom": 0,
+					"duration": 1056561,
+					"fileDuration": 1056561,
+					"vod": true
+				},
+				{
+					"id": 27353,
+					"title": "Item Title",
+					"item": "fridaymusic\/Bouleen_Ko_Fatee_Di_Niaanal__Par_Doudou_kendee_Mbaye8_wLr1eLc1U.mp4",
+					"startfrom": 0,
+					"duration": 1179411,
+					"fileDuration": 1179411,
+					"vod": true
+				},
+				{
+					"id": 27354,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__The_Power_____Official_Video_2016IbJ9I_AzNZo.mp4",
+					"startfrom": 0,
+					"duration": 288120,
+					"fileDuration": 288120,
+					"vod": true
+				},
+				{
+					"id": 27355,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__Insha_Allah___Awakening_Live_At_The_London_ApollorgqXYZkYS5c.mp4",
+					"startfrom": 0,
+					"duration": 442672,
+					"fileDuration": 442672,
+					"vod": true
+				},
+				{
+					"id": 27356,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__Mawalaya___Awakening_Live_At_The_London_ApolloGuRUau5ZLlc.mp4",
+					"startfrom": 0,
+					"duration": 332272,
+					"fileDuration": 332272,
+					"vod": true
+				},
+				{
+					"id": 27357,
+					"title": "Item Title",
+					"item": "fridaymusic\/ALIOUNE_BADARA_NDIAYE__THIANT_GUItLfkUmxspE0.mp4",
+					"startfrom": 0,
+					"duration": 1556944,
+					"fileDuration": 1556944,
+					"vod": true
+				},
+				{
+					"id": 27358,
+					"title": "Item Title",
+					"item": "fridaymusic\/Dior_Ouakam___Rassoulilahi_Taague_Yonenti2kc_rBxzZDc.mp4",
+					"startfrom": 0,
+					"duration": 365199,
+					"fileDuration": 365199,
+					"vod": true
+				},
+				{
+					"id": 27359,
+					"title": "Item Title",
+					"item": "fridaymusic\/Raef__So_Real_feat._Maher_Zain___Official_Music_VideoQ4tpqXLr9s.mp4",
+					"startfrom": 0,
+					"duration": 299567,
+					"fileDuration": 299567,
+					"vod": true
+				},
+				{
+					"id": 27360,
+					"title": "Item Title",
+					"item": "fridaymusic\/Ami_Colle__RassoulXhfsc9olCMI.mp4",
+					"startfrom": 0,
+					"duration": 275830,
+					"fileDuration": 275830,
+					"vod": true
+				},
+				{
+					"id": 27361,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain___Peace_Be_Upon_You_________Official_Video_2016pZxFZNRHbZ4.mp4",
+					"startfrom": 0,
+					"duration": 295724,
+					"fileDuration": 295724,
+					"vod": true
+				},
+				{
+					"id": 27362,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__Number_One_For_Me___Awakening_Live_At_The_London_ApollosKI8NN_xErw.mp4",
+					"startfrom": 0,
+					"duration": 335228,
+					"fileDuration": 335228,
+					"vod": true
+				},
+				{
+					"id": 27363,
+					"title": "Item Title",
+					"item": "fridaymusic\/Mishari_Rashid_Alafasy__Video_Clip__________6XhLckQzZ8.mp4",
+					"startfrom": 0,
+					"duration": 291638,
+					"fileDuration": 291638,
+					"vod": true
+				},
+				{
+					"id": 27364,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__For_The_Rest_Of_My_Life___Awakening_Live_At_The_London_ApolloQnZpG__hgGI.mp4",
+					"startfrom": 0,
+					"duration": 373605,
+					"fileDuration": 373605,
+					"vod": true
+				},
+				{
+					"id": 27365,
+					"title": "Item Title",
+					"item": "fridaymusic\/AIDA_SAMB_Sunu_sangueDfRXdbEF4UI.mp4",
+					"startfrom": 0,
+					"duration": 373725,
+					"fileDuration": 373725,
+					"vod": true
+				},
+				{
+					"id": 27366,
+					"title": "Item Title",
+					"item": "fridaymusic\/Doudou_Kende___Fanadjina.S1NU6DJXmxs.mp4",
+					"startfrom": 0,
+					"duration": 527650,
+					"fileDuration": 527650,
+					"vod": true
+				},
+				{
+					"id": 27367,
+					"title": "Item Title",
+					"item": "fridaymusic\/aliou_afia_kazou_rajab_2015ieihFRVd4bw.mp4",
+					"startfrom": 0,
+					"duration": 368292,
+					"fileDuration": 368292,
+					"vod": true
+				},
+				{
+					"id": 27368,
+					"title": "Item Title",
+					"item": "fridaymusic\/Touhfatou__Daahira_Nourou_Daarayni__Nuit_des_Khassaedes__1ere_eedition__24_07_2014o_2Wqey17uM.mp4",
+					"startfrom": 0,
+					"duration": 500320,
+					"fileDuration": 500320,
+					"vod": true
+				},
+				{
+					"id": 27369,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__Mustafa_Ceceli__The_Way_of_Love_Official_Music_Videoe_VtPW1c1_M.mp4",
+					"startfrom": 0,
+					"duration": 277230,
+					"fileDuration": 277230,
+					"vod": true
+				},
+				{
+					"id": 27370,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__Atif_Aslam__Im_Alive_Official_Music_VideoR5YWh45s6I.mp4",
+					"startfrom": 0,
+					"duration": 281816,
+					"fileDuration": 281816,
+					"vod": true
+				},
+				{
+					"id": 27371,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__Forgive_Me___Awakening_Live_At_The_London_Apollo0Q6r5d79H8E.mp4",
+					"startfrom": 0,
+					"duration": 242161,
+					"fileDuration": 242161,
+					"vod": true
+				},
+				{
+					"id": 27372,
+					"title": "Item Title",
+					"item": "fridaymusic\/ALIOUNE_BADARA_NDIAYE___THIANT_DU_27JUILLET_2014mWQ9qhI5mFY.mp4",
+					"startfrom": 0,
+					"duration": 868450,
+					"fileDuration": 868450,
+					"vod": true
+				},
+				{
+					"id": 27373,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__Close_To_You___Official_Music_VideoUpPyph8wbk.mp4",
+					"startfrom": 0,
+					"duration": 240554,
+					"fileDuration": 240554,
+					"vod": true
+				},
+				{
+					"id": 27374,
+					"title": "Item Title",
+					"item": "fridaymusic\/Delou_Ci_YallaajjZTqCgUI.mp4",
+					"startfrom": 0,
+					"duration": 312030,
+					"fileDuration": 312030,
+					"vod": true
+				},
+				{
+					"id": 27375,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__Assalamu_Alayka___Awakening_Live_At_The_London_ApolloKYKfAq3Z7eQ.mp4",
+					"startfrom": 0,
+					"duration": 280283,
+					"fileDuration": 280283,
+					"vod": true
+				},
+				{
+					"id": 27376,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__Ya_Nabi_Salam_Alayka_International_Version___Vocals_Only__Official_Music_VideoD5vsICvAA8U.mp4",
+					"startfrom": 0,
+					"duration": 381406,
+					"fileDuration": 381406,
+					"vod": true
+				},
+				{
+					"id": 27377,
+					"title": "Item Title",
+					"item": "fridaymusic\/Humood__Lughat_AlAalam________WtE2DRRJayg.mp4",
+					"startfrom": 0,
+					"duration": 307334,
+					"fileDuration": 307334,
+					"vod": true
+				},
+				{
+					"id": 27378,
+					"title": "Item Title",
+					"item": "fridaymusic\/Abdoul_Aziz_MBAYE_Inal_manaylamSxyblzfbJI.mp4",
+					"startfrom": 0,
+					"duration": 1928091,
+					"fileDuration": 1928091,
+					"vod": true
+				},
+				{
+					"id": 27379,
+					"title": "Item Title",
+					"item": "fridaymusic\/Sami_Yusuf__Mast_QalandardZEQosTBRKc.mp4",
+					"startfrom": 0,
+					"duration": 253870,
+					"fileDuration": 253870,
+					"vod": true
+				},
+				{
+					"id": 27380,
+					"title": "Item Title",
+					"item": "fridaymusic\/Awa_Koundoul__Mame_Baye92ZOZidXkTU.mp4",
+					"startfrom": 0,
+					"duration": 247241,
+					"fileDuration": 247241,
+					"vod": true
+				},
+				{
+					"id": 27381,
+					"title": "Item Title",
+					"item": "fridaymusic\/______Mishari_Rashid_Al_Afasy__RahmanM3xjz4nxzGQ.mp4",
+					"startfrom": 0,
+					"duration": 275558,
+					"fileDuration": 275558,
+					"vod": true
+				},
+				{
+					"id": 27382,
+					"title": "Item Title",
+					"item": "fridaymusic\/pape_faye_SERIGNE_SALIOU_MBACKEwrgkeyCBGk.mp4",
+					"startfrom": 0,
+					"duration": 382851,
+					"fileDuration": 382851,
+					"vod": true
+				},
+				{
+					"id": 27383,
+					"title": "Item Title",
+					"item": "fridaymusic\/Ya_NabiyallahvNkPq7Ac3Sw.mp4",
+					"startfrom": 0,
+					"duration": 362795,
+					"fileDuration": 362795,
+					"vod": true
+				},
+				{
+					"id": 27384,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__Muhammad_Pbuh_Waheshna___________Official_Music_VideoBiGVVAP3KsQ.mp4",
+					"startfrom": 0,
+					"duration": 350639,
+					"fileDuration": 350639,
+					"vod": true
+				},
+				{
+					"id": 27385,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__Always_Be_There___Awakening_Live_At_The_London_ApolloYrDVAc3vOaQ.mp4",
+					"startfrom": 0,
+					"duration": 360241,
+					"fileDuration": 360241,
+					"vod": true
+				},
+				{
+					"id": 27386,
+					"title": "Item Title",
+					"item": "fridaymusic\/Harris_J__Salam_Alaikum___Official_Music_Videou_McEvEGvI.mp4",
+					"startfrom": 0,
+					"duration": 269358,
+					"fileDuration": 269358,
+					"vod": true
+				},
+				{
+					"id": 27387,
+					"title": "Item Title",
+					"item": "fridaymusic\/ALIOU_AFIA_TAZAWADOU_CHIKHARAhjlUoilW1I.mp4",
+					"startfrom": 0,
+					"duration": 378658,
+					"fileDuration": 378658,
+					"vod": true
+				},
+				{
+					"id": 27388,
+					"title": "Item Title",
+					"item": "fridaymusic\/Doudou_Kend_Mbaye___Nagne_Deem_Ziarree_Mbaye__Serigne_Babacar_Sy__AsfiyahiWEBTVkJfZMbV7IVA.mp4",
+					"startfrom": 0,
+					"duration": 1472795,
+					"fileDuration": 1472795,
+					"vod": true
+				},
+				{
+					"id": 27389,
+					"title": "Item Title",
+					"item": "fridaymusic\/ALIOU_AFIA___MAME_CHEIKH_IBRA_FALL3xJviOD1jzg.mp4",
+					"startfrom": 0,
+					"duration": 389399,
+					"fileDuration": 389399,
+					"vod": true
+				},
+				{
+					"id": 27390,
+					"title": "Item Title",
+					"item": "fridaymusic\/Sami_Yusuf__Tahap7v9FJMiNMk.mp4",
+					"startfrom": 0,
+					"duration": 182434,
+					"fileDuration": 182434,
+					"vod": true
+				},
+				{
+					"id": 27391,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__One_Big_Family___Awakening_Live_At_The_London_ApolloWEaevArj5Ak.mp4",
+					"startfrom": 0,
+					"duration": 289234,
+					"fileDuration": 289234,
+					"vod": true
+				},
+				{
+					"id": 27392,
+					"title": "Item Title",
+					"item": "fridaymusic\/Banda_Sene__Serigne_Fallou_j_FL_46lnI.mp4",
+					"startfrom": 0,
+					"duration": 284521,
+					"fileDuration": 284521,
+					"vod": true
+				},
+				{
+					"id": 27393,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__Insha_Allah_Arabic________Vocals_Only______Official_Music_VideoPjNlq7kkFo0.mp4",
+					"startfrom": 0,
+					"duration": 316606,
+					"fileDuration": 316606,
+					"vod": true
+				},
+				{
+					"id": 27394,
+					"title": "Item Title",
+					"item": "fridaymusic\/Maher_Zain__I_Love_You_So___Awakening_Live_At_The_London_ApolloPRzuQHZ7A34.mp4",
+					"startfrom": 0,
+					"duration": 309011,
+					"fileDuration": 309011,
+					"vod": true
+				},
+				{
+					"id": 27395,
+					"title": "Item Title",
+					"item": "fridaymusic\/Alioune_Badara_Ndiaye_Zikroulah__LAMP_FALLanVRPgXcais.mp4",
+					"startfrom": 0,
+					"duration": 397526,
+					"fileDuration": 397526,
+					"vod": true
+				},
+				{
+					"id": 27396,
+					"title": "Item Title",
+					"item": "fridaymusic\/Harris_J__Good_Life___Official_Music_Videof7TA3TA8HQ.mp4",
+					"startfrom": 0,
+					"duration": 340318,
+					"fileDuration": 340318,
+					"vod": true
+				},
+				{
+					"id": 27397,
+					"title": "Item Title",
+					"item": "fridaymusic\/Irfan_Makki__Allahu___Awakening_Live_At_The_London_ApolloeR4sFmPfY2g.mp4",
+					"startfrom": 0,
+					"duration": 280956,
+					"fileDuration": 280956,
+					"vod": true
+				},
+				{
+					"id": 27398,
+					"title": "Item Title",
+					"item": "fridaymusic\/Sami_Yusuf__River_of_Milk___Inna_Fil_Jannatiuh42mJ24Qw.mp4",
+					"startfrom": 0,
+					"duration": 215476,
+					"fileDuration": 215476,
+					"vod": true
+				}
+			],
+			"channel": "musictv",
+			"startTime": 1587710739000,
+			"stopTime": 1587746693770,
+			"priority": 1,
+			"shuffle": false
+		},
+		"currentTime": 1587739622961
+	}
+}
